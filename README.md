@@ -15,6 +15,7 @@ LeetCode 最强题解（持续更新中）:
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |**暴力** **贪心** 动态规划 分治|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |**模拟**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |**模拟**|
+|[0142.环形链表II.md](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |**模拟**|
 |[0203.移除链表元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0203.移除链表元素.md) |链表 |**模拟** **虚拟头结点**|
 |[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 | **模拟** **递归**|
 |[0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) |数组 | **暴力** **滑动窗口**|
