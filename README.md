@@ -3,9 +3,6 @@
 > ACM亚洲区域赛铜牌获得者，哈工大计算机硕士毕业后，先后在腾讯和百度工作多年，对算法和后端技术有一定的见解，利用工作之余重新刷leetcode   
 > 欢迎关注微信公众号：「代码随想录」，这里将持续分享自己对互联网以及技术的想法与思考
 
-leetcode精选： 
-[精选数组相关的面试题](https://mp.weixin.qq.com/s?__biz=Mzg5MTExMTk2OA==&mid=2247484000&idx=1&sn=48e87c8ca22390ac5e78bcbb45e2052c&chksm=cfd31d2ff8a4943916305f519d963d1c0979f112abd6f613af7bdb7fa6ec3f86e8c93c2e0caa&token=411961669&lang=zh_CN#rd)
-[精选链表相关的面试题]()
 
 LeetCode 最强题解（持续更新中）:
 
@@ -31,4 +28,8 @@ LeetCode 最强题解（持续更新中）:
 |[0705.设计哈希集合.md](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |**模拟**|
 
+Leetcode精选：   
 
+* [精选数组相关的面试题](https://mp.weixin.qq.com/s?__biz=Mzg5MTExMTk2OA==&mid=2247484000&idx=1&sn=48e87c8ca22390ac5e78bcbb45e2052c&chksm=cfd31d2ff8a4943916305f519d963d1c0979f112abd6f613af7bdb7fa6ec3f86e8c93c2e0caa&token=411961669&lang=zh_CN#rd)
+
+* [精选链表相关的面试题]()
