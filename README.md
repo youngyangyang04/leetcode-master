@@ -13,15 +13,17 @@ LeetCode 最强题解（持续更新中）:
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
-|[0142.环形链表II.md](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**模拟**|
+|[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**模拟**|
+|[0202.快乐数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0202.快乐数.md) |哈希表 |简单|**哈希**|
 |[0203.移除链表元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0203.移除链表元素.md) |链表 |简单|**模拟** **虚拟头结点**|
 |[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 |简单| **模拟** **递归**|
 |[0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) |数组 |中等| **暴力** **滑动窗口**|
 |[0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md) | 哈希表 |简单| **哈希** |
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
+|[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md) |哈希表 |简单|**哈希**|
 |[0350.两个数组的交集II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0350.两个数组的交集II.md) |哈希表 |简单|**哈希**|
-|[0383.赎金信](https://github.com/youngyangyang04/leetcode/blob/master/problems/0383.赎金信.md) |数组 |简单|**暴力** **字典计数**|
+|[0383.赎金信](https://github.com/youngyangyang04/leetcode/blob/master/problems/0383.赎金信.md) |数组 |简单|**暴力** **字典计数** **哈希**|
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
 |[0575.分糖果.md](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0705.设计哈希集合.md](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
