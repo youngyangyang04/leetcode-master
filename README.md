@@ -1,6 +1,23 @@
-# leetcode
+# Leetcode精选：   
 
-LeetCode 最强题解（持续更新中）:
+* [leetcode面试高频题目题解](https://github.com/youngyangyang04/leetcode-master)
+* [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/ma615my-adxMNKmzcdYVlg)
+* [一文带你彻底理解程序为什么会超时](https://mp.weixin.qq.com/s/ZLHsvkxppD8QJMBj3njOiw)
+* [一场面试，带你彻底掌握递归算法的时间复杂度](https://mp.weixin.qq.com/s/GOYVzUVrfLUjOrDg21YOAw)
+* [算法分析中的空间复杂度，你真的会了么？](https://mp.weixin.qq.com/s/uU6cn0SYRUbIf5tU2QkcOQ)
+* [二分法其实很简单，为什么老是写不对！！](https://mp.weixin.qq.com/s/mZ87E2vdvqhbv55uYpdrAQ)
+* [程序员算法面试中，必须掌握的数组理论知识](https://mp.weixin.qq.com/s/hgSxlgs12IQPUvG0BQukBg)
+* [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/tMgABUtR1Ydv330NogS3Jg)
+* [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/UnuQIRZSn_i2G4VhTWK5CQ)
+* 精选链表相关的面试题
+* 精选哈希表相关的面试题
+* 精选字符串相关的面试题
+* 精选栈与队列相关的面试题
+* 精选二叉树相关的面试题
+* 精选递归与回溯面试题
+
+
+# LeetCode 最强题解:
 
 |题目 | 类型 | 难度 | 解题方法 |
 |---|---| ---| --- |
@@ -28,8 +45,10 @@ LeetCode 最强题解（持续更新中）:
 |[0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md) | 队列 |简单| **队列** |
 |[0232.用栈实现队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0232.用栈实现队列.md) | 栈 |简单| **栈** |
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
+|[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
+|[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
 |[0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md) |哈希表 |简单|**哈希**|
 |[0350.两个数组的交集II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0350.两个数组的交集II.md) |哈希表 |简单|**哈希**|
 |[0383.赎金信](https://github.com/youngyangyang04/leetcode/blob/master/problems/0383.赎金信.md) |数组 |简单|**暴力** **字典计数** **哈希**|
@@ -41,15 +60,18 @@ LeetCode 最强题解（持续更新中）:
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |栈 |简单|**栈**|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 
-Leetcode精选：   
-
-* [精选数组相关的面试题](https://mp.weixin.qq.com/s?__biz=Mzg5MTExMTk2OA==&mid=2247484000&idx=1&sn=48e87c8ca22390ac5e78bcbb45e2052c&chksm=cfd31d2ff8a4943916305f519d963d1c0979f112abd6f613af7bdb7fa6ec3f86e8c93c2e0caa&token=411961669&lang=zh_CN#rd)
-
-* [精选链表相关的面试题]()
-
 持续更新中....
 
 > 笔者介绍:    
 > ACM亚洲区域赛铜牌获得者，哈工大计算机硕士毕业后，先后在腾讯和百度工作多年，对算法和后端技术有一定的见解，利用工作之余重新刷leetcode   
-> 欢迎关注微信公众号：「代码随想录」，这里将持续分享自己对互联网以及技术的想法与思考
+> 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复： 「简历模板」「java」「C++」「python」「算法与数据结构」 等关键字就可以获得我多年整理出来的学习资料。
+
+# 联系我
+
+<a name="微信"></a>
+<img src="https://img-blog.csdnimg.cn/20200712232919673.jpeg" data-img="1" width="175" height="175">
+
+# 我的公众号
+<a name="公众号"></a>
+<img src="https://img-blog.csdnimg.cn/20200323202104335.jpg" data-img="1" width="200" height="200">
 
