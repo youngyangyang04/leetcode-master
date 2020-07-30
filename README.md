@@ -1,6 +1,6 @@
 # 算法面试思维导图:
 
-![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
+![算法面试知识大纲](https://img-blog.csdnimg.cn/2020073016244490.png)
 
 # 算法文章精选：   
 
@@ -39,7 +39,10 @@
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
 |[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md) |树 |中等|**递归** **迭代/栈**|
-|[0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md) |树 |简单|**递归** **迭代/栈**|
+|[0100.相同的树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0100.相同的树.md) |树 |简单|**递归** |
+|[0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md) |树 |简单|**递归** **迭代/队列/栈**|
+|[0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md) |树 |简单|**递归** **队列/BFS**|
+|[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |树 |简单|**递归**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
