@@ -12,8 +12,8 @@
 * [程序员算法面试中，必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
+* [精选哈希表相关的面试题](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
 * 精选链表相关的面试题
-* 精选哈希表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
 * 精选二叉树相关的面试题
@@ -23,6 +23,8 @@
 
 
 # LeetCode 最强题解:
+
+刷题顺序：建议先从同一类型里题目开始刷起，同一类型里再从简单到中等到困难刷起，题型顺序建议：数组-> 链表-> 哈希表->字符串->栈与队列->树
 
 |题目 | 类型 | 难度 | 解题方法 |
 |---|---| ---| --- |
@@ -71,6 +73,7 @@
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
 |[0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md) |树 |中等|**递归**|
+|[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |树 |简单|**递归**|
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |中等|**模拟**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |栈 |简单|**栈**|
