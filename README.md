@@ -77,6 +77,157 @@
 
 （待补充.....）
 
+# 算法模板 
+
+## 二分法 
+（待补充....）
+
+## KMP
+
+（待补充....）
+
+## 二叉树 
+
+### 深度优先遍历（递归） 
+
+前序遍历（中左右）
+```
+void traversal(TreeNode* cur, vector<int>& vec) {
+    if (cur == NULL) return;
+    vec.push_back(cur->val);    // 中 ，同时也是处理节点逻辑的地方
+    traversal(cur->left, vec);  // 左
+    traversal(cur->right, vec); // 右
+}
+```
+中序遍历（左中右）
+```
+void traversal(TreeNode* cur, vector<int>& vec) {
+    if (cur == NULL) return;
+    traversal(cur->left, vec);  // 左
+    vec.push_back(cur->val);    // 中 ，同时也是处理节点逻辑的地方
+    traversal(cur->right, vec); // 右
+}
+```
+中序遍历（中左右）
+```
+void traversal(TreeNode* cur, vector<int>& vec) {
+    if (cur == NULL) return;
+    vec.push_back(cur->val);    // 中 ，同时也是处理节点逻辑的地方
+    traversal(cur->left, vec);  // 左
+    traversal(cur->right, vec); // 右
+}
+```
+
+### 深度优先遍历：迭代法（使用栈模拟递归）
+
+相关题解：[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md)
+
+前序遍历（中左右）
+```
+vector<int> preorderTraversal(TreeNode* root) {
+    vector<int> result;
+    stack<TreeNode*> st;
+    if (root != NULL) st.push(root);
+    while (!st.empty()) {
+        TreeNode* node = st.top();
+        if (node != NULL) {
+            st.pop();
+            if (node->right) st.push(node->right);  // 右
+            if (node->left) st.push(node->left);    // 左
+            st.push(node);                          // 中
+            st.push(NULL);                          
+        } else {
+            st.pop();
+            node = st.top();
+            st.pop();
+            result.push_back(node->val);            // 节点处理逻辑
+        }
+    }
+    return result;
+}
+
+```
+
+中序遍历（左中右）
+```
+vector<int> inorderTraversal(TreeNode* root) {
+    vector<int> result; // 存放中序遍历的元素
+    stack<TreeNode*> st;
+    if (root != NULL) st.push(root);
+    while (!st.empty()) {
+        TreeNode* node = st.top();
+        if (node != NULL) {
+            st.pop(); 
+            if (node->right) st.push(node->right);  // 右
+            st.push(node);                          // 中
+            st.push(NULL); 
+            if (node->left) st.push(node->left);    // 左
+        } else {
+            st.pop(); 
+            node = st.top(); 
+            st.pop();
+            result.push_back(node->val);            // 节点处理逻辑
+        }
+    }
+    return result;
+}
+```
+
+后序遍历（左右中）
+```
+vector<int> postorderTraversal(TreeNode* root) {
+    vector<int> result;
+    stack<TreeNode*> st;
+    if (root != NULL) st.push(root);
+    while (!st.empty()) {
+        TreeNode* node = st.top();
+        if (node != NULL) {
+            st.pop();
+            st.push(node);                          // 中
+            st.push(NULL);
+            if (node->right) st.push(node->right);  // 右
+            if (node->left) st.push(node->left);    // 左
+
+        } else {
+            st.pop();
+            node = st.top();
+            st.pop();
+            result.push_back(node->val);            // 节点处理逻辑
+        }
+    }
+    return result;
+}
+```
+### 广度优先遍历（队列）
+
+相关题解：[0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
+
+```
+vector<vector<int>> levelOrder(TreeNode* root) {
+    queue<TreeNode*> que;
+    if (root != NULL) que.push(root);
+    vector<vector<int>> result;
+    while (!que.empty()) {
+        int size = que.size();
+        vector<int> vec;
+        for (int i = 0; i < size; i++) {// 这里一定要使用固定大小size，不要使用que.size()
+            TreeNode* node = que.front();
+            que.pop();
+            vec.push_back(node->val);   // 节点处理的逻辑
+            if (node->left) que.push(node->left);
+            if (node->right) que.push(node->right);
+        }
+        result.push_back(vec);
+    }
+    return result;
+}
+
+```
+
+### 二叉树深度
+
+### 二叉树节点数量
+
 # LeetCode 最强题解:
 
 |题目 | 类型 | 难度 | 解题方法 |
