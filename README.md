@@ -74,17 +74,52 @@
 
 * 二叉树经典题目 
 
-
-（待补充.....）
+（补充ing）
 
 # 算法模板 
 
-## 二分法 
-（待补充....）
+## 二分查找法 
+
+```
+class Solution {
+public:
+    int searchInsert(vector<int>& nums, int target) {
+        int n = nums.size();
+        int left = 0;
+        int right = n; // 我们定义target在左闭右开的区间里，[left, right)  
+        while (left < right) { // 因为left == right的时候，在[left, right)是无效的空间
+            int middle = left + ((right - left) >> 1);
+            if (nums[middle] > target) {
+                right = middle; // target 在左区间，因为是左闭右开的区间，nums[middle]一定不是我们的目标值，所以right = middle，在[left, middle)中继续寻找目标值
+            } else if (nums[middle] < target) {
+                left = middle + 1; // target 在右区间，在 [middle+1, right)中
+            } else { // nums[middle] == target
+                return middle; // 数组中找到目标值的情况，直接返回下标
+            }
+        }
+        return right;
+    }
+};
+
+```
 
 ## KMP
 
-（待补充....）
+```
+void kmp(int* next, const string& s){
+    next[0] = -1;
+    int j = -1;
+    for(int i = 1; i < s.size(); i++){
+        while (j >= 0 && s[i] != s[j + 1]) {
+            j = next[j];
+        }
+        if (s[i] == s[j + 1]) {
+            j++;
+        }
+        next[i] = j;
+    }
+}
+```
 
 ## 二叉树 
 
@@ -226,7 +261,23 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 
 ### 二叉树深度
 
+```
+int getDepth(TreeNode* node) {
+    if (node == NULL) return 0;
+    return 1 + max(getDepth(node->left), getDepth(node->right));
+}
+```
+（补充ing）
+
 ### 二叉树节点数量
+
+```
+int countNodes(TreeNode* root) {
+    if (root == NULL) return 0;
+    return 1 + countNodes(root->left) + countNodes(root->right);
+}
+```
+
 
 # LeetCode 最强题解:
 
