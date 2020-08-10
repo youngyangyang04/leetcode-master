@@ -15,6 +15,8 @@
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [这六道哈希表相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
+* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
+* [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](https://leetcode-cn.com/circle/article/E1Kjzn/)
 * 精选链表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
