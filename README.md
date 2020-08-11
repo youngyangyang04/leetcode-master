@@ -1,8 +1,12 @@
-Table of contents
+目录：
 =================
 
-* [算法面试思维导图](#算法面试思维导图)
-* [算法文章精选](#算法文章精选)
+* [算法面试思维导图](#算法面试思维导图：)
+* [算法文章精选](#算法文章精选：)
+* [LeetCode 刷题攻略](#LeetCode 刷题攻略：) 
+* [算法模板](#算法模板)
+* [LeetCode 最强题解](#LeetCode 最强题解:)
+* [关于作者](#关于作者)
 
 # 算法面试思维导图:
 
@@ -172,7 +176,7 @@ void traversal(TreeNode* cur, vector<int>& vec) {
 }
 ```
 
-### 深度优先遍历：迭代法（使用栈模拟递归）
+### 深度优先遍历（迭代法）
 
 相关题解：[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md)
 
