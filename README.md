@@ -1,6 +1,6 @@
 # 算法面试思维导图:
 
-![算法面试知识大纲](https://img-blog.csdnimg.cn/2020073016244490.png)
+![算法面试知识大纲](https://img-blog.csdnimg.cn/20200810145343521.png)
 
 # 算法文章精选：   
 
@@ -124,6 +124,17 @@ void kmp(int* next, const string& s){
 ```
 
 ## 二叉树 
+
+二叉树的定义：
+
+```
+struct TreeNode {
+    int val;
+    TreeNode *left;
+    TreeNode *right;
+    TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+};
+```
 
 ### 深度优先遍历（递归） 
 
@@ -260,6 +271,15 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 }
 
 ```
+
+可以直接解决如下题目：
+
+* [0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
+* [0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md)
+* [0104.二叉树的最大深度 （迭代法的版本）](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
+
+* 0111.二叉树的最小深度（迭代法的版本）
+* 0222.完全二叉树的节点个数（迭代法的版本）
 
 ### 二叉树深度
 
