@@ -86,7 +86,7 @@
 
 * 二叉树经典题目 
 
-（补充ing）
+（持续补充ing）
 
 # 算法模板 
 
@@ -286,10 +286,10 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 
 * [0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
 * [0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md)
-* [0104.二叉树的最大深度 （迭代法的版本）](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
+* [0104.二叉树的最大深度 （迭代法）](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
 
-* 0111.二叉树的最小深度（迭代法的版本）
-* 0222.完全二叉树的节点个数（迭代法的版本）
+* [0111.二叉树的最小深度（迭代法）]((https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md))
+* [0222.完全二叉树的节点个数（迭代法）](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md)
 
 ### 二叉树深度
 
@@ -299,7 +299,6 @@ int getDepth(TreeNode* node) {
     return 1 + max(getDepth(node->left), getDepth(node->right));
 }
 ```
-（补充ing）
 
 ### 二叉树节点数量
 
@@ -310,6 +309,7 @@ int countNodes(TreeNode* root) {
 }
 ```
 
+（持续补充ing）
 
 # LeetCode 最强题解:
 
