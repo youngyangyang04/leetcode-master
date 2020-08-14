@@ -14,7 +14,8 @@
 
 # 算法文章精选
 
-* [简历模板](https://github.com/youngyangyang04/Markdown-Resume-Template)
+* [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
+* [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
 * [一线互联网公司技术面试的流程以及注意事项](https://mp.weixin.qq.com/s/1VMvQ_6HbVpEn85CNilTiw)
 * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
 * [一文带你彻底理解程序为什么会超时](https://mp.weixin.qq.com/s/T-vcJSkq2-0s0bBB-itWbQ)
@@ -85,6 +86,23 @@
     * [0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md)
 
 * 二叉树经典题目 
+    * [0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md)
+    * [0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md)
+    * [0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md)
+    * [0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
+    * [0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md)
+    * [0226.翻转二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0226.翻转二叉树.md)
+    * [0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md)
+    * [0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
+    * [0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md)
+    * [0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md)
+    * [0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md)
+    * [0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md)
+    * [0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md)
+    * [0098.验证二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0098.验证二叉搜索树.md)
+    * [0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md)
+    * [0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md)
+
 
 （持续补充ing）
 
@@ -349,6 +367,7 @@ int countNodes(TreeNode* root) {
 |[0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md) | 哈希表 |简单| **哈希** |
 |[0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md) | 树 |简单| **递归** |
 |[0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md) | 队列 |简单| **队列** |
+|[0226.翻转二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0226.翻转二叉树.md) |二叉树 |简单| **递归** **迭代**|
 |[0232.用栈实现队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0232.用栈实现队列.md) | 栈 |简单| **栈** |
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
