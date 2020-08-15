@@ -362,7 +362,7 @@ int countNodes(TreeNode* root) {
 |[0202.快乐数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0202.快乐数.md) |哈希表 |简单|**哈希**|
 |[0203.移除链表元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0203.移除链表元素.md) |链表 |简单|**模拟** **虚拟头结点**|
 |[0205.同构字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0205.同构字符串.md) |哈希表 |简单| **哈希**|
-|[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 |简单| **模拟** **递归**|
+|[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 |简单| **双指针法** **递归**|
 |[0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) |数组 |中等| **暴力** **滑动窗口**|
 |[0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md) | 哈希表 |简单| **哈希** |
 |[0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md) | 树 |简单| **递归** |
