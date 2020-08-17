@@ -338,8 +338,8 @@ int countNodes(TreeNode* root) {
 |[0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md) | 数组 |中等|**双指针**| 
 |[0020.有效的括号](https://github.com/youngyangyang04/leetcode/blob/master/problems/0020.有效的括号.md) | 栈 |简单|**栈**| 
 |[0021.合并两个有序链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0021.合并两个有序链表.md)  |链表 |简单|**模拟** |
-|[0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)  |数组 |简单|**暴力** **快慢指针** |
-|[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **快慢指针/双指针**|
+|[0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)  |数组 |简单|**暴力** **快慢指针/快慢指针** |
+|[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
