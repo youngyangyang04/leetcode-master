@@ -26,8 +26,8 @@
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [这六道哈希表相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
-* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
 * [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](https://leetcode-cn.com/circle/article/E1Kjzn/)
+* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
 * [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
 * [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
 * [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
@@ -349,6 +349,8 @@ int countNodes(TreeNode* root) {
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
+|[0046.全排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0046.全排列.md) |回溯|中等| **回溯**|
+|[0047.全排列II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0047.全排列II.md) |回溯|中等| **回溯**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
