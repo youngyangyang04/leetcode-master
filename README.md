@@ -349,10 +349,14 @@ int countNodes(TreeNode* root) {
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
+|[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
+|[0040.组合总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0040.组合总和II.md) |数组/回溯 |中等| **回溯**|
 |[0046.全排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0046.全排列.md) |回溯|中等| **回溯**|
 |[0047.全排列II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0047.全排列II.md) |回溯|中等| **回溯**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
+|[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
+|[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
 |[0093.复原IP地址](https://github.com/youngyangyang04/leetcode/blob/master/problems/0093.复原IP地址) |回溯 |中等|**回溯**|
 |[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md) |树 |中等|**递归** **迭代/栈**|
@@ -375,6 +379,7 @@ int countNodes(TreeNode* root) {
 |[0205.同构字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0205.同构字符串.md) |哈希表 |简单| **哈希**|
 |[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 |简单| **双指针法** **递归**|
 |[0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) |数组 |中等| **暴力** **滑动窗口**|
+|[0216.组合总和III](https://github.com/youngyangyang04/leetcode/blob/master/problems/0216.组合总和III.md) |数组/回溯 |中等| **回溯**|
 |[0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md) | 哈希表 |简单| **哈希** |
 |[0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md) | 树 |简单| **递归** |
 |[0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md) | 队列 |简单| **队列** |
