@@ -353,11 +353,13 @@ int countNodes(TreeNode* root) {
 |[0040.组合总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0040.组合总和II.md) |数组/回溯 |中等| **回溯**|
 |[0046.全排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0046.全排列.md) |回溯|中等| **回溯**|
 |[0047.全排列II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0047.全排列II.md) |回溯|中等| **回溯**|
+|[0051.N皇后](https://github.com/youngyangyang04/leetcode/blob/master/problems/0051.N皇后.md) |回溯|中等| **回溯**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
 |[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
+|[0090.子集II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0090.子集II.md) |回溯/数组 |中等|**回溯**|
 |[0093.复原IP地址](https://github.com/youngyangyang04/leetcode/blob/master/problems/0093.复原IP地址) |回溯 |中等|**回溯**|
 |[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0098.验证二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0098.验证二叉搜索树.md) |树 |中等|**递归**|
@@ -414,7 +416,9 @@ int countNodes(TreeNode* root) {
 
 大家好，我是程序员Carl，ACM区域赛铜牌获得者，哈工大计算机硕士毕业，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
 
-我的微信：
+**加我的微信，备注：组队刷题**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。
+
+我也花了不少精力来整理我的题解，而且我不会发广告，纯自己学习和分享。 欢迎你的加入！
 
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200712232919673.jpeg" data-img="1" width="175" height="175">
