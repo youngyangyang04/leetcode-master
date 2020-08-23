@@ -24,7 +24,6 @@
 * [二分法其实很简单，为什么老是写不对！！](https://mp.weixin.qq.com/s/ICdahBRWbbEeEWHKjC8Alw)
 * [程序员算法面试中，必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
 * [这五道数组相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/vdKHt2vFSZEouZASjdWieg)
-* [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [这六道哈希表相关的面试题，你一定要会！](https://mp.weixin.qq.com/s/nxuWv5cUhCPSbAdIHtWgSg)
 * [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](https://leetcode-cn.com/circle/article/E1Kjzn/)
 * [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
@@ -32,7 +31,13 @@
 * [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
 * [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
 * [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
+* [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
+* [哈希表：哈希值太大了，还是得用set](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
+* [哈希表：今天你快乐了么？](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
+* [哈希表：map等候多时了](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
+* [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
+* [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
 * 精选链表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
@@ -62,13 +67,13 @@
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
 
 * 哈希表经典题目
-    * [0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md)
-    * [0383.赎金信](https://github.com/youngyangyang04/leetcode/blob/master/problems/0383.赎金信.md)
+    * [0242.有效的字母异位词](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
+    * [0383.赎金信](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
     * [0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md)
     * [0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md)
-    * [0202.快乐数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0202.快乐数.md)
-    * [0001.两数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0001.两数之和.md)
-    * [0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md)
+    * [0202.快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
+    * [0001.两数之和](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
+    * [0454.四数相加II](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
     * [0015.三数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0015.三数之和.md)
     * [0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md)
     * [0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md)
