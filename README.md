@@ -39,6 +39,7 @@
 * [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
 * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
 * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
+* [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
 * 精选链表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
@@ -65,18 +66,19 @@
     * [0203.移除链表元素](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
     * [0707.设计链表](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
+    * [面试题02.07.链表相交](https://github.com/youngyangyang04/leetcode/blob/master/problems/面试题02.07.链表相交.md) 
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
 
 * 哈希表经典题目
     * [0242.有效的字母异位词](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
     * [0383.赎金信](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
     * [0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md)
-    * [0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md)
+    * [0349.两个数组的交集](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
     * [0202.快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
     * [0001.两数之和](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
     * [0454.四数相加II](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
-    * [0015.三数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0015.三数之和.md)
-    * [0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md)
+    * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
+    * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md)
     * 0220.存在重复元素III 
 
@@ -88,6 +90,15 @@
     * 延伸左旋转字符串（剑指offer上的题目）
     * [0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)
     * [0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md)
+
+* 双指针法经典题目
+    * [0015.三数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0015.三数之和.md) 
+    * [0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md) 
+    * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
+    * [0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) 
+    * [0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) 
+    * [0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) 
+    * [剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) 
 
 * 栈与队列经典题目
     * [0232.用栈实现队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0232.用栈实现队列.md)
