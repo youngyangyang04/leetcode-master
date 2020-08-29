@@ -40,6 +40,8 @@
 * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
 * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
 * [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
+* [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
+* [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
 * 精选链表相关的面试题
 * 精选字符串相关的面试题
 * 精选栈与队列相关的面试题
@@ -82,6 +84,10 @@
     * [0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md)
     * 0220.存在重复元素III 
 
+* 循环不变量原则
+    * [0035.搜索插入位置](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) 
+    * [0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md)
+
 * 字符串经典题目
     * [0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md)
     * [0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md)
@@ -92,11 +98,12 @@
     * [0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md)
 
 * 双指针法经典题目
-    * [0015.三数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0015.三数之和.md) 
-    * [0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md) 
+    * [0027.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+    * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
+    * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
-    * [0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) 
-    * [0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) 
+    * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
+    * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) 
     * [剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) 
 
@@ -400,7 +407,7 @@ int countNodes(TreeNode* root) {
 |[0205.同构字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0205.同构字符串.md) |哈希表 |简单| **哈希**|
 |[0206.翻转链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0206.翻转链表.md) |链表 |简单| **双指针法** **递归**|
 |[0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md) |数组 |中等| **暴力** **滑动窗口**|
-|[0216.组合总和III](https://github.com/youngyangyang04/leetcode/blob/master/problems/0216.组合总和III.md) |数组/回溯 |中等| **回溯**|
+|[0216.组合总和III](https://github.com/youngyangyang04/leetcode/blob/master/problems/0216.组合总和III.md) |数组/回溯 |中等| **回溯算法**|
 |[0219.存在重复元素II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0219.存在重复元素II.md) | 哈希表 |简单| **哈希** |
 |[0222.完全二叉树的节点个数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0222.完全二叉树的节点个数.md) | 树 |简单| **递归** |
 |[0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md) | 队列 |简单| **队列** |
@@ -409,6 +416,7 @@ int countNodes(TreeNode* root) {
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
+|[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
 |[0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md) |哈希表 |简单|**哈希**|
@@ -418,7 +426,7 @@ int countNodes(TreeNode* root) {
 |[0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md) |树 |中等|**递归**|
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
-|[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯**|
+|[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
