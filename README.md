@@ -47,12 +47,7 @@
 * [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
 * [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
 * [字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
-* 精选链表相关的面试题
-* 精选字符串相关的面试题
-* 精选栈与队列相关的面试题
-* 精选二叉树相关的面试题
-* 精选递归与回溯面试题
-
+* [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
 
 （持续更新中....）
 
