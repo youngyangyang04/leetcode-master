@@ -40,6 +40,7 @@
 * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
 * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
 * [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
+* [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
 * [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
 * [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
 * [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
@@ -331,22 +332,6 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 
 ```
 
-## 回溯算法 
-
-```
-backtracking() {
-    if (终止条件) {
-        存放结果;
-    }
-
-    for (选择：选择列表（可以想成树中节点孩子的数量）) {
-        递归，处理节点;
-        backtracking();
-        回溯，撤销处理结果
-    }
-}
-
-```
 
 
 可以直接解决如下题目：
@@ -374,6 +359,23 @@ int countNodes(TreeNode* root) {
     if (root == NULL) return 0;
     return 1 + countNodes(root->left) + countNodes(root->right);
 }
+```
+
+## 回溯算法 
+
+```
+backtracking() {
+    if (终止条件) {
+        存放结果;
+    }
+
+    for (选择：选择列表（可以想成树中节点孩子的数量）) {
+        递归，处理节点;
+        backtracking();
+        回溯，撤销处理结果
+    }
+}
+
 ```
 
 （持续补充ing）
@@ -435,6 +437,7 @@ int countNodes(TreeNode* root) {
 |[0237.删除链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0237.删除链表中的节点.md) |链表 |简单| **原链表移除** **添加虚拟节点** 递归|
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
+|[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
