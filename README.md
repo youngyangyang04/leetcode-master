@@ -50,8 +50,11 @@
 * [字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
 * [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
 * [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
+* [字符串：反转个字符串还有这个用处？](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
 * [字符串：KMP是时候上场了（一文读懂系列）](https://mp.weixin.qq.com/s/70OXnZ4Ez29CKRrUpVJmug)
 * [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
+* [字符串：听说你对KMP有这些疑问？](https://mp.weixin.qq.com/s/mqx6IM2AO4kLZwvXdPtEeQ)
+* [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
 
 （持续更新中....）
 
