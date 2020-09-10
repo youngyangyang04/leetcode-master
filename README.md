@@ -55,6 +55,7 @@
 * [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
 * [字符串：听说你对KMP有这些疑问？](https://mp.weixin.qq.com/s/mqx6IM2AO4kLZwvXdPtEeQ)
 * [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
+* [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
 
 （持续更新中....）
 
