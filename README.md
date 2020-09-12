@@ -56,6 +56,8 @@
 * [字符串：听说你对KMP有这些疑问？](https://mp.weixin.qq.com/s/mqx6IM2AO4kLZwvXdPtEeQ)
 * [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
 * [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
+* [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
+* [栈与队列：来看看栈和队列不为人知的一面](https://mp.weixin.qq.com/s/VZRjOccyE09aE-MgLbCMjQ)
 
 （持续更新中....）
 
@@ -66,11 +68,11 @@
 这里我总结了各个类型的经典题目，**初学者可以按照如下顺序来刷题**，算法老手可以按照这个list查缺补漏！
 
 * 数组经典题目
-    * [0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md)
-    * [0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)
+    * [0035.搜索插入位置](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
+    * [0027.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)
-    * [0209.长度最小的子数组](https://github.com/youngyangyang04/leetcode/blob/master/problems/0209.长度最小的子数组.md)
-    * [0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md)
+    * [0209.长度最小的子数组](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
+    * [0059.螺旋矩阵II](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
 
 * 链表经典题目 
     * [0203.移除链表元素](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
@@ -94,16 +96,16 @@
 
 * 循环不变量原则
     * [0035.搜索插入位置](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q) 
-    * [0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md)
+    * [0059.螺旋矩阵II](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
 
 * 字符串经典题目
-    * [0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md)
-    * [0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md)
-    * [剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md)
-    * [0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md)
-    * 延伸左旋转字符串（剑指offer上的题目）
-    * [0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)
-    * [0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md)
+    * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
+    * [0541.反转字符串II](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
+    * [剑指Offer05.替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
+    * [0151.翻转字符串里的单词](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
+    * [剑指Offer58-II.左旋转字符串](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
+    * [0028.实现strStr()](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
+    * [0459.重复的子字符串](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
 
 * 双指针法经典题目
     * [0027.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
@@ -113,7 +115,7 @@
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
-    * [剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) 
+    * [剑指Offer05.替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg) 
 
 * 栈与队列经典题目
     * [0232.用栈实现队列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0232.用栈实现队列.md)
@@ -420,6 +422,7 @@ backtracking() {
 |[0101.对称二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0101.对称二叉树.md) |树 |简单|**递归** **迭代/队列/栈**|
 |[0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md) |树 |中等|**广度优先搜索/队列**|
 |[0104.二叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md) |树 |简单|**递归** **迭代/队列/BFS**|
+|[0107.二叉树的层次遍历II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0107.二叉树的层次遍历II.md) |树 |简单|**广度优先搜索/队列/BFS**|
 |[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |树 |简单|**递归**|
 |[0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md) |树 |简单|**递归** **队列/BFS**|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
