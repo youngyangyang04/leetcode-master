@@ -58,6 +58,7 @@
 * [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
 * [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
 * [栈与队列：来看看栈和队列不为人知的一面](https://mp.weixin.qq.com/s/VZRjOccyE09aE-MgLbCMjQ)
+* [栈与队列：我用栈来实现队列怎么样？](https://mp.weixin.qq.com/s/P6tupDwRFi6Ay-L7DT4NVg)
 
 （持续更新中....）
 
