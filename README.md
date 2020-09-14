@@ -347,6 +347,7 @@ vector<vector<int>> levelOrder(TreeNode* root) {
 
 * [0102.二叉树的层序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0102.二叉树的层序遍历.md)
 * [0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md)
+* [0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md) 
 * [0104.二叉树的最大深度 （迭代法）](https://github.com/youngyangyang04/leetcode/blob/master/problems/0104.二叉树的最大深度.md)
 
 * [0111.二叉树的最小深度（迭代法）]((https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md))
@@ -463,6 +464,7 @@ backtracking() {
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
+|[0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md) |树 |简单|**广度优先搜索/队列**|
 |[0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md) |树 |中等|**递归**|
 |[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |树 |简单|**递归** **迭代**|
 |[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |树 |简单|**递归** **迭代**|
