@@ -59,6 +59,9 @@
 * [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
 * [栈与队列：来看看栈和队列不为人知的一面](https://mp.weixin.qq.com/s/VZRjOccyE09aE-MgLbCMjQ)
 * [栈与队列：我用栈来实现队列怎么样？](https://mp.weixin.qq.com/s/P6tupDwRFi6Ay-L7DT4NVg)
+* [栈与队列：用队列实现栈还有点别扭](https://mp.weixin.qq.com/s/yzn6ktUlL-vRG3-m5a8_Yw)
+* [栈与队列：系统中处处都是栈的应用](https://mp.weixin.qq.com/s/nLlmPMsDCIWSqAtr0jbrpQ)
+* [栈与队列：匹配问题都是栈的强项](https://mp.weixin.qq.com/s/eynAEbUbZoAWrk0ZlEugqg)
 
 （持续更新中....）
 
@@ -475,6 +478,7 @@ backtracking() {
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
 |[剑指Offer58-II.左旋转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer58-II.左旋转字符串.md) |字符串 |简单|**反转操作**|
+|[剑指Offer59-I.滑动窗口的最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer59-I.滑动窗口的最大值.md) |滑动窗口/队列 |困难|**单调队列**|
 |[面试题02.07.链表相交](https://github.com/youngyangyang04/leetcode/blob/master/problems/面试题02.07.链表相交.md) |链表 |简单|**模拟**|
 
 持续更新中....
