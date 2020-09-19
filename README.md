@@ -10,7 +10,7 @@
 
 # 算法面试思维导图
 
-![算法面试知识大纲](https://img-blog.csdnimg.cn/20200811091858722.png)
+![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
 
 # 算法文章精选
 
