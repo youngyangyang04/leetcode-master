@@ -67,6 +67,8 @@
     * [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
     * [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
 
+* [双指针法：总结篇！](https://mp.weixin.qq.com/s/_p7grwjISfMh0U65uOyCjA)
+
 * 栈与队列
     * [栈与队列：来看看栈和队列不为人知的一面](https://mp.weixin.qq.com/s/VZRjOccyE09aE-MgLbCMjQ)
     * [栈与队列：我用栈来实现队列怎么样？](https://mp.weixin.qq.com/s/P6tupDwRFi6Ay-L7DT4NVg)
@@ -76,6 +78,9 @@
     * [栈与队列：有没有想过计算机是如何处理表达式的？](https://mp.weixin.qq.com/s/hneh2nnLT91rR8ms2fm_kw)
     * [栈与队列：滑动窗口里求最大值引出一个重要数据结构](https://mp.weixin.qq.com/s/8c6l2bO74xyMjph09gQtpA)
     * [栈与队列：求前 K 个高频元素和队列有啥关系？](https://mp.weixin.qq.com/s/8hMwxoE_BQRbzCc7CA8rng)
+    * [栈与队列：总结篇！](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)
+* 二叉树 
+    * [关于二叉树，你该了解这些！](https://mp.weixin.qq.com/s/_ymfWYvTNd2GvWvC5HOE4A)
 
 （持续更新中....）
 
@@ -242,6 +247,7 @@
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
+|[0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md) |二叉树 |简单|**递归** **迭代**|
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0617.合并二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0617.合并二叉树.md) |树 |简单|**递归** **迭代**|
