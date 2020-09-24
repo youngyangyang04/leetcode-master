@@ -82,6 +82,8 @@
 
 * 二叉树 
     * [关于二叉树，你该了解这些！](https://mp.weixin.qq.com/s/_ymfWYvTNd2GvWvC5HOE4A)
+    * [二叉树：一入递归深似海，从此offer是路人](https://mp.weixin.qq.com/s/PwVIfxDlT3kRgMASWAMGhA)
+    * [二叉树：听说递归能做的，栈也能做！](https://mp.weixin.qq.com/s/c_zCrGHIVlBjUH_hJtghCg)
 
 （持续更新中....）
 
@@ -214,6 +216,7 @@
 |[0107.二叉树的层次遍历II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0107.二叉树的层次遍历II.md) |树 |简单|**广度优先搜索/队列/BFS**|
 |[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |树 |简单|**递归**|
 |[0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md) |树 |简单|**递归** **队列/BFS**|
+|[0112.路径总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0112.路径总和.md) |树 |简单|**深度优先搜索/递归** **回溯** **栈**|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
