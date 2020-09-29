@@ -87,6 +87,8 @@
     * [二叉树：前中后序迭代方式的写法就不能统一一下么？](https://mp.weixin.qq.com/s/WKg0Ty1_3SZkztpHubZPRg)
     * [二叉树：层序遍历登场！](https://mp.weixin.qq.com/s/Gb3BjakIKGNpup2jYtTzog)
     * [二叉树：你真的会翻转二叉树么？](https://mp.weixin.qq.com/s/6gY1MiXrnm-khAAJiIb5Bg)
+    * [本周小结！（二叉树）](https://mp.weixin.qq.com/s/JWmTeC7aKbBfGx4TY6uwuQ)
+    * [二叉树：我对称么？](https://mp.weixin.qq.com/s/Kgf0gjvlDlNDfKIH2b1Oxg)
 
 （持续更新中....）
 
@@ -282,6 +284,7 @@
 |[0515.在每个树行中找最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0515.在每个树行中找最大值.md) |二叉树 |简单|**广度优先搜索/队列**|
 |[0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md) |二叉树 |简单|**递归** **迭代**|
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
+|[0559.N叉树的最大深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0559.N叉树的最大深度.md) |N叉树 |简单| **递归**|
 |[0575.分糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0575.分糖果.md) |哈希表 |简单|**哈希**|
 |[0589.N叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0589.N叉树的前序遍历.md) |树 |简单|**递归** **栈/迭代**|
 |[0590.N叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0590.N叉树的后序遍历.md) |树 |简单|**递归** **栈/迭代**|
