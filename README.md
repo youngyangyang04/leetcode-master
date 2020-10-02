@@ -284,6 +284,7 @@
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
 |[0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md) |二叉树 |简单|**递归/中序遍历**|
+|[0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) |二叉树 |中等|**递归** **迭代**|
 |[0515.在每个树行中找最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0515.在每个树行中找最大值.md) |二叉树 |简单|**广度优先搜索/队列**|
 |[0538.把二叉搜索树转换为累加树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0538.把二叉搜索树转换为累加树.md) |二叉树 |简单|**递归** **迭代**|
 |[0541.反转字符串II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0541.反转字符串II.md) |字符串 |简单| **模拟**|
