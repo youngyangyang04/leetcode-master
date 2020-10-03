@@ -91,6 +91,8 @@
     * [二叉树：我对称么？](https://mp.weixin.qq.com/s/Kgf0gjvlDlNDfKIH2b1Oxg)
     * [二叉树：看看这些树的最大深度](https://mp.weixin.qq.com/s/guKwV-gSNbA1CcbvkMtHBg)
     * [二叉树：看看这些树的最小深度](https://mp.weixin.qq.com/s/BH8-gPC3_QlqICDg7rGSGA)
+    * [二叉树：我有多少个节点？](https://mp.weixin.qq.com/s/2_eAjzw-D0va9y4RJgSmXw)
+    * [二叉树：我平衡么？](https://mp.weixin.qq.com/s/isUS-0HDYknmC0Rr4R8mww)
  
 
 （持续更新中....）
