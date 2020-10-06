@@ -94,6 +94,7 @@
     * [二叉树：我有多少个节点？](https://mp.weixin.qq.com/s/2_eAjzw-D0va9y4RJgSmXw)
     * [二叉树：我平衡么？](https://mp.weixin.qq.com/s/isUS-0HDYknmC0Rr4R8mww)
     * [二叉树：找我的所有路径？](https://mp.weixin.qq.com/s/Osw4LQD2xVUnCJ-9jrYxJA)
+    * [还在玩耍的你，该总结啦！（本周小结之二叉树）](https://mp.weixin.qq.com/s/QMBUTYnoaNfsVHlUADEzKg)
  
 
 （持续更新中....）
