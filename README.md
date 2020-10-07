@@ -95,6 +95,9 @@
     * [二叉树：我平衡么？](https://mp.weixin.qq.com/s/isUS-0HDYknmC0Rr4R8mww)
     * [二叉树：找我的所有路径？](https://mp.weixin.qq.com/s/Osw4LQD2xVUnCJ-9jrYxJA)
     * [还在玩耍的你，该总结啦！（本周小结之二叉树）](https://mp.weixin.qq.com/s/QMBUTYnoaNfsVHlUADEzKg)
+    * [二叉树：以为使用了递归，其实还隐藏着回溯](https://mp.weixin.qq.com/s/ivLkHzWdhjQQD1rQWe6zWA)
+    * [二叉树：做了这么多题目了，我的左叶子之和是多少？](https://mp.weixin.qq.com/s/gBAgmmFielojU5Wx3wqFTA)
+
  
 
 （持续更新中....）
