@@ -107,6 +107,7 @@
     * [二叉树：以为使用了递归，其实还隐藏着回溯](https://mp.weixin.qq.com/s/ivLkHzWdhjQQD1rQWe6zWA)
     * [二叉树：做了这么多题目了，我的左叶子之和是多少？](https://mp.weixin.qq.com/s/gBAgmmFielojU5Wx3wqFTA)
     * [二叉树：我的左下角的值是多少？](https://mp.weixin.qq.com/s/MH2gbLvzQ91jHPKqiub0Nw)
+    * [二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/7r66ap2s-shvVvlZxo59xg)
 
  
 
@@ -264,6 +265,7 @@
 |[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**广度优先搜索**|
 |[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**广度优先搜索**|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
+|[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
