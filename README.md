@@ -107,7 +107,9 @@
     * [二叉树：以为使用了递归，其实还隐藏着回溯](https://mp.weixin.qq.com/s/ivLkHzWdhjQQD1rQWe6zWA)
     * [二叉树：做了这么多题目了，我的左叶子之和是多少？](https://mp.weixin.qq.com/s/gBAgmmFielojU5Wx3wqFTA)
     * [二叉树：我的左下角的值是多少？](https://mp.weixin.qq.com/s/MH2gbLvzQ91jHPKqiub0Nw)
+    * [二叉树：递归函数究竟什么时候需要返回值，什么时候不要返回值？](https://mp.weixin.qq.com/s/6TWAVjxQ34kVqROWgcRFOg)
     * [二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/7r66ap2s-shvVvlZxo59xg)
+    * [二叉树：构造一棵最大的二叉树](https://mp.weixin.qq.com/s/1iWJV6Aov23A7xCF4nV88w)
 
  
 
