@@ -28,6 +28,13 @@
     * [算法分析中的空间复杂度，你真的会了么？](https://mp.weixin.qq.com/s/sXjjnOUEQ4Gf5F9QCRzy7g)
     * [刷leetcode的时候，究竟什么时候可以使用库函数，什么时候不要使用库函数，过来人来说一说](https://leetcode-cn.com/circle/article/E1Kjzn/)
 
+* 数组
+    * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
+    * [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
+    * [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+    * [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
+    * [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
+    * [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
 * 链表
     * [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
     * [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
@@ -46,13 +53,6 @@
     * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
 
-* 数组
-    * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
-    * [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
-    * [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-    * [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
-    * [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
-    * [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
 
 * 字符串
     * [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
@@ -110,6 +110,9 @@
     * [二叉树：递归函数究竟什么时候需要返回值，什么时候不要返回值？](https://mp.weixin.qq.com/s/6TWAVjxQ34kVqROWgcRFOg)
     * [二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/7r66ap2s-shvVvlZxo59xg)
     * [二叉树：构造一棵最大的二叉树](https://mp.weixin.qq.com/s/1iWJV6Aov23A7xCF4nV88w)
+    * [本周小结！（二叉树系列三）](https://mp.weixin.qq.com/s/JLLpx3a_8jurXcz6ovgxtg) 
+    * [二叉树：合并两个二叉树](https://mp.weixin.qq.com/s/3f5fbjOFaOX_4MXzZ97LsQ)
+    * [二叉树：二叉搜索树登场！](https://mp.weixin.qq.com/s/vsKrWRlETxCVsiRr8v_hHg)
 
  
 
@@ -233,6 +236,7 @@
 |[0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md) | 数组 |中等|**双指针**| 
 |[0020.有效的括号](https://github.com/youngyangyang04/leetcode/blob/master/problems/0020.有效的括号.md) | 栈 |简单|**栈**| 
 |[0021.合并两个有序链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0021.合并两个有序链表.md)  |链表 |简单|**模拟** |
+|[0024.两两交换链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0024.两两交换链表中的节点.md)  |链表 |中等|**模拟** |
 |[0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)  |数组 |简单|**暴力** **快慢指针/快慢指针** |
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
@@ -326,7 +330,8 @@
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |中等|**模拟**|
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
-|[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |栈 |简单|**栈**|
+|[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
+|[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
 |[剑指Offer58-II.左旋转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer58-II.左旋转字符串.md) |字符串 |简单|**反转操作**|
