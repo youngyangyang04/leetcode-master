@@ -113,6 +113,7 @@
     * [本周小结！（二叉树系列三）](https://mp.weixin.qq.com/s/JLLpx3a_8jurXcz6ovgxtg) 
     * [二叉树：合并两个二叉树](https://mp.weixin.qq.com/s/3f5fbjOFaOX_4MXzZ97LsQ)
     * [二叉树：二叉搜索树登场！](https://mp.weixin.qq.com/s/vsKrWRlETxCVsiRr8v_hHg)
+    * [二叉树：搜索树的最小绝对差](https://mp.weixin.qq.com/s/Hwzml6698uP3qQCC1ctUQQ)
 
  
 
@@ -268,8 +269,8 @@
 |[0110.平衡二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0110.平衡二叉树.md) |树 |简单|**递归**|
 |[0111.二叉树的最小深度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0111.二叉树的最小深度.md) |树 |简单|**递归** **队列/BFS**|
 |[0112.路径总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0112.路径总和.md) |树 |简单|**深度优先搜索/递归** **回溯** **栈**|
-|[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**广度优先搜索**|
-|[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**广度优先搜索**|
+|[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
+|[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
@@ -325,6 +326,7 @@
 |[0637.二叉树的层平均值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0637.二叉树的层平均值.md) |树 |简单|**广度优先搜索/队列**|
 |[0654.最大二叉树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0654.最大二叉树.md) |树 |中等|**递归**|
 |[0685.冗余连接II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0685.冗余连接II.md) | 并查集/树/图 |困难|**并查集**|
+|[0669.修剪二叉搜索树](https://github.com/youngyangyang04/leetcode/blob/master/problems/0669.修剪二叉搜索树.md) | 二叉搜索树/二叉树 |简单|**递归** **迭代**|
 |[0700.二叉搜索树中的搜索](https://github.com/youngyangyang04/leetcode/blob/master/problems/0700.二叉搜索树中的搜索.md) |树 |简单|**递归** **迭代**|
 |[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |树 |简单|**递归** **迭代**|
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
