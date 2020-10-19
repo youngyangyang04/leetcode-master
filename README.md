@@ -114,7 +114,10 @@
     * [本周小结！（二叉树系列三）](https://mp.weixin.qq.com/s/JLLpx3a_8jurXcz6ovgxtg) 
     * [二叉树：合并两个二叉树](https://mp.weixin.qq.com/s/3f5fbjOFaOX_4MXzZ97LsQ)
     * [二叉树：二叉搜索树登场！](https://mp.weixin.qq.com/s/vsKrWRlETxCVsiRr8v_hHg)
+    * [二叉树：我是不是一棵二叉搜索树](https://mp.weixin.qq.com/s/8odY9iUX5eSi0eRFSXFD4Q)
     * [二叉树：搜索树的最小绝对差](https://mp.weixin.qq.com/s/Hwzml6698uP3qQCC1ctUQQ)
+    * [二叉树：我的众数是多少？](https://mp.weixin.qq.com/s/KSAr6OVQIMC-uZ8MEAnGHg)
+    * [二叉树：公共祖先问题](https://mp.weixin.qq.com/s/n6Rk3nc_X3TSkhXHrVmBTQ)
 
  
 
@@ -172,6 +175,7 @@
     * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
+    * [19.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/19.删除链表的倒数第N个节点) 
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
@@ -237,6 +241,7 @@
 |[0015.三数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0015.三数之和.md) | 数组 |中等|**双指针** **哈希**| 
 |[0017.电话号码的字母组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0017.电话号码的字母组合.md) | 回溯 |中等|**回溯**| 
 |[0018.四数之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0018.四数之和.md) | 数组 |中等|**双指针**| 
+|[0019.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0019.删除链表的倒数第N个节点.md) | 链表 |中等|**双指针**| 
 |[0020.有效的括号](https://github.com/youngyangyang04/leetcode/blob/master/problems/0020.有效的括号.md) | 栈 |简单|**栈**| 
 |[0021.合并两个有序链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0021.合并两个有序链表.md)  |链表 |简单|**模拟** |
 |[0024.两两交换链表中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0024.两两交换链表中的节点.md)  |链表 |中等|**模拟** |
