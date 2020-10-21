@@ -118,6 +118,9 @@
     * [二叉树：搜索树的最小绝对差](https://mp.weixin.qq.com/s/Hwzml6698uP3qQCC1ctUQQ)
     * [二叉树：我的众数是多少？](https://mp.weixin.qq.com/s/KSAr6OVQIMC-uZ8MEAnGHg)
     * [二叉树：公共祖先问题](https://mp.weixin.qq.com/s/n6Rk3nc_X3TSkhXHrVmBTQ)
+    * [本周小结！（二叉树系列四）](https://mp.weixin.qq.com/s/CbdtOTP0N-HIP7DR203tSg)
+    * [二叉树：搜索树的公共祖先问题](https://mp.weixin.qq.com/s/Ja9dVw2QhBcg_vV-1fkiCg)
+    * [二叉树：搜索树中的插入操作](https://mp.weixin.qq.com/s/lwKkLQcfbCNX2W-5SOeZEA)
 
  
 
@@ -262,6 +265,7 @@
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
 |[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
 |[0083.删除排序链表中的重复元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0083.删除排序链表中的重复元素.md) |链表 |简单|**模拟**|
+|[0084.柱状图中最大的矩形](https://github.com/youngyangyang04/leetcode/blob/master/problems/0084.柱状图中最大的矩形.md) |数组 |困难|**单调栈**|
 |[0090.子集II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0090.子集II.md) |回溯/数组 |中等|**回溯**|
 |[0093.复原IP地址](https://github.com/youngyangyang04/leetcode/blob/master/problems/0093.复原IP地址) |回溯 |中等|**回溯**|
 |[0094.二叉树的中序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0094.二叉树的中序遍历.md) |树 |中等|**递归** **迭代/栈**|
