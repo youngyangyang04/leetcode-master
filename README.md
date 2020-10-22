@@ -69,7 +69,6 @@
 
 * 双指针法 
     * [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-    * [数组：977. 有序数组的平方]()
     * [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
     * [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
     * [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
@@ -121,6 +120,7 @@
     * [本周小结！（二叉树系列四）](https://mp.weixin.qq.com/s/CbdtOTP0N-HIP7DR203tSg)
     * [二叉树：搜索树的公共祖先问题](https://mp.weixin.qq.com/s/Ja9dVw2QhBcg_vV-1fkiCg)
     * [二叉树：搜索树中的插入操作](https://mp.weixin.qq.com/s/lwKkLQcfbCNX2W-5SOeZEA)
+    * [二叉树：搜索树中的删除操作](https://mp.weixin.qq.com/s/-p-Txvch1FFk3ygKLjPAKw)
 
  
 
@@ -178,12 +178,13 @@
     * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
-    * [19.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/19.删除链表的倒数第N个节点) 
+    * [0019.删除链表的倒数第N个节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/19.删除链表的倒数第N个节点) 
     * [0206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
     * [0142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
     * [0344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
     * [剑指Offer05.替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg) 
     * [0151.翻转字符串里的单词](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
+    * [0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md)
 
 
 * 栈与队列经典题目
@@ -191,8 +192,14 @@
     * [0225.用队列实现栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0225.用队列实现栈.md)
     * [0020.有效的括号](https://github.com/youngyangyang04/leetcode/blob/master/problems/0020.有效的括号.md)
     * [1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md)
-    * [0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md)
+    * [0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md)
     * [0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md)
+    * 单调队列
+        * [0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md)
+    * 单调栈 
+        * [0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) 
+        * [0042.接雨水](https://github.com/youngyangyang04/leetcode/blob/master/problems/0042.接雨水.md) 
+        * [0084.柱状图中最大的矩形](https://github.com/youngyangyang04/leetcode/blob/master/problems/0084.柱状图中最大的矩形.md)
 
 * 二叉树经典题目 
     * [0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md)
@@ -288,6 +295,7 @@
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
+|[0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md) |栈 |中等|**栈**|
 |[0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md) |字符串 |中等|**模拟/双指针**|
 |[0155.最小栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0155.最小栈.md) |栈 |简单|**栈**|
 |[0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md) |二叉树 |中等|**广度优先遍历/队列**|
@@ -323,6 +331,7 @@
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
+|[0496.下一个更大元素I](https://github.com/youngyangyang04/leetcode/blob/master/problems/0496.下一个更大元素I.md) |栈 |中等|**单调栈** 入门题目，但是两个数组还是有点绕的|
 |[0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md) |二叉树 |简单|**递归/中序遍历**|
 |[0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) |二叉树 |中等|**递归** **迭代**|
 |[0515.在每个树行中找最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0515.在每个树行中找最大值.md) |二叉树 |简单|**广度优先搜索/队列**|
@@ -343,9 +352,11 @@
 |[0701.二叉搜索树中的插入操作](https://github.com/youngyangyang04/leetcode/blob/master/problems/0701.二叉搜索树中的插入操作.md) |树 |简单|**递归** **迭代**|
 |[0705.设计哈希集合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0705.设计哈希集合.md) |哈希表 |简单|**模拟**|
 |[0707.设计链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0707.设计链表.md) |链表 |中等|**模拟**|
+|[0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) |栈 |中等|**单调栈** 适合单调栈入门|
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
 |[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0844.比较含退格的字符串.md) |字符串 |简单|**栈** **双指针优化** 使用栈的思路但没有必要使用栈|
-|[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针**|
+|[0925.长按键入](https://github.com/youngyangyang04/leetcode/blob/master/problems/0925.长按键入.md) |字符串 |简单|**双指针/模拟** 是一道模拟类型的题目|
+|[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
