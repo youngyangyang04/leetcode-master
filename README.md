@@ -123,7 +123,8 @@
     * [二叉树：搜索树中的删除操作](https://mp.weixin.qq.com/s/-p-Txvch1FFk3ygKLjPAKw)
     * [二叉树：修剪一棵搜索树](https://mp.weixin.qq.com/s/QzmGfYUMUWGkbRj7-ozHoQ)
     * [二叉树：构造一棵搜索树](https://mp.weixin.qq.com/s/sy3ygnouaZVJs8lhFgl9mw)
-
+    * [二叉树：搜索树转成累加树](https://mp.weixin.qq.com/s/hZtJh4T5lIGBarY-lZJf6Q)
+    * [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)
  
 
 （持续更新中....）
