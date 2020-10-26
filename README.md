@@ -394,6 +394,7 @@
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
+|[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
 |[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
