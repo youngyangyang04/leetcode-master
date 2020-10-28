@@ -19,7 +19,7 @@
 
 * 求职 
     * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
-    * [一线互联网公司技术面试的流程以及注意事项](https://mp.weixin.qq.com/s/1VMvQ_6HbVpEn85CNilTiw)
+    * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
 
 * 算法性能分析
     * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
@@ -128,6 +128,8 @@
  
 * 回溯算法 
     * [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
+    * [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
+    * [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
 
 （持续更新中....）
 
@@ -351,6 +353,7 @@
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
+|[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
@@ -396,6 +399,7 @@
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
+|[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
 |[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
 |[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
