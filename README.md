@@ -135,6 +135,8 @@
     * [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
     * [回溯算法：求组合总和！](https://mp.weixin.qq.com/s/HX7WW6ixbFZJASkRnCTC3w)
     * [回溯算法：电话号码的字母组合](https://mp.weixin.qq.com/s/e2ua2cmkE_vpYjM3j6HY0A)
+    * [本周小结！（回溯算法系列一）](https://mp.weixin.qq.com/s/m2GnTJdkYhAamustbb6lmw)
+    * [回溯算法：求组合总和（二）](https://mp.weixin.qq.com/s/FLg8G6EjVcxBjwCbzpACPw)
 
 （持续更新中....）
 
@@ -303,6 +305,7 @@
 |[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
 |[0040.组合总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0040.组合总和II.md) |数组/回溯 |中等| **回溯**|
 |[0042.接雨水](https://github.com/youngyangyang04/leetcode/blob/master/problems/0042.接雨水.md) |数组/栈/双指针 |困难| **双指针** **单调栈** **动态规划**|
+|[0045.跳跃游戏II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0045.跳跃游戏II.md) |贪心 |困难| **贪心**|
 |[0046.全排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0046.全排列.md) |回溯|中等| **回溯**|
 |[0047.全排列II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0047.全排列II.md) |回溯|中等| **回溯**|
 |[0051.N皇后](https://github.com/youngyangyang04/leetcode/blob/master/problems/0051.N皇后.md) |回溯|困难| **回溯**|
