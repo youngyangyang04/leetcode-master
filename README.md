@@ -138,6 +138,7 @@
     * [本周小结！（回溯算法系列一）](https://mp.weixin.qq.com/s/m2GnTJdkYhAamustbb6lmw)
     * [回溯算法：求组合总和（二）](https://mp.weixin.qq.com/s/FLg8G6EjVcxBjwCbzpACPw)
     * [回溯算法：求组合总和（三）](https://mp.weixin.qq.com/s/_1zPYk70NvHsdY8UWVGXmQ)
+    * [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
 
 （持续更新中....）
 
@@ -336,6 +337,7 @@
 |[0113.路径总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0113.路径总和II.md) |二叉树树 |简单|**深度优先搜索/递归** **回溯** **栈**|
 |[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
+|[0127.单词接龙](https://github.com/youngyangyang04/leetcode/blob/master/problems/ 0127.单词接龙.md) |广度优先搜索 |中等|**广度优先搜索**|
 |[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
@@ -377,6 +379,7 @@
 |[0434.字符串中的单词数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0434.字符串中的单词数.md) |字符串 |简单|**模拟**|
 |[0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md) |树 |中等|**递归**|
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
+|[0455.分发饼干](https://github.com/youngyangyang04/leetcode/blob/master/problems/0455.分发饼干.md) |贪心 |简单| **贪心**|
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
 |[0486.预测赢家](https://github.com/youngyangyang04/leetcode/blob/master/problems/0486.预测赢家.md) |动态规划 |中等| **递归** **记忆递归** **动态规划**|
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法**|
