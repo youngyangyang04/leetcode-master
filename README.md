@@ -139,6 +139,7 @@
     * [回溯算法：求组合总和（二）](https://mp.weixin.qq.com/s/FLg8G6EjVcxBjwCbzpACPw)
     * [回溯算法：求组合总和（三）](https://mp.weixin.qq.com/s/_1zPYk70NvHsdY8UWVGXmQ)
     * [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
+    * [回溯算法：复原IP地址](https://mp.weixin.qq.com/s/v--VmA8tp9vs4bXCqHhBuA)
 
 （持续更新中....）
 
@@ -415,6 +416,7 @@
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
 |[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
+|[1356.根据数字二进制下1的数目排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/1356.根据数字二进制下1的数目排序.md) |位运算 |简单|**位运算** 巧妙的计算二进制中1的数量|
 |[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
 |[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
