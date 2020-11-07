@@ -55,6 +55,7 @@
     * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
     * [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
+    * [哈希表：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)
 
 
 * 字符串
@@ -140,6 +141,7 @@
     * [回溯算法：求组合总和（三）](https://mp.weixin.qq.com/s/_1zPYk70NvHsdY8UWVGXmQ)
     * [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
     * [回溯算法：复原IP地址](https://mp.weixin.qq.com/s/v--VmA8tp9vs4bXCqHhBuA)
+    * [回溯算法：求子集问题！](https://mp.weixin.qq.com/s/NNRzX-vJ_pjK4qxohd_LtA)
 
 （持续更新中....）
 
