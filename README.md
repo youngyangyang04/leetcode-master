@@ -307,6 +307,7 @@
 |[0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md)  |数组 |简单|**暴力** **快慢指针/快慢指针** |
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
+|[0031.下一个排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **模拟**  这道题目还是有难度的|
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
 |[0037.解数独](https://github.com/youngyangyang04/leetcode/blob/master/problems/0037.解数独.md) |回溯 |困难| **回溯**|
 |[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
