@@ -144,6 +144,9 @@
     * [回溯算法：求子集问题！](https://mp.weixin.qq.com/s/NNRzX-vJ_pjK4qxohd_LtA)
     * [本周小结！（回溯算法系列二）](https://mp.weixin.qq.com/s/uzDpjrrMCO8DOf-Tl5oBGw)
     * [回溯算法：求子集问题（二）](https://mp.weixin.qq.com/s/WJ4JNDRJgsW3eUN72Hh3uQ)
+    * [回溯算法：递增子序列](https://mp.weixin.qq.com/s/ePxOtX1ATRYJb2Jq7urzHQ)
+    * [回溯算法：排列问题！](https://mp.weixin.qq.com/s/SCOjeMX1t41wcvJq49GhMw)
+    * [回溯算法：排列问题（二）](https://mp.weixin.qq.com/s/9L8h3WqRP_h8LLWNT34YlA)
 
 （持续更新中....）
 
