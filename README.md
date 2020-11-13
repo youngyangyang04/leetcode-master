@@ -323,6 +323,7 @@
 |[0052.N皇后II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0052.N皇后II.md) |回溯|困难| **回溯**|
 |[0053.最大子序和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |简单|**暴力** **贪心** 动态规划 分治|
 |[0055.跳跃游戏](https://github.com/youngyangyang04/leetcode/blob/master/problems/0053.最大子序和.md) |数组 |中等| **贪心** 经典题目|
+|[0056.合并区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0056.合并区间.md) |数组 |中等| **贪心** 以为是模拟题，其实是贪心|
 |[0057.插入区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0057.插入区间.md) |数组 |困难| **模拟**  是一道数组难题|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
