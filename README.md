@@ -12,6 +12,12 @@
 
 ![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
 
+# 算法视频讲解 
+
+* [KMP算法（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [KMP算法（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [回溯算法（理论篇）B站视频](https://www.bilibili.com/video/BV1cy4y167mM)
+
 # 算法文章精选
 
 **提示：在电脑端看如下文章的，看不到文章的评论区，建议在手机端「代码随想录」公众号里也翻一下对应的文章，评论区有录友们的打卡总结，相信会和你有不少共鸣！**
@@ -150,6 +156,8 @@
     * [本周小结！（回溯算法系列三）](https://mp.weixin.qq.com/s/tLkt9PSo42X60w8i94ViiA)
     * [本周小结！（回溯算法系列三）续集](https://mp.weixin.qq.com/s/kSMGHc_YpsqL2j-jb_E_Ag)
     * [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
+    * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
+    * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
 
 
 （持续更新中....）
@@ -356,6 +364,7 @@
 |[0127.单词接龙](https://github.com/youngyangyang04/leetcode/blob/master/problems/0127.单词接龙.md) |广度优先搜索 |中等|**广度优先搜索**|
 |[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
+|[0135.分发糖果](https://github.com/youngyangyang04/leetcode/blob/master/problems/0135.分发糖果.md) |贪心 |困难|**贪心**好题目|
 |[0141.环形链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0141.环形链表.md) |链表 |简单|**快慢指针/双指针**|
 |[0142.环形链表II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0142.环形链表II.md) |链表 |中等|**快慢指针/双指针**|
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
