@@ -160,6 +160,7 @@
     * [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
     * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
     * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
+    * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
 
 
 （持续更新中....）
@@ -214,6 +215,7 @@
 
 * 双指针法经典题目
     * [0027.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+    * [0283.移动零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0283.移动零.md) 和27.移除元素很像
     * [0015.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
     * [0018.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
     * [0026.删除排序数组中的重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/0026.删除排序数组中的重复项.md) 
@@ -393,6 +395,7 @@
 |[0239.滑动窗口最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0239.滑动窗口最大值.md) |滑动窗口/队列 |困难| **单调队列**|
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
+|[0283.移动零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0283.移动零.md) |数组 |简单| **双指针** 和 27.移除元素 一个套路|
 |[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
