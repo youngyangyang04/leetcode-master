@@ -161,6 +161,7 @@
     * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
     * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
     * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
+    * [一篇总结带你彻底搞透回溯算法！](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)
 
 
 （持续更新中....）
