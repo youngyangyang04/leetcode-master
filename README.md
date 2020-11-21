@@ -30,6 +30,7 @@
 * 求职 
     * [程序员应该如何写简历（附简历模板）](https://mp.weixin.qq.com/s/PkBpde0PV65dJjj9zZJYtg)
     * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
+    * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Yzrkim-5bY0Df66Ao-hoqA)
 
 * 算法性能分析
     * [究竟什么是时间复杂度，怎么求时间复杂度，看这一篇就够了](https://mp.weixin.qq.com/s/lYL9TSxLqCeFXIdjt4dcIw)
@@ -375,6 +376,7 @@
 |[0143.重排链表](https://github.com/youngyangyang04/leetcode/blob/master/problems/0143.重排链表.md) |链表 |中等|**快慢指针/双指针** 也可以用数组，双向队列模拟，考察链表综合操作的好题|
 |[0144.二叉树的前序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0144.二叉树的前序遍历.md) |树 |中等|**递归** **迭代/栈**|
 |[0145.二叉树的后序遍历](https://github.com/youngyangyang04/leetcode/blob/master/problems/0145.二叉树的后序遍历.md) |树 |困难|**递归** **迭代/栈**|
+|[0147.对链表进行插入排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/0147.对链表进行插入排序.md) |链表 |中等|**模拟** 考察链表综合操作|
 |[0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md) |栈 |中等|**栈**|
 |[0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md) |字符串 |中等|**模拟/双指针**|
 |[0155.最小栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0155.最小栈.md) |栈 |简单|**栈**|
