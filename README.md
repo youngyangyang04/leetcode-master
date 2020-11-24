@@ -12,11 +12,12 @@
 
 ![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
 
-# 算法视频讲解 
+# B站算法视频讲解 
 
-* [KMP算法（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
-* [KMP算法（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
-* [回溯算法（理论篇）B站视频](https://www.bilibili.com/video/BV1cy4y167mM)
+* [KMP算法（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [KMP算法（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
+* [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
 
 （持续更新中....）
 
@@ -417,6 +418,7 @@
 |[0434.字符串中的单词数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0434.字符串中的单词数.md) |字符串 |简单|**模拟**|
 |[0435.无重叠区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0435.无重叠区间.md) |贪心 |中等|**贪心** 经典题目，有点难|
 |[0450.删除二叉搜索树中的节点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0450.删除二叉搜索树中的节点.md) |树 |中等|**递归**|
+|[0452.用最少数量的箭引爆气球](https://github.com/youngyangyang04/leetcode/blob/master/problems/0452.用最少数量的箭引爆气球.md) |贪心/排序 |中等|**贪心** 经典题目|
 |[0454.四数相加II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0454.四数相加II.md) |哈希表 |中等| **哈希**|
 |[0455.分发饼干](https://github.com/youngyangyang04/leetcode/blob/master/problems/0455.分发饼干.md) |贪心 |简单| **贪心**|
 |[0459.重复的子字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0459.重复的子字符串.md) |字符创 |简单| **KMP**|
@@ -454,6 +456,7 @@
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
+|[1049.最后一块石头的重量II](https://github.com/youngyangyang04/leetcode/blob/master/problems/1049.最后一块石头的重量II.md) |动态规划 |中等|**01背包**|
 |[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
 |[1356.根据数字二进制下1的数目排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/1356.根据数字二进制下1的数目排序.md) |位运算 |简单|**位运算** 巧妙的计算二进制中1的数量|
 |[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
