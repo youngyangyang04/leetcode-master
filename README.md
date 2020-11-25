@@ -169,6 +169,10 @@
     * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
     * [一篇总结带你彻底搞透回溯算法！](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)
 
+* 贪心算法 
+    * [关于贪心算法，你该了解这些！](https://mp.weixin.qq.com/s/O935TaoHE9Eexwe_vSbRAg)
+    * [贪心算法：分发饼干](https://mp.weixin.qq.com/s/YSuLIAYyRGlyxbp9BNC1uw)
+
 
 （持续更新中....）
 
