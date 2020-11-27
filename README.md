@@ -173,6 +173,7 @@
     * [关于贪心算法，你该了解这些！](https://mp.weixin.qq.com/s/O935TaoHE9Eexwe_vSbRAg)
     * [贪心算法：分发饼干](https://mp.weixin.qq.com/s/YSuLIAYyRGlyxbp9BNC1uw)
     * [贪心算法：摆动序列](https://mp.weixin.qq.com/s/Xytl05kX8LZZ1iWWqjMoHA)
+    * [贪心算法：最大子序和](https://mp.weixin.qq.com/s/DrjIQy6ouKbpletQr0g1Fg)
 
 
 * 动态规划
@@ -333,12 +334,16 @@
 |[0973.最接近原点的K个点](https://github.com/youngyangyang04/leetcode/blob/master/problems/0973.最接近原点的K个点.md) |优先级队列 |中等|**优先级队列**|
 |[0977.有序数组的平方](https://github.com/youngyangyang04/leetcode/blob/master/problems/0977.有序数组的平方.md) |数组 |中等|**双指针** 还是比较巧妙的|
 |[1002.查找常用字符](https://github.com/youngyangyang04/leetcode/blob/master/problems/1002.查找常用字符.md) |栈 |简单|**栈**|
+|[1005.K次取反后最大化的数组和](https://github.com/youngyangyang04/leetcode/blob/master/problems/1005.K次取反后最大化的数组和.md) |贪心/排序 |**贪心算法** 贪心基础题目|
 |[1047.删除字符串中的所有相邻重复项](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |哈希表 |简单|**哈希表/数组**|
 |[1049.最后一块石头的重量II](https://github.com/youngyangyang04/leetcode/blob/master/problems/1049.最后一块石头的重量II.md) |动态规划 |中等|**01背包**|
 |[1207.独一无二的出现次数](https://github.com/youngyangyang04/leetcode/blob/master/problems/1207.独一无二的出现次数.md) |哈希表 |简单|**哈希** 两层哈希|
+|[1221.分割平衡字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/1221.分割平衡字符串.md) |贪心 |简单|**贪心算法** 基础题目|
 |[1356.根据数字二进制下1的数目排序](https://github.com/youngyangyang04/leetcode/blob/master/problems/1356.根据数字二进制下1的数目排序.md) |位运算 |简单|**位运算** 巧妙的计算二进制中1的数量|
 |[1365.有多少小于当前数字的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/1365.有多少小于当前数字的数字.md) |数组、哈希表 |简单|**哈希** 从后遍历的技巧很不错|
 |[1382.将二叉搜索树变平衡](https://github.com/youngyangyang04/leetcode/blob/master/problems/1047.删除字符串中的所有相邻重复项.md) |二叉搜索树 |中等|**递归** **迭代** 98和108的组合题目|
+|[1403.非递增顺序的最小子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/1403.非递增顺序的最小子序列.md) | 贪心算法|简单|**贪心算法** 贪心基础题目|
+|[1518.换酒问题](https://github.com/youngyangyang04/leetcode/blob/master/problems/1518.换酒问题.md) | 贪心算法|简单|**贪心算法** 贪心基础题目|
 |[剑指Offer05.替换空格](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**双指针**|
 |[ 剑指Offer58-I.翻转单词顺序](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer05.替换空格.md) |字符串 |简单|**模拟/双指针**|
 |[剑指Offer58-II.左旋转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/剑指Offer58-II.左旋转字符串.md) |字符串 |简单|**反转操作**|
