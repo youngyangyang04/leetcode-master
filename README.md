@@ -21,6 +21,8 @@
 
 （持续更新中....）
 
+**通知：不少录友反馈说：刷题攻略这一栏怎么没有了，因为发现一些公众号会抄袭我的刷题攻略把整个刷题顺序全部抄走，所以这块我暂时先不对外开放了**
+
 # 算法文章精选
 
 **提示：在电脑端看如下文章的，看不到文章的评论区，建议在手机端「代码随想录」公众号里也翻一下对应的文章，评论区有录友们的打卡总结，相信会和你有不少共鸣！**
@@ -174,6 +176,7 @@
     * [贪心算法：分发饼干](https://mp.weixin.qq.com/s/YSuLIAYyRGlyxbp9BNC1uw)
     * [贪心算法：摆动序列](https://mp.weixin.qq.com/s/Xytl05kX8LZZ1iWWqjMoHA)
     * [贪心算法：最大子序和](https://mp.weixin.qq.com/s/DrjIQy6ouKbpletQr0g1Fg)
+    * [本周小结！（贪心算法系列一）](https://mp.weixin.qq.com/s/KQ2caT9GoVXgB1t2ExPncQ)
 
 
 * 动态规划
@@ -191,6 +194,16 @@
 * 海量数据处理
 
 （持续更新中....）
+
+# LeetCode 刷题攻略
+
+刷题顺序：建议先从同一类型里题目开始刷起，同一类型里再从简单到中等到困难刷起，题型顺序建议：**数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心->动态规划->图论**。
+
+目前大家可以按照上面的「算法文章精选」顺序来刷，都是各个类型的经典题目而且题目顺序都是精心设计，**初学者可以按照这个顺序来刷题**，算法老手可以按照这个list查缺补漏！
+
+**同时这份刷题列表也在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)左下角的「算法汇总」里，方便大家用手机查看**，用手机看的好处可以看到每篇文章下都有很多录友（代码随想录的朋友们）的留言，录友会总结每篇文章的重点，如果文章有一些笔误的话，留言区也会及时纠正，所以**刷一下文章留言区会对理解知识点非常有帮助！**而且公众号更新要比Github早2-3天。
+
+**赶紧去公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)里看看吧，你会发现相见恨晚！**
 
 
 # 算法模板 
@@ -283,8 +296,10 @@
 |[0242.有效的字母异位词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0242.有效的字母异位词.md) |哈希表 |简单| **哈希**|
 |[0257.二叉树的所有路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0257.二叉树的所有路径.md) |树 |简单| **递归/回溯**|
 |[0283.移动零](https://github.com/youngyangyang04/leetcode/blob/master/problems/0283.移动零.md) |数组 |简单| **双指针** 和 27.移除元素 一个套路|
+|[0300.最长上升子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0300.最长上升子序列.md) |动态规划 |中等| **动态规划**|
 |[0316.去除重复字母](https://github.com/youngyangyang04/leetcode/blob/master/problems/0316.去除重复字母.md) |贪心/字符串 |中等| **单调栈** 这道题目处理的情况比较多，属于单调栈中的难题|
 |[0332.重新安排行程](https://github.com/youngyangyang04/leetcode/blob/master/problems/0332.重新安排行程.md) |深度优先搜索/回溯 |中等| **深度优先搜索/回溯算法**|
+|[0343.整数拆分](https://github.com/youngyangyang04/leetcode/blob/master/problems/0343.整数拆分.md) |动态规划/贪心 |中等| **动态规划**|
 |[0344.反转字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0344.反转字符串.md) |字符串 |简单| **双指针**|
 |[0347.前K个高频元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0347.前K个高频元素.md) |哈希/堆/优先级队列 |中等| **哈希/优先级队列**|
 |[0349.两个数组的交集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0349.两个数组的交集.md) |哈希表 |简单|**哈希**|
