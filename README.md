@@ -48,6 +48,7 @@
     * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Yzrkim-5bY0Df66Ao-hoqA)
     * [北京有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/FQTzoZtqXQ2rlS1UthGrag)
     * [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/msqbX6eR2-JBQOYFfec4sg)
+    * [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
 
 * 数组
     * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
