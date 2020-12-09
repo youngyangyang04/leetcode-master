@@ -51,6 +51,10 @@
     * [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/msqbX6eR2-JBQOYFfec4sg)
     * [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
 
+* 算法性能分析
+    * [关于时间复杂度，你不知道的都在这里！](https://mp.weixin.qq.com/s/LWBfehW1gMuEnXtQjJo-sw)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)
+
 * 数组
     * [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
     * [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
@@ -243,6 +247,7 @@
 |[0056.合并区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0056.合并区间.md) |数组 |中等| **贪心** 以为是模拟题，其实是贪心|
 |[0057.插入区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0057.插入区间.md) |数组 |困难| **模拟**  是一道数组难题|
 |[0059.螺旋矩阵II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0059.螺旋矩阵II.md) |数组 |中等|**模拟**|
+|[0062.不同路径](https://github.com/youngyangyang04/leetcode/blob/master/problems/0062.不同路径.md) |数组、动态规划 |中等|**深搜** **动态规划** **数论**|
 |[0070.爬楼梯](https://github.com/youngyangyang04/leetcode/blob/master/problems/0070.爬楼梯.md) |动态规划|简单|**动态规划** dp里求排列|
 |[0077.组合](https://github.com/youngyangyang04/leetcode/blob/master/problems/0077.组合.md) |回溯 |中等|**回溯**|
 |[0078.子集](https://github.com/youngyangyang04/leetcode/blob/master/problems/0078.子集.md) |回溯/数组 |中等|**回溯**|
