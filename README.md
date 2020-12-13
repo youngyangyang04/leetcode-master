@@ -20,6 +20,7 @@
 * [回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
 * [带你学透回溯算法-组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [带你学透回溯算法-组合总和（对应「leetcode」力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
 
 （持续更新中....）
 
@@ -179,6 +180,7 @@
     * [视频来了！！带你学透回溯算法（理论篇）](https://mp.weixin.qq.com/s/wDd5azGIYWjbU0fdua_qBg)
     * [视频来了！！回溯算法：组合问题](https://mp.weixin.qq.com/s/a_r5JR93K_rBKSFplPGNAA)
     * [视频来了！！回溯算法：组合问题的剪枝操作](https://mp.weixin.qq.com/s/CK0kj9lq8-rFajxL4amyEg)
+    * [视频来了！！回溯算法：组合总和](https://mp.weixin.qq.com/s/4M4Cr04uFOWosRMc_5--gg)
     * [回溯算法：重新安排行程](https://mp.weixin.qq.com/s/3kmbS4qDsa6bkyxR92XCTA)
     * [回溯算法：N皇后问题](https://mp.weixin.qq.com/s/lU_QwCMj6g60nh8m98GAWg)
     * [回溯算法：解数独](https://mp.weixin.qq.com/s/eWE9TapVwm77yW9Q81xSZQ)
