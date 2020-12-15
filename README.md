@@ -1,6 +1,6 @@
+<p align='center'>
 <img src="https://img-blog.csdnimg.cn/20201215214102642.png" width=400 >
 </p>
-
 <p align="center">
   <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
   <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
