@@ -1,9 +1,10 @@
 <p align="center">
-  <a href="#微信"><img src="https://img.shields.io/badge/wechat-%E5%BE%AE%E4%BF%A1%E7%BE%A4-brightgreen" alt="微信群"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-blue" alt="公众号"></a>
-  <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/toutiao-%E4%BB%A3%E7%A0%81%E9%9A%8F%E6%83%B3%E5%BD%95-yellow" alt=""></a>
-  <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt=""></a>
-  <a href="https://blog.csdn.net/youngyangyang04"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt=""></a>
+  <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
+  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/知乎-代码随想录-blue" alt=""></a>
+  <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
 </p>
 
 目录：
