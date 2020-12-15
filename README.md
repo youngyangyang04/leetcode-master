@@ -1,3 +1,6 @@
+<img src="https://img-blog.csdnimg.cn/20201215214102642.png" width=400 >
+</p>
+
 <p align="center">
   <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
   <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
@@ -28,8 +31,8 @@
 * [KMP算法（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
 * [回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
-* [带你学透回溯算法-组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
-* [带你学透回溯算法-组合总和（对应「leetcode」力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
+* [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
 
 （持续更新中....）
 
