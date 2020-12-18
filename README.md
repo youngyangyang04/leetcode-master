@@ -214,6 +214,7 @@
     * [贪心算法：加油站](https://mp.weixin.qq.com/s/aDbiNuEZIhy6YKgQXvKELw)
     * [贪心算法：分发糖果](https://mp.weixin.qq.com/s/8MwlgFfvaNYmjGwjuMlETQ)
     * [贪心算法：柠檬水找零](https://mp.weixin.qq.com/s/0kT4P-hzY7H6Ae0kjQqnZg)
+    * [贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw)
 
 
 * 动态规划
