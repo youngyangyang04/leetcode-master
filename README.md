@@ -1,5 +1,5 @@
 <p align='center'>
-<img src="https://img-blog.csdnimg.cn/20201215214102642.png" width=400 >
+<img src="./pics/微信搜一搜.png" width=400 >
 </p>
 <p align="center">
   <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
@@ -23,7 +23,7 @@
 
 # 算法面试思维导图
 
-![算法面试知识大纲](https://img-blog.csdnimg.cn/20200729181420491.png)
+![算法面试知识大纲](./pics/算法大纲.png)
 
 # B站算法视频讲解 
 
@@ -216,6 +216,7 @@
     * [贪心算法：柠檬水找零](https://mp.weixin.qq.com/s/0kT4P-hzY7H6Ae0kjQqnZg)
     * [贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw)
     * [本周小结！（贪心算法系列三）](https://mp.weixin.qq.com/s/JfeuK6KgmifscXdpEyIm-g)
+    * [贪心算法：根据身高重建队列（续集）](https://mp.weixin.qq.com/s/K-pRN0lzR-iZhoi-1FgbSQ)
 
 
 * 动态规划
