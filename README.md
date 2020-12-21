@@ -357,6 +357,7 @@
 |[0491.递增子序列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0491.递增子序列.md) |深度优先搜索 |中等|**深度优先搜索/回溯算法** 这个去重有意思|
 |[0496.下一个更大元素I](https://github.com/youngyangyang04/leetcode/blob/master/problems/0496.下一个更大元素I.md) |栈 |中等|**单调栈** 入门题目，但是两个数组还是有点绕的|
 |[0501.二叉搜索树中的众数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0501.二叉搜索树中的众数.md) |二叉树 |简单|**递归/中序遍历**|
+|[0509.斐波那契数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0509.斐波那契数.md) |数组 |简单|**递归** **动态规划**|
 |[0513.找树左下角的值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0513.找树左下角的值.md) |二叉树 |中等|**递归** **迭代**|
 |[0515.在每个树行中找最大值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0515.在每个树行中找最大值.md) |二叉树 |简单|**广度优先搜索/队列**|
 |[0518.零钱兑换II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0518.零钱兑换II.md) |动态规划 |中等|**动态规划** dp里求组合|
@@ -383,6 +384,7 @@
 |[0763.划分字母区间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0763.划分字母区间.md) |贪心 |中等|**双指针/贪心** 体现贪心尽可能多的思想|
 |[0738.单调递增的数字](https://github.com/youngyangyang04/leetcode/blob/master/problems/0738.单调递增的数字.md) |贪心算法 |中等|**贪心算法** 思路不错，贪心好题|
 |[0739.每日温度](https://github.com/youngyangyang04/leetcode/blob/master/problems/0739.每日温度.md) |栈 |中等|**单调栈** 适合单调栈入门|
+|[0746.使用最小花费爬楼梯](https://github.com/youngyangyang04/leetcode/blob/master/problems/0746.使用最小花费爬楼梯.md) |动态规划 |简单|**动态规划** 入门题目和斐波那契额数列类似|
 |[0767.重构字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0767.重构字符串.md) |字符串 |中等|**字符串** + 排序+一点贪心|
 |[0841.钥匙和房间](https://github.com/youngyangyang04/leetcode/blob/master/problems/0841.钥匙和房间.md) |孤岛问题 |中等|**bfs** **dfs**|
 |[0844.比较含退格的字符串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0844.比较含退格的字符串.md) |字符串 |简单|**栈** **双指针优化** 使用栈的思路但没有必要使用栈|
