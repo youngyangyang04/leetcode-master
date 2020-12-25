@@ -218,6 +218,9 @@
     * [本周小结！（贪心算法系列三）](https://mp.weixin.qq.com/s/JfeuK6KgmifscXdpEyIm-g)
     * [贪心算法：根据身高重建队列（续集）](https://mp.weixin.qq.com/s/K-pRN0lzR-iZhoi-1FgbSQ)
     * [贪心算法：用最少数量的箭引爆气球](https://mp.weixin.qq.com/s/HxVAJ6INMfNKiGwI88-RFw)
+    * [贪心算法：无重叠区间](https://mp.weixin.qq.com/s/oFOEoW-13Bm4mik-aqAOmw)
+    * [贪心算法：划分字母区间](https://mp.weixin.qq.com/s/pdX4JwV1AOpc_m90EcO2Hw)
+    * [贪心算法：合并区间](https://mp.weixin.qq.com/s/royhzEM5tOkUFwUGrNStpw)
 
 
 * 动态规划
