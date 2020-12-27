@@ -50,6 +50,8 @@
 
 # 算法文章精选
 
+* [leetcode刷题最强指南（版本1.0）](https://mp.weixin.qq.com/s/A7N2_ftjhRCQOgulgOE3JQ)
+
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
@@ -221,6 +223,7 @@
     * [贪心算法：无重叠区间](https://mp.weixin.qq.com/s/oFOEoW-13Bm4mik-aqAOmw)
     * [贪心算法：划分字母区间](https://mp.weixin.qq.com/s/pdX4JwV1AOpc_m90EcO2Hw)
     * [贪心算法：合并区间](https://mp.weixin.qq.com/s/royhzEM5tOkUFwUGrNStpw)
+    * [本周小结！（贪心算法系列四）](https://mp.weixin.qq.com/s/zAMHT6JfB19ZSJNP713CAQ)
 
 
 * 动态规划
