@@ -263,7 +263,7 @@
 |[0027.移除元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0027.移除元素.md)  |数组 |简单| **暴力** **双指针/快慢指针/双指针**|
 |[0028.实现strStr()](https://github.com/youngyangyang04/leetcode/blob/master/problems/0028.实现strStr().md)  |字符串 |简单| **KMP** |
 |[0031.下一个排列](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **模拟**  这道题目还是有难度的|
-|[0034.在排序数组中查找元素的第一个和最后一个位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0031.下一个排列.md)  |数组 |中等| **二分查找**比35.搜索插入位置难一些|
+|[0034.在排序数组中查找元素的第一个和最后一个位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0034.在排序数组中查找元素的第一个和最后一个位置.md)  |数组 |中等| **二分查找**比35.搜索插入位置难一些|
 |[0035.搜索插入位置](https://github.com/youngyangyang04/leetcode/blob/master/problems/0035.搜索插入位置.md) |数组 |简单| **暴力** **二分**|
 |[0037.解数独](https://github.com/youngyangyang04/leetcode/blob/master/problems/0037.解数独.md) |回溯 |困难| **回溯**|
 |[0039.组合总和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0039.组合总和.md) |数组/回溯 |中等| **回溯**|
@@ -303,7 +303,9 @@
 |[0113.路径总和II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0113.路径总和II.md) |二叉树树 |简单|**深度优先搜索/递归** **回溯** **栈**|
 |[0116.填充每个节点的下一个右侧节点指针](https://github.com/youngyangyang04/leetcode/blob/master/problems/0116.填充每个节点的下一个右侧节点指针.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
 |[0117.填充每个节点的下一个右侧节点指针II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0117.填充每个节点的下一个右侧节点指针II.md) |二叉树 |中等|**递归** **迭代/广度优先搜索**|
-|[0122.买卖股票的最佳时机II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0122.买卖股票的最佳时机II.md) |贪心 |简单|**贪心** |
+|[0121.买卖股票的最佳时机](https://github.com/youngyangyang04/leetcode/blob/master/problems/0121.买卖股票的最佳时机.md) |动态规划 |简单|**贪心** **动态规划**|
+|[0122.买卖股票的最佳时机II](https://github.com/youngyangyang04/leetcode/blob/master/problems/0122.买卖股票的最佳时机II.md) |动态规划 |简单|**贪心** **动态规划**|
+|[0123.买卖股票的最佳时机III](https://github.com/youngyangyang04/leetcode/blob/master/problems/0122.买卖股票的最佳时机II.md) |动态规划 |中等|**贪心** **动态规划**|
 |[0127.单词接龙](https://github.com/youngyangyang04/leetcode/blob/master/problems/0127.单词接龙.md) |广度优先搜索 |中等|**广度优先搜索**|
 |[0129.求根到叶子节点数字之和](https://github.com/youngyangyang04/leetcode/blob/master/problems/0129.求根到叶子节点数字之和.md) |二叉树 |中等|**递归/回溯** 递归里隐藏着回溯，和113.路径总和II类似|
 |[0131.分割回文串](https://github.com/youngyangyang04/leetcode/blob/master/problems/0131.分割回文串.md) |回溯 |中等|**回溯**|
@@ -318,6 +320,7 @@
 |[0150.逆波兰表达式求值](https://github.com/youngyangyang04/leetcode/blob/master/problems/0150.逆波兰表达式求值.md) |栈 |中等|**栈**|
 |[0151.翻转字符串里的单词](https://github.com/youngyangyang04/leetcode/blob/master/problems/0151.翻转字符串里的单词.md) |字符串 |中等|**模拟/双指针**|
 |[0155.最小栈](https://github.com/youngyangyang04/leetcode/blob/master/problems/0155.最小栈.md) |栈 |简单|**栈**|
+|[0188.买卖股票的最佳时机IV](https://github.com/youngyangyang04/leetcode/blob/master/problems/0188.买卖股票的最佳时机IV.md) |动态规划 |困难|**动态规划**|
 |[0199.二叉树的右视图](https://github.com/youngyangyang04/leetcode/blob/master/problems/0199.二叉树的右视图.md) |二叉树 |中等|**广度优先遍历/队列**|
 |[0202.快乐数](https://github.com/youngyangyang04/leetcode/blob/master/problems/0202.快乐数.md) |哈希表 |简单|**哈希**|
 |[0203.移除链表元素](https://github.com/youngyangyang04/leetcode/blob/master/problems/0203.移除链表元素.md) |链表 |简单|**模拟** **虚拟头结点**|
