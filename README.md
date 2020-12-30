@@ -224,6 +224,9 @@
     * [贪心算法：划分字母区间](https://mp.weixin.qq.com/s/pdX4JwV1AOpc_m90EcO2Hw)
     * [贪心算法：合并区间](https://mp.weixin.qq.com/s/royhzEM5tOkUFwUGrNStpw)
     * [本周小结！（贪心算法系列四）](https://mp.weixin.qq.com/s/zAMHT6JfB19ZSJNP713CAQ)
+    * [贪心算法：单调递增的数字](https://mp.weixin.qq.com/s/TAKO9qPYiv6KdMlqNq_ncg)
+    * [贪心算法：买卖股票的最佳时机含手续费](https://mp.weixin.qq.com/s/olWrUuDEYw2Jx5rMeG7XAg)
+
 
 
 * 动态规划
