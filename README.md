@@ -226,6 +226,9 @@
     * [本周小结！（贪心算法系列四）](https://mp.weixin.qq.com/s/zAMHT6JfB19ZSJNP713CAQ)
     * [贪心算法：单调递增的数字](https://mp.weixin.qq.com/s/TAKO9qPYiv6KdMlqNq_ncg)
     * [贪心算法：买卖股票的最佳时机含手续费](https://mp.weixin.qq.com/s/olWrUuDEYw2Jx5rMeG7XAg)
+    * [贪心算法：我要监控二叉树！](https://mp.weixin.qq.com/s/kCxlLLjWKaE6nifHC3UL2Q)
+    * [贪心算法：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/ItyoYNr0moGEYeRtcjZL3Q)
+
 
 
 
