@@ -27,9 +27,11 @@
 
 # B站算法视频讲解 
 
-* [KMP算法（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
-* [KMP算法（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
-* [回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
+以下为[B站「代码随想录」](https://space.bilibili.com/525438321)算法讲解视频：
+
+* [帮你把KMP算法学个通透！（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [帮你把KMP算法学个通透！（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [带你学透回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
 * [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
 * [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
@@ -38,19 +40,27 @@
 
 # LeetCode 刷题攻略
 
-> 不少同学和我反应LeetCode 刷题攻略这一栏没有了，首先感谢大家对本仓库的关注！因为我发现一些公众号抄袭我的Github，所以我把刷题攻略隐藏了，但是很多同学就看不到刷题顺序了，为了大家可以继续学习，我把算法精选文章的顺序整理了，和刷题攻略顺序一致的，**文章顺序即刷题顺序**，而且比刷题攻略更全！感谢大家的支持，**这个仓库我每天都会更新的**！
+很多刚开始刷题的同学都有一个困惑：面对leetcode上近两千道题目，从何刷起。
 
-刷题顺序：建议先从同一类型里题目开始刷起，同一类型里再从简单到中等到困难刷起，题型顺序建议：**数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心->动态规划->图论**。
+其实我之前在知乎上回答过这个问题，回答内容大概是按照如下类型来刷数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心->动态规划->图论->高级数据结构，再从简单刷起，做了几个类型题目之后，再慢慢做中等题目、困难题目。
 
-目前大家可以按照下面的「算法文章精选」顺序来刷，里面都是各个类型的经典题目而且题目顺序都是精心设计的，**初学者可以按照这个顺序来刷题**，算法老手可以按照这个list查缺补漏！
+但我能设身处地的感受到：即使有这样一个整体规划，对于一位初学者甚至算法老手寻找合适自己的题目也是很困难，时间成本很高，而且题目还不一定就是经典题目。
 
-**同时这份刷题列表也在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)左下角的「算法汇总」里，方便大家用手机查看**，用手机看的好处可以看到每篇文章下都有很多录友（代码随想录的朋友们）的留言，录友会总结每篇文章的重点，如果文章有一些笔误的话，留言区也会及时纠正，所以**刷一下文章留言区会对理解知识点非常有帮助**！而且公众号更新要比Github早2-3天。
+对于刷题，我们都是想用最短的时间把经典题目都做一篇，这样效率才是最高的！
 
-**赶紧去公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)里看看吧，你会发现相见恨晚！**
+所以我整理了leetcode刷题攻略：一个超级详细的刷题顺序，**每道题目都是我精心筛选，都是经典题目高频面试题**，大家只要按照这个顺序刷就可以了，**你没看错，就是题目顺序都排好了，文章顺序就是刷题顺序！挨个刷就可以，不用自己再去题海里选题了！**
 
-# 算法文章精选
+而且每道题目我都写了的详细题解（图文并茂，难点配有视频），力扣上我的题解都是排在对应题目的首页，质量是有目共睹的。
 
-* [leetcode刷题最强指南（版本1.0）](https://mp.weixin.qq.com/s/A7N2_ftjhRCQOgulgOE3JQ)
+**那么今天我把这个刷题顺序整理出来，是为了帮助更多的学习算法的同学少走弯路！**
+
+如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。
+
+手机版本[leetcode刷题最强指南（版本1.0）](https://mp.weixin.qq.com/s/A7N2_ftjhRCQOgulgOE3JQ)，方便大家在手机上查看。
+
+**文章会首发在公众号[「代码随想录」](https://img-blog.csdnimg.cn/20201124161234338.png)，赶紧去看看吧，你一定会发现相见恨晚！**
+
+准备好了么，刷题攻略开始，go go go！
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
@@ -61,11 +71,13 @@
 * 求职 
     * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
     * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
+
     * [北京有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/BKrjK4myNB-FYbMqW9f3yw)
     * [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/iW4_rXQzc0fJDuSmPTUVdQ)
-    * [深圳原来有这么多互联网公司，你都知道么？](https://mp.weixin.qq.com/s/3VJHF2zNohBwDBxARFIn-Q)
+    * [深圳有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/3VJHF2zNohBwDBxARFIn-Q)
     * [广州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Ir_hQP0clbnvHrWzDL-qXg)
     * [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
+    * [杭州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/33FmPJYrOU-ygovoxIaEUw)
     
 
 * 算法性能分析
