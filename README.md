@@ -125,7 +125,7 @@
 * [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
 * [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
 * [哈希表：哈希值太大了，还是得用set](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
-* [哈希表：今天你快乐了么？](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
+* [哈希表：使用set求快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
 * [哈希表：map等候多时了](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
 * [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
 * [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
