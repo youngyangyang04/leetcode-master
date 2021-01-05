@@ -275,6 +275,7 @@
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
 * [关于动态规划，你该了解这些！](https://leetcode-cn.com/circle/article/tNuNnM/)
+* [动态规划：斐波那契数](https://mp.weixin.qq.com/s/ko0zLJplF7n_4TysnPOa_w)
 
 
 ## 图论 
