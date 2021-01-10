@@ -87,6 +87,7 @@
 
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
+    * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
 
 * 求职 
     * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
