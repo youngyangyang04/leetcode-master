@@ -289,6 +289,7 @@
 * [动态规划：关于01背包问题，你该了解这些！](https://mp.weixin.qq.com/s/FwIiPPmR18_AJO5eiidT6w)
 * [动态规划：关于01背包问题，你该了解这些！（滚动数组）](https://mp.weixin.qq.com/s/M4uHxNVKRKm5HPjkNZBnFA)
 * [动态规划：分割等和子集可以用01背包！](https://mp.weixin.qq.com/s/sYw3QtPPQ5HMZCJcT4EaLQ)
+* [动态规划：最后一块石头的重量 II](https://mp.weixin.qq.com/s/WbwAo3jaUaNJjvhHgq0BGg)
 
 
 （持续更新中....）
