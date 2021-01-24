@@ -88,6 +88,8 @@
 * 编程素养
     * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
     * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
+* 工具 
+    * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [程序员应该用什么用具来写文档？](https://mp.weixin.qq.com/s/s_hig9nioq8nT-2F7AL0SQ)
 
 * 求职 
