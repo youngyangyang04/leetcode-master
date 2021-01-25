@@ -293,6 +293,7 @@
 * [动态规划：分割等和子集可以用01背包！](https://mp.weixin.qq.com/s/sYw3QtPPQ5HMZCJcT4EaLQ)
 * [动态规划：最后一块石头的重量 II](https://mp.weixin.qq.com/s/WbwAo3jaUaNJjvhHgq0BGg)
 * [本周小结！（动态规划系列三）](https://mp.weixin.qq.com/s/7emRqR1O3scH63jbaE678A)
+* [动态规划：目标和！](https://mp.weixin.qq.com/s/2pWmaohX75gwxvBENS-NCw)
 
 
 （持续更新中....）
