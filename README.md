@@ -296,6 +296,7 @@
 * [动态规划：目标和！](https://mp.weixin.qq.com/s/2pWmaohX75gwxvBENS-NCw)
 * [动态规划：一和零！](https://mp.weixin.qq.com/s/x-u3Dsp76DlYqtCe0xEKJw) 
 * [动态规划：关于完全背包，你该了解这些！](https://mp.weixin.qq.com/s/akwyxlJ4TLvKcw26KB9uJw)
+* [动态规划：给你一些零钱，你要怎么凑？](https://mp.weixin.qq.com/s/PlowDsI4WMBOzf3q80AksQ)
 
 
 （持续更新中....）
