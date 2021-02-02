@@ -302,6 +302,7 @@
 * [动态规划：给你一些零钱，你要怎么凑？](https://mp.weixin.qq.com/s/PlowDsI4WMBOzf3q80AksQ)
 * [本周小结！（动态规划系列四）](https://mp.weixin.qq.com/s/vfEXwcOlrSBBcv9gg8VDJQ)
 * [动态规划：Carl称它为排列总和！](https://mp.weixin.qq.com/s/Iixw0nahJWQgbqVNk8k6gA)
+* [动态规划：以前我没得选，现在我选择再爬一次！](https://mp.weixin.qq.com/s/e_wacnELo-2PG76EjrUakA)
 
 
 （持续更新中....）
