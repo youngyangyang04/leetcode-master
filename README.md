@@ -80,7 +80,16 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
+## 资源下载
+
+本资源由代码随想录出品：
+
+* [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+
+（将陆续整理各个专题的PDF下载版本）
+
 ## 前序
+
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
@@ -107,9 +116,6 @@
     * [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
     * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
-
-* 资源下载 
-    * [「代码随想录」回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
 
 ## 数组 
 
