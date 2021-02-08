@@ -313,6 +313,7 @@
 * [动态规划： 给我个机会，我再兑换一次零钱](https://mp.weixin.qq.com/s/dyk-xNilHzNtVdPPLObSeQ)
 * [动态规划：一样的套路，再求一次完全平方数](https://mp.weixin.qq.com/s/VfJT78p7UGpDZsapKF_QJQ)
 * [本周小结！（动态规划系列五）](https://mp.weixin.qq.com/s/znj-9j8mWymRFaPjJN2Qnw)
+* [动态规划：单词拆分](https://mp.weixin.qq.com/s/3Spx1B6MbIYjS8YkVbByzA)
 
 
 （持续更新中....）
