@@ -314,6 +314,7 @@
 * [动态规划：一样的套路，再求一次完全平方数](https://mp.weixin.qq.com/s/VfJT78p7UGpDZsapKF_QJQ)
 * [本周小结！（动态规划系列五）](https://mp.weixin.qq.com/s/znj-9j8mWymRFaPjJN2Qnw)
 * [动态规划：单词拆分](https://mp.weixin.qq.com/s/3Spx1B6MbIYjS8YkVbByzA)
+* [动态规划：关于多重背包，你该了解这些！](https://mp.weixin.qq.com/s/b-UUUmbvG7URWyCjQkiuuQ)
 
 
 （持续更新中....）
