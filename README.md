@@ -18,7 +18,6 @@
 * [B站算法视频讲解](#B站算法视频讲解)
 * [LeetCode 刷题攻略](#LeetCode-刷题攻略) 
 * [算法模板](#算法模板)
-* [LeetCode题解](#LeetCode题解)
 * [关于作者](#关于作者)
 
 # 算法面试思维导图
@@ -338,10 +337,6 @@
 # 算法模板 
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
-
-# LeetCode题解 
-
-通知：仓库进行了调整，下架原「LeetCode题解」模块，这个模块其实是项目初期Carl平时写的题解然后就随时上传，但随着star fork的同学越来越多，需要保证题解质量再发布也是对读者们负责，所以本项目将继续整理刷题攻略（详细的刷题顺序以及相关精品题解）。
 
 
 # 关于作者
