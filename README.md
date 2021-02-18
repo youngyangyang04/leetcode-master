@@ -90,7 +90,6 @@
 
 ## 前序
 
-
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
@@ -119,49 +118,49 @@
 
 ## 数组 
 
-* [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
-* [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
-* [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-* [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
-* [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
-* [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
+1. [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg)
+2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
+3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
+5. [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
+6. [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
 
 ## 链表
 
-* [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
-* [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
-* [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
-* [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
-* [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
-* [链表：总结篇！](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)
+1. [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
+2. [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
+3. [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
+4. [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
+5. [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
+6. [链表：总结篇！](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)
 
 ## 哈希表
 
-* [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
-* [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
-* [哈希表：哈希值太大了，还是得用set](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
-* [哈希表：用set来判断快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
-* [哈希表：map等候多时了](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
-* [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
-* [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
-* [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
-* [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
-* [哈希表：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)
+1. [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
+2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
+3. [哈希表：哈希值太大了，还是得用set](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
+4. [哈希表：用set来判断快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
+5. [哈希表：map等候多时了](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
+6. [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
+7. [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
+8. [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
+9. [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
+10. [哈希表：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)
 
 
 ## 字符串
 
-* [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
-* [字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
-* [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
-* [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
-* [字符串：反转个字符串还有这个用处？](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
-* [帮你把KMP算法学个通透！（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
-* [帮你把KMP算法学个通透！（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
-* [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
-* [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
-* [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
-* [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
+1. [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
+2. [字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
+3. [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
+4. [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
+5. [字符串：反转个字符串还有这个用处？](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
+6. [帮你把KMP算法学个通透！（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
+7. [帮你把KMP算法学个通透！（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
+8. [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
+9. [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
+10. [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
+11. [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
 
 ## 双指针法 
 
