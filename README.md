@@ -81,7 +81,7 @@
 
 ## 资源下载
 
-**本资源由代码随想录出品：**
+**本资源由代码随想录原创出品：**
 
 * [二叉树学习手册开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
 * [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
@@ -355,5 +355,4 @@
 
 <a name="公众号"></a>
 
-<img src="https://img-blog.csdnimg.cn/20200911104903870.png" data-img="1" width="175" height="175">
-
+![](https://img-blog.csdnimg.cn/20210205113044152.png)
