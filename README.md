@@ -233,7 +233,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://img-blog.csdnimg.cn/20210219192050666.pn' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
 2. [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
