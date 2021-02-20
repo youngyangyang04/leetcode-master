@@ -190,6 +190,9 @@
 
 ## 二叉树 
 
+题目分类大纲如下：           
+<img src='https://img-blog.csdnimg.cn/20210219190809451.png' width=600 alt='二叉树大纲'> </img></div>
+
 1. [关于二叉树，你该了解这些！](https://mp.weixin.qq.com/s/_ymfWYvTNd2GvWvC5HOE4A)
 2. [二叉树：一入递归深似海，从此offer是路人](https://mp.weixin.qq.com/s/PwVIfxDlT3kRgMASWAMGhA)
 3. [二叉树：听说递归能做的，栈也能做！](https://mp.weixin.qq.com/s/c_zCrGHIVlBjUH_hJtghCg)
@@ -227,6 +230,11 @@
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)
  
 ## 回溯算法 
+
+题目分类大纲如下：             
+
+<img src='https://img-blog.csdnimg.cn/20210219192050666.pn' width=600 alt='回溯算法大纲'> </img></div>
+
 1. [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
 2. [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
 3. [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
