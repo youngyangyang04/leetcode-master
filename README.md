@@ -264,6 +264,10 @@
 
 ## 贪心算法 
 
+题目分类大纲如下：             
+
+<img src='https://img-blog.csdnimg.cn/20210220152245584.png' width=600 alt='贪心算法大纲'> </img></div>
+
 1. [关于贪心算法，你该了解这些！](https://mp.weixin.qq.com/s/O935TaoHE9Eexwe_vSbRAg)
 2. [贪心算法：分发饼干](https://mp.weixin.qq.com/s/YSuLIAYyRGlyxbp9BNC1uw)
 3. [贪心算法：摆动序列](https://mp.weixin.qq.com/s/Xytl05kX8LZZ1iWWqjMoHA)
