@@ -85,6 +85,7 @@
 
 * [二叉树学习手册开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
 * [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+* [贪心算法学习手册开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
 
 （将陆续整理各个专题的PDF下载版本）
 
