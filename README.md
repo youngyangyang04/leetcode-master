@@ -328,6 +328,7 @@
 27. [动态规划：关于多重背包，你该了解这些！](https://mp.weixin.qq.com/s/b-UUUmbvG7URWyCjQkiuuQ)
 28. [听说背包问题很难？ 这篇总结篇来拯救你了](https://mp.weixin.qq.com/s/ZOehl3U1mDiyOQjFG1wNJA)
 29. [动态规划：开始打家劫舍！](https://mp.weixin.qq.com/s/UZ31WdLEEFmBegdgLkJ8Dw)
+30. [动态规划：继续打家劫舍！](https://mp.weixin.qq.com/s/kKPx4HpH3RArbRcxAVHbeQ)
 
 
 （持续更新中....）
