@@ -329,6 +329,8 @@
 28. [听说背包问题很难？ 这篇总结篇来拯救你了](https://mp.weixin.qq.com/s/ZOehl3U1mDiyOQjFG1wNJA)
 29. [动态规划：开始打家劫舍！](https://mp.weixin.qq.com/s/UZ31WdLEEFmBegdgLkJ8Dw)
 30. [动态规划：继续打家劫舍！](https://mp.weixin.qq.com/s/kKPx4HpH3RArbRcxAVHbeQ)
+31. [动态规划：还要打家劫舍！](https://mp.weixin.qq.com/s/BOJ1lHsxbQxUZffXlgglEQ)
+32. [动态规划：买卖股票的最佳时机](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
 
 
 （持续更新中....）
