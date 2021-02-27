@@ -83,9 +83,10 @@
 
 **本资源由代码随想录原创出品：**
 
-* [二叉树学习手册开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
-* [回溯算法学习手册开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
-* [贪心算法学习手册开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
+* [二叉树学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
+* [回溯算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
+* [贪心算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
+* [背包问题学习手册PDF开放下载！](https://mp.weixin.qq.com/s/X220c9ouxSW-gBrKC8ZAEw)
 
 （将陆续整理各个专题的PDF下载版本）
 
