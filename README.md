@@ -312,7 +312,7 @@
 10. [本周小结！（动态规划系列二）](https://mp.weixin.qq.com/s/VVsDwTP57g1f9aVsg6wShw)
 
 背包问题系列：
-![背包问题大纲](https://img-blog.csdnimg.cn/202102261550480.png)
+<img src='https://img-blog.csdnimg.cn/202102261550480.png' width=600 alt='背包问题大纲'> </img></div>
 
 11. [动态规划：关于01背包问题，你该了解这些！](https://mp.weixin.qq.com/s/FwIiPPmR18_AJO5eiidT6w)
 12. [动态规划：关于01背包问题，你该了解这些！（滚动数组）](https://mp.weixin.qq.com/s/M4uHxNVKRKm5HPjkNZBnFA)
