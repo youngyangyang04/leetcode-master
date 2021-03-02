@@ -343,6 +343,7 @@
 股票系列：
 
 32. [动态规划：买卖股票的最佳时机](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
+33. [动态规划：买卖股票的最佳时机II](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
 
 
 （持续更新中....）
