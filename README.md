@@ -344,6 +344,8 @@
 
 32. [动态规划：买卖股票的最佳时机](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
 33. [动态规划：买卖股票的最佳时机II](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
+34. [动态规划：买卖股票的最佳时机III](https://mp.weixin.qq.com/s/Sbs157mlVDtAR0gbLpdKzg)
+35. [动态规划：买卖股票的最佳时机IV](https://mp.weixin.qq.com/s/jtxZJWAo2y5sUsW647Z5cw)
 
 
 （持续更新中....）
