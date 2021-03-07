@@ -100,6 +100,7 @@
     * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
+    * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
     * [程序员应该用什么用具来写文档？](https://mp.weixin.qq.com/s/s_hig9nioq8nT-2F7AL0SQ)
 
 * 求职 
@@ -348,6 +349,7 @@
 34. [动态规划：买卖股票的最佳时机III](https://mp.weixin.qq.com/s/Sbs157mlVDtAR0gbLpdKzg)
 35. [动态规划：买卖股票的最佳时机IV](https://mp.weixin.qq.com/s/jtxZJWAo2y5sUsW647Z5cw)
 36. [动态规划：最佳买卖股票时机含冷冻期](https://mp.weixin.qq.com/s/IgC0iWWCDpYL9ZbTHGHgfw)
+37. [动态规划：本周我们都讲了这些（系列七）](https://mp.weixin.qq.com/s/vdzDlrEvhXWRzblTnOnzKg)
 
 
 （持续更新中....）
