@@ -350,6 +350,7 @@
 35. [动态规划：买卖股票的最佳时机IV](https://mp.weixin.qq.com/s/jtxZJWAo2y5sUsW647Z5cw)
 36. [动态规划：最佳买卖股票时机含冷冻期](https://mp.weixin.qq.com/s/IgC0iWWCDpYL9ZbTHGHgfw)
 37. [动态规划：本周我们都讲了这些（系列七）](https://mp.weixin.qq.com/s/vdzDlrEvhXWRzblTnOnzKg)
+38. [动态规划：买卖股票的最佳时机含手续费](https://mp.weixin.qq.com/s/2Cd_uINjerZ25VHH0K2IBQ)
 
 
 （持续更新中....）
@@ -380,6 +381,8 @@
 大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
 
 **加我的微信，备注：「个人简单介绍」+「组队刷题」**， 拉你进刷题群，每天一道经典题目分析，而且题目不是孤立的，每一道题目之间都是有关系的，都是由浅入深一脉相承的，所以学习效果最好是每篇连续着看，也许之前你会某些知识点，但是一直没有把知识点串起来，这里每天一篇文章就会帮你把知识点串起来。
+
+也欢迎找我交流，加微信备注：「个人简单介绍」 + 交流
 
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
