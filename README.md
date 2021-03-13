@@ -121,7 +121,7 @@
 
 ## 数组 
 
-1. [必须掌握的数组理论知识](https://mp.weixin.qq.com/s/X7R55wSENyY62le0Fiawsg) [二维数组的地址分布究竟是什么样的？](https://mp.weixin.qq.com/s/uruutfgMeShrGHkSyKl0ww)
+1. [数组过于简单，但你该了解这些！](https://mp.weixin.qq.com/s/c2KABb-Qgg66HrGf8z-8Og) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
 3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
 4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
