@@ -360,6 +360,7 @@
 39. [动态规划：最长递增子序列](https://mp.weixin.qq.com/s/f8nLO3JGfgriXep_gJQpqQ)
 40. [动态规划：最长连续递增序列](https://mp.weixin.qq.com/s/c0Nn0TtjkTISVdqRsyMmyA)
 41. [动态规划：最长重复子数组](https://mp.weixin.qq.com/s/U5WaWqBwdoxzQDotOdWqZg)
+42. [动态规划：最长公共子序列](https://mp.weixin.qq.com/s/Qq0q4HaE4TyasCTj2WGFOg)
 
 
 
