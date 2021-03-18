@@ -1,6 +1,16 @@
-<p align='center'>
-<img src="./pics/微信搜一搜.png" width=400 >
-</p>
+
+## 一些闲话：
+
+> 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
+> 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
+> 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=100003900&idx=1&sn=6e95a63f25aac3c6a46910b700ee52f9&chksm=79a2236d4ed5aa7bb5ad50442d6398deb89f620808e667c203e833f19a4b52f6f84fc95a643c&scene=18#wechat_redirect) 。
+> 4. **转载须知** ：以下所有文章如非文首说明皆为我（程序员Carl）的原创，转载会在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+
+<p align="center">
+<a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
+	<img src="https://img-blog.csdnimg.cn/20210318112734278.png" width="300"/>
+</a>
+
 <p align="center">
   <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
   <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
@@ -9,16 +19,6 @@
   <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/知乎-代码随想录-blue" alt=""></a>
   <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
 </p>
-
-
-目录：
-=================
-
-* [算法面试思维导图](#算法面试思维导图)
-* [B站算法视频讲解](#B站算法视频讲解)
-* [LeetCode 刷题攻略](#LeetCode-刷题攻略) 
-* [算法模板](#算法模板)
-* [关于作者](#关于作者)
 
 # 算法面试思维导图
 
@@ -79,16 +79,6 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
-## 资源下载
-
-**本资源由代码随想录原创出品：**
-
-* [二叉树学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/uSyeCq0UF6kwRKcWkLnXuw)
-* [回溯算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/aSToAWOPnPV4GiDf9n0p-w)
-* [贪心算法学习手册PDF开放下载！！](https://mp.weixin.qq.com/s/dUUWPVB7aVMpStPOG8cKnQ)
-* [背包问题学习手册PDF开放下载！](https://mp.weixin.qq.com/s/X220c9ouxSW-gBrKC8ZAEw)
-
-（将陆续整理各个专题的PDF下载版本）
 
 ## 前序
 
