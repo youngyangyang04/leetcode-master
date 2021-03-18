@@ -3,8 +3,8 @@
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
-> 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=100003900&idx=1&sn=6e95a63f25aac3c6a46910b700ee52f9&chksm=79a2236d4ed5aa7bb5ad50442d6398deb89f620808e667c203e833f19a4b52f6f84fc95a643c&scene=18#wechat_redirect) 。
-> 4. **转载须知** ：以下所有文章如非文首说明皆为我（程序员Carl）的原创，转载会在文首注明出处，如发现恶意抄袭/搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
+> 4. **转载须知** ：以下所有文章如非文首说明皆为我（程序员Carl）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
 <a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
