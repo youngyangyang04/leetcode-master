@@ -111,6 +111,7 @@
     * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
     * [关于空间复杂度，可能有几个疑问？](https://mp.weixin.qq.com/s/IPv4pTD6UxKkFBkgeDCZyg)
     * [递归算法的时间与空间复杂度分析！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)
+    * [刷了这么多题，你了解自己代码的内存消耗么？](https://mp.weixin.qq.com/s/IFZQCxJlI7-_dOC25xIOYQ)
 
 （持续更新中.....）
 
@@ -355,6 +356,9 @@
 41. [动态规划：最长重复子数组](https://mp.weixin.qq.com/s/U5WaWqBwdoxzQDotOdWqZg)
 42. [动态规划：最长公共子序列](https://mp.weixin.qq.com/s/Qq0q4HaE4TyasCTj2WGFOg)
 43. [动态规划：本周我们都讲了这些（系列八）](https://mp.weixin.qq.com/s/KJNNOzGxTYhr1ks7tHvk0g)
+44. [动态规划：不相交的线](https://mp.weixin.qq.com/s/krfYzSYEO8jIoVfyHzR0rw)
+45. [动态规划：最大子序和](https://mp.weixin.qq.com/s/2Xtyi2L4r8sM-BcxgUKmcA)
+46. [动态规划：判断子序列](https://mp.weixin.qq.com/s/2pjT4B4fjfOx5iB6N6xyng)
 
 
 
