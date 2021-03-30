@@ -345,7 +345,7 @@
 33. [动态规划：买卖股票的最佳时机II](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
 34. [动态规划：买卖股票的最佳时机III](https://mp.weixin.qq.com/s/Sbs157mlVDtAR0gbLpdKzg)
 35. [动态规划：买卖股票的最佳时机IV](https://mp.weixin.qq.com/s/jtxZJWAo2y5sUsW647Z5cw)
-36. [动态规划：最佳买卖股票时机含冷冻期](https://mp.weixin.qq.com/s/IgC0iWWCDpYL9ZbTHGHgfw)
+36. [动态规划：最佳买卖股票时机含冷冻期](https://mp.weixin.qq.com/s/TczJGFAPnkjH9ET8kwH1OA)
 37. [动态规划：本周我们都讲了这些（系列七）](https://mp.weixin.qq.com/s/vdzDlrEvhXWRzblTnOnzKg)
 38. [动态规划：买卖股票的最佳时机含手续费](https://mp.weixin.qq.com/s/2Cd_uINjerZ25VHH0K2IBQ)
 
