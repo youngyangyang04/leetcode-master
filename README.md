@@ -340,6 +340,8 @@
 
 股票系列：
 
+<img src='https://code-thinking.cdn.bcebos.com/pics/%E8%82%A1%E7%A5%A8%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.jpg' width=500 alt='股票问题总结'> </img></div>
+
 32. [动态规划：买卖股票的最佳时机](https://mp.weixin.qq.com/s/keWo5qYJY4zmHn3amfXdfQ)
 33. [动态规划：本周我们都讲了这些（系列六）](https://mp.weixin.qq.com/s/GVu-6eF0iNkpVDKRXTPOTA)
 33. [动态规划：买卖股票的最佳时机II](https://mp.weixin.qq.com/s/d4TRWFuhaY83HPa6t5ZL-w)
