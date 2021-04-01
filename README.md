@@ -350,17 +350,20 @@
 36. [动态规划：最佳买卖股票时机含冷冻期](https://mp.weixin.qq.com/s/TczJGFAPnkjH9ET8kwH1OA)
 37. [动态规划：本周我们都讲了这些（系列七）](https://mp.weixin.qq.com/s/vdzDlrEvhXWRzblTnOnzKg)
 38. [动态规划：买卖股票的最佳时机含手续费](https://mp.weixin.qq.com/s/2Cd_uINjerZ25VHH0K2IBQ)
+39. [动态规划：股票系列总结篇](https://mp.weixin.qq.com/s/sC5XyEtDQWkonKnbCvZhDw)
 
 子序列系列： 
 
-39. [动态规划：最长递增子序列](https://mp.weixin.qq.com/s/f8nLO3JGfgriXep_gJQpqQ)
-40. [动态规划：最长连续递增序列](https://mp.weixin.qq.com/s/c0Nn0TtjkTISVdqRsyMmyA)
-41. [动态规划：最长重复子数组](https://mp.weixin.qq.com/s/U5WaWqBwdoxzQDotOdWqZg)
-42. [动态规划：最长公共子序列](https://mp.weixin.qq.com/s/Qq0q4HaE4TyasCTj2WGFOg)
-43. [动态规划：本周我们都讲了这些（系列八）](https://mp.weixin.qq.com/s/KJNNOzGxTYhr1ks7tHvk0g)
-44. [动态规划：不相交的线](https://mp.weixin.qq.com/s/krfYzSYEO8jIoVfyHzR0rw)
-45. [动态规划：最大子序和](https://mp.weixin.qq.com/s/2Xtyi2L4r8sM-BcxgUKmcA)
-46. [动态规划：判断子序列](https://mp.weixin.qq.com/s/2pjT4B4fjfOx5iB6N6xyng)
+40. [动态规划：最长递增子序列](https://mp.weixin.qq.com/s/f8nLO3JGfgriXep_gJQpqQ)
+41. [动态规划：最长连续递增序列](https://mp.weixin.qq.com/s/c0Nn0TtjkTISVdqRsyMmyA)
+42. [动态规划：最长重复子数组](https://mp.weixin.qq.com/s/U5WaWqBwdoxzQDotOdWqZg)
+43. [动态规划：最长公共子序列](https://mp.weixin.qq.com/s/Qq0q4HaE4TyasCTj2WGFOg)
+44. [动态规划：本周我们都讲了这些（系列八）](https://mp.weixin.qq.com/s/KJNNOzGxTYhr1ks7tHvk0g)
+45. [动态规划：不相交的线](https://mp.weixin.qq.com/s/krfYzSYEO8jIoVfyHzR0rw)
+46. [动态规划：最大子序和](https://mp.weixin.qq.com/s/2Xtyi2L4r8sM-BcxgUKmcA)
+47. [动态规划：判断子序列](https://mp.weixin.qq.com/s/2pjT4B4fjfOx5iB6N6xyng)
+48. [动态规划：不同的子序列](https://mp.weixin.qq.com/s/1SULY2XVSROtk_hsoVLu8A)
+49. [动态规划：两个字符串的删除操作](https://mp.weixin.qq.com/s/a8BerpqSf76DCqkPDJrpYg)
 
 
 
