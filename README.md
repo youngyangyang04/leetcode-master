@@ -364,7 +364,7 @@
 47. [动态规划：判断子序列](https://mp.weixin.qq.com/s/2pjT4B4fjfOx5iB6N6xyng)
 48. [动态规划：不同的子序列](https://mp.weixin.qq.com/s/1SULY2XVSROtk_hsoVLu8A)
 49. [动态规划：两个字符串的删除操作](https://mp.weixin.qq.com/s/a8BerpqSf76DCqkPDJrpYg)
-
+50. [动态规划：本周我们都讲了这些（系列十）](https://mp.weixin.qq.com/s/ES1SXf54047496YnNdeirA)
 
 
 
