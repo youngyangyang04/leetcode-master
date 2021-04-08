@@ -82,6 +82,8 @@
 
 ## 前序
 
+* [代码随想录知识星球](https://mp.weixin.qq.com/s/X1XCH-KevURi3LnakJsCkA)
+
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
