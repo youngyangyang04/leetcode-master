@@ -22,8 +22,9 @@
 
 <p align="center">
 <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
-	<img src="https://code-thinking.cdn.bcebos.com/pics/0leetcode-master%E5%9B%BE.png" width="700"/>
+	<img src="./pics/知识星球.png" width="600"/>
 </a>
+
 
 # B站算法视频讲解 
 
