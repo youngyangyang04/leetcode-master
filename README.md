@@ -34,6 +34,8 @@
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
 * [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
 * [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
+* [分割回文串（对应力扣题目：131.分割回文串)](https://www.bilibili.com/video/BV1c54y1e7k6)
+* [关于二叉树，你该了解这些！（理论基础一网打尽）](https://www.bilibili.com/video/BV1Hy4y1t7ij)
 
 （持续更新中....）
 
