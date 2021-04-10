@@ -20,9 +20,10 @@
   <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
 </p>
 
-# 算法面试思维导图
-
-![算法面试知识大纲](./pics/算法大纲.png)
+<p align="center">
+<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+	<img src="https://code-thinking.cdn.bcebos.com/pics/0leetcode-master%E5%9B%BE.png" width="700"/>
+</a>
 
 # B站算法视频讲解 
 
