@@ -373,6 +373,7 @@
 50. [动态规划：本周我们都讲了这些（系列十）](https://mp.weixin.qq.com/s/ES1SXf54047496YnNdeirA)
 51. [动态规划：编辑距离](https://mp.weixin.qq.com/s/8aG71XjSgZG6kZbiAdkJnQ)
 52. [为了绝杀编辑距离，我做了三步铺垫，你都知道么？](https://mp.weixin.qq.com/s/kbs4kCUzg8gPFttF9H3Yyw)
+53. [动态规划：回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw)
 
 
 （持续更新中....）
