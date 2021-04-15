@@ -374,6 +374,7 @@
 51. [动态规划：编辑距离](https://mp.weixin.qq.com/s/8aG71XjSgZG6kZbiAdkJnQ)
 52. [为了绝杀编辑距离，我做了三步铺垫，你都知道么？](https://mp.weixin.qq.com/s/kbs4kCUzg8gPFttF9H3Yyw)
 53. [动态规划：回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw)
+54. [动态规划：最长回文子序列](https://mp.weixin.qq.com/s/jbd3p4QPm5Kh1s2smTzWag)
 
 
 （持续更新中....）
@@ -398,6 +399,10 @@
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
 
+# 知识星球精算 
+
+1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
 
 # 关于作者
 
