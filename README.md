@@ -241,7 +241,7 @@
 
 <img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
 
-1. [关于回溯算法，你该了解这些！](https://mp.weixin.qq.com/s/gjSgJbNbd1eAA5WkA-HeWw)
+1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
 3. [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
 4. [回溯算法：求组合总和！](https://mp.weixin.qq.com/s/HX7WW6ixbFZJASkRnCTC3w)
