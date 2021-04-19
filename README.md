@@ -1,3 +1,8 @@
+## 重要通知！ 
+
+攻略里每篇文章都是公众号的文章链接，之前是为了方便，可随着star和fork的同学越来越多，发现文章链接的话没有办法及时修改题解，大家也没法参与进来，所以近期我会陆续将题解换回Markdown文件。 
+
+感谢每一位star和fork的同学，这个学习项目将越来越好，不负期待！
 
 ## 一些闲话：
 
@@ -86,6 +91,7 @@
 
 ## 前序
 
+* [代码随想录后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
 * [代码随想录知识星球](https://mp.weixin.qq.com/s/X1XCH-KevURi3LnakJsCkA)
 
 * 编程语言
