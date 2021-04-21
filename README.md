@@ -2,7 +2,7 @@
 
 攻略里每篇文章都是公众号的文章链接，之前是为了方便，可随着star和fork的同学越来越多，发现文章链接的话没有办法及时修改题解，大家也没法参与进来，所以近期我会陆续将题解换回Markdown文件。 
 
-感谢每一位star和fork的同学，这个LeetCode-Master将越来越好，不负期待！
+感谢每一位star和fork的同学，LeetCode-Master将越来越好，不负期待！
 
 ## 一些闲话：
 
@@ -129,7 +129,7 @@
 
 ## 数组 
 
-1. [数组过于简单，但你该了解这些！](https://mp.weixin.qq.com/s/c2KABb-Qgg66HrGf8z-8Og) 
+1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
 3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
 4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
