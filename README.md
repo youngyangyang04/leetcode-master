@@ -17,12 +17,10 @@
 </a>
 
 <p align="center">
-  <a href="https://github.com/youngyangyang04/leetcode-master"><img src="https://img.shields.io/badge/Github-leetcode--master-lightgrey" alt=""></a>
-  <a href="https://img-blog.csdnimg.cn/20201115103410182.png"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
   <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://www.zhihu.com/people/sun-xiu-yang-64"><img src="https://img.shields.io/badge/知乎-代码随想录-blue" alt=""></a>
-  <a href="https://www.toutiao.com/c/user/60356270818/#mid=1633692776932365"><img src="https://img.shields.io/badge/头条-代码随想录-red" alt=""></a>
 </p>
 
 <p align="center">
@@ -130,8 +128,8 @@
 ## 数组 
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
-2. [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s/fCf5QbPDtE6SSlZ1yh_q8Q)
-3. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
+2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
+3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
 4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
 5. [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
 6. [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
@@ -248,11 +246,11 @@
 <img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
-2. [回溯算法：求组合问题！](https://mp.weixin.qq.com/s/OnBjbLzuipWz_u4QfmgcqQ)
-3. [回溯算法：组合问题再剪剪枝](https://mp.weixin.qq.com/s/Ri7spcJMUmph4c6XjPWXQA)
-4. [回溯算法：求组合总和！](https://mp.weixin.qq.com/s/HX7WW6ixbFZJASkRnCTC3w)
-5. [回溯算法：电话号码的字母组合](https://mp.weixin.qq.com/s/e2ua2cmkE_vpYjM3j6HY0A)
-6. [本周小结！（回溯算法系列一）](https://mp.weixin.qq.com/s/m2GnTJdkYhAamustbb6lmw)
+2. [回溯算法：组合问题](./problems/0077.组合.md)
+3. [回溯算法：组合问题再剪剪枝](./problems/0077.组合优化.md)
+4. [回溯算法：求组合总和！](./problems/0216.组合总和III.md)
+5. [回溯算法：电话号码的字母组合](./problems/0017.电话号码的字母组合.md)
+6. [本周小结！（回溯算法系列一）](./problems/周总结/20201030回溯周末总结.md)
 7. [回溯算法：求组合总和（二）](https://mp.weixin.qq.com/s/FLg8G6EjVcxBjwCbzpACPw)
 8. [回溯算法：求组合总和（三）](https://mp.weixin.qq.com/s/_1zPYk70NvHsdY8UWVGXmQ)
 9. [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
