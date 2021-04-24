@@ -1,9 +1,3 @@
-## 重要通知！ 
-
-攻略里每篇文章都是公众号的文章链接，之前是为了方便，可随着star和fork的同学越来越多，发现文章链接的话没有办法及时修改题解，大家也没法参与进来，所以近期我会陆续将题解换回Markdown文件。 
-
-感谢每一位star和fork的同学，LeetCode-Master将越来越好，不负期待！
-
 ## 一些闲话：
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
@@ -22,27 +16,6 @@
   <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
 </p>
-
-<p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
-	<img src="./pics/知识星球.png" width="600"/>
-</a>
-
-
-# B站算法视频讲解 
-
-以下为[B站「代码随想录」](https://space.bilibili.com/525438321)算法讲解视频：
-
-* [帮你把KMP算法学个通透！（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
-* [帮你把KMP算法学个通透！（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
-* [带你学透回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
-* [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
-* [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
-* [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
-* [分割回文串（对应力扣题目：131.分割回文串)](https://www.bilibili.com/video/BV1c54y1e7k6)
-* [关于二叉树，你该了解这些！（理论基础一网打尽）](https://www.bilibili.com/video/BV1Hy4y1t7ij)
-
-（持续更新中....）
 
 # LeetCode 刷题攻略
 
@@ -86,6 +59,7 @@
 
 准备好了么，刷题攻略开始咯，go go go！
 
+---------------------------------------------
 
 ## 前序
 
@@ -96,9 +70,9 @@
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
 * 编程素养
-    * [看了这么多代码，谈一谈代码风格！](https://mp.weixin.qq.com/s/UR9ztxz3AyL3qdHn_zMbqw)
-    * [力扣上的代码想在本地编译运行？](https://mp.weixin.qq.com/s/r1696t8lvcw7Rz4gb_jacw)
-    * [什么是核心代码模式，什么又是ACM模式？](https://mp.weixin.qq.com/s/TSEBJoeCB0dVVXFnlmES3A)
+    * [看了这么多代码，谈一谈代码风格！](./problems/看了这么多代码，谈一谈代码风格！.md)
+    * [力扣上的代码想在本地编译运行？](./problems/力扣上的代码想在本地编译运行？.md)
+    * [什么是核心代码模式，什么又是ACM模式？](./problems/什么是核心代码模式，什么又是ACM模式？.md)
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
@@ -253,7 +227,7 @@
 6. [本周小结！（回溯算法系列一）](./problems/周总结/20201030回溯周末总结.md)
 7. [回溯算法：求组合总和（二）](./problems/0039.组合总和.md)
 8. [回溯算法：求组合总和（三）](./problems/0040.组合总和II.md)
-9. [回溯算法：分割回文串](https://mp.weixin.qq.com/s/Pb1epUTbU8fHIht-g_MS5Q)
+9. [回溯算法：分割回文串](./problems/0131.分割回文串.md)
 10. [回溯算法：复原IP地址](https://mp.weixin.qq.com/s/v--VmA8tp9vs4bXCqHhBuA)
 11. [回溯算法：求子集问题！](https://mp.weixin.qq.com/s/NNRzX-vJ_pjK4qxohd_LtA)
 12. [本周小结！（回溯算法系列二）](https://mp.weixin.qq.com/s/uzDpjrrMCO8DOf-Tl5oBGw)
@@ -407,6 +381,21 @@
 
 1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
 2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+
+# B站算法视频讲解 
+
+以下为[B站「代码随想录」](https://space.bilibili.com/525438321)算法讲解视频：
+
+* [帮你把KMP算法学个通透！（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [帮你把KMP算法学个通透！（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [带你学透回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
+* [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
+* [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
+* [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
+* [分割回文串（对应力扣题目：131.分割回文串)](https://www.bilibili.com/video/BV1c54y1e7k6)
+* [关于二叉树，你该了解这些！（理论基础一网打尽）](https://www.bilibili.com/video/BV1Hy4y1t7ij)
+
+（持续更新中....）
 
 # 关于作者
 
