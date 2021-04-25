@@ -70,32 +70,32 @@
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
 
 * 编程素养
-    * [看了这么多代码，谈一谈代码风格！](./problems/看了这么多代码，谈一谈代码风格！.md)
-    * [力扣上的代码想在本地编译运行？](./problems/力扣上的代码想在本地编译运行？.md)
-    * [什么是核心代码模式，什么又是ACM模式？](./problems/什么是核心代码模式，什么又是ACM模式？.md)
+    * [看了这么多代码，谈一谈代码风格！](./problems/前序/看了这么多代码，谈一谈代码风格！.md)
+    * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
+    * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
-    * [程序员应该用什么用具来写文档？](./problems/程序员应该用什么用具来写文档？.md)
+    * [程序员应该用什么用具来写文档？](./problems/前序/程序员应该用什么用具来写文档？.md)
 
 * 求职 
-    * [程序员的简历应该这么写！！（附简历模板）](https://mp.weixin.qq.com/s/nCTUzuRTBo1_R_xagVszsA)
-    * [BAT级别技术面试流程和注意事项都在这里了](https://mp.weixin.qq.com/s/815qCyFGVIxwut9I_7PNFw)
-    * [北京有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/BKrjK4myNB-FYbMqW9f3yw)
-    * [上海有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/iW4_rXQzc0fJDuSmPTUVdQ)
-    * [深圳有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/3VJHF2zNohBwDBxARFIn-Q)
-    * [广州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Ir_hQP0clbnvHrWzDL-qXg)
-    * [成都有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/Y9Qg22WEsBngs8B-K8acqQ)
-    * [杭州有这些互联网公司，你都知道么？](https://mp.weixin.qq.com/s/33FmPJYrOU-ygovoxIaEUw)
+    * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员的简历应该这么写！！.md)
+    * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
+    * [北京有这些互联网公司，你都知道么？](./problems/前序/北京互联网公司总结.md)
+    * [上海有这些互联网公司，你都知道么？](./problems/前序/上海互联网公司总结.md)
+    * [深圳有这些互联网公司，你都知道么？](./problems/前序/深圳互联网公司总结.md)
+    * [广州有这些互联网公司，你都知道么？](./problems/前序/广州互联网公司总结.md)
+    * [成都有这些互联网公司，你都知道么？](./problems/前序/成都互联网公司总结.md)
+    * [杭州有这些互联网公司，你都知道么？](./problems/前序/杭州互联网公司总结.md)
     
 * 算法性能分析
-    * [关于时间复杂度，你不知道的都在这里！](https://mp.weixin.qq.com/s/LWBfehW1gMuEnXtQjJo-sw)
-    * [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)
-    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)
-    * [本周小结！（算法性能分析系列一）](https://mp.weixin.qq.com/s/5m8xDbGUeGgYJsESeg5ITQ)
-    * [关于空间复杂度，可能有几个疑问？](https://mp.weixin.qq.com/s/IPv4pTD6UxKkFBkgeDCZyg)
-    * [递归算法的时间与空间复杂度分析！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](https://mp.weixin.qq.com/s/IFZQCxJlI7-_dOC25xIOYQ)
+    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
+    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
+    * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
+    * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
+    * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析！.md)
+    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
 （持续更新中.....）
 
