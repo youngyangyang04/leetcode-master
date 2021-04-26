@@ -104,19 +104,19 @@
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
 3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
-4. [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s/UrZynlqi4QpyLlLhBPglyg)
-5. [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s/KTPhaeqxbMK9CxHUUgFDmg)
-6. [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
+4. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
+5. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
+6. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
-1. [关于链表，你该了解这些！](https://mp.weixin.qq.com/s/ntlZbEdKgnFQKZkSUAOSpQ)
-2. [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s/slM1CH5Ew9XzK93YOQYSjA)
-3. [链表：一道题目考察了常见的五个操作！](https://mp.weixin.qq.com/s/Cf95Lc6brKL4g2j8YyF3Mg)
-4. [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
-5. [链表：删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/solution/dai-ma-sui-xiang-lu-19-shan-chu-lian-bia-2hxt/)
-5. [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
-6. [链表：总结篇！](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)
+1. [关于链表，你该了解这些！](./problems/链表理论基础.md)
+2. [链表：听说用虚拟头节点会方便很多？](./problems/0203.移除链表元素.md)
+3. [链表：一道题目考察了常见的五个操作！](./problems/0707.设计链表.md)
+4. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md)
+5. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
+5. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
+6. [链表：总结篇！](./problems/链表总结篇.md)
 
 ## 哈希表
 
@@ -134,28 +134,25 @@
 
 ## 字符串
 
-1. [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
-2. [字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)
-3. [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
-4. [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
-5. [字符串：反转个字符串还有这个用处？](https://mp.weixin.qq.com/s/PmcdiWSmmccHAONzU0ScgQ)
-6. [帮你把KMP算法学个通透！（理论篇）B站视频](https://www.bilibili.com/video/BV1PD4y1o7nd)
-7. [帮你把KMP算法学个通透！（代码篇）B站视频](https://www.bilibili.com/video/BV1M5411j7Xx)
-8. [字符串：都来看看KMP的看家本领！](https://mp.weixin.qq.com/s/Gk9FKZ9_FSWLEkdGrkecyg)
-9. [字符串：KMP算法还能干这个！](https://mp.weixin.qq.com/s/lR2JPtsQSR2I_9yHbBmBuQ)
-10. [字符串：前缀表不右移，难道就写不出KMP了？](https://mp.weixin.qq.com/s/p3hXynQM2RRROK5c6X7xfw)
-11. [字符串：总结篇！](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg)
+1. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md)
+2. [字符串：简单的反转还不够！](./problems/0541.反转字符串II.md)
+3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md)
+4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
+5. [字符串：反转个字符串还有这个用处？](./problems/剑指Offer58-II.左旋转字符串.md)
+6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
+8. [字符串：KMP算法还能干这个！](./problems/0459.重复的子字符串.md)
+9. [字符串：总结篇！](./problems/字符串总结.md)
 
 ## 双指针法 
 
 双指针法基本都是应用在数组，字符串与链表的题目上
 
-1. [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-2. [字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
-3. [字符串：替换空格](https://mp.weixin.qq.com/s/t0A9C44zgM-RysAQV3GZpg)
-4. [字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)
-5. [链表：听说过两天反转链表又写不出来了？](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
-6. [链表：环找到了，那入口呢？](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
+1. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
+2. [字符串：这道题目，使用库函数一行代码搞定](./problems/0344.反转字符串.md)
+3. [字符串：替换空格](./problems/剑指Offer05.替换空格.md)
+4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
+5. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md)
+6. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
 7. [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
 8. [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
 9. [双指针法：总结篇！](https://mp.weixin.qq.com/s/_p7grwjISfMh0U65uOyCjA)
