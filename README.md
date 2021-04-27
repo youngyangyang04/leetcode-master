@@ -3,7 +3,7 @@
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
 > 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
-> 4. **转载须知** ：以下所有文章如非文首说明皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 4. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
 <a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
@@ -120,16 +120,16 @@
 
 ## 哈希表
 
-1. [关于哈希表，你该了解这些！](https://mp.weixin.qq.com/s/g8N6WmoQmsCUw3_BaWxHZA)
-2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](https://mp.weixin.qq.com/s/vM6OszkM6L1Mx2Ralm9Dig)
-3. [哈希表：哈希值太大了，还是得用set](https://mp.weixin.qq.com/s/N9iqAchXreSVW7zXUS4BVA)
-4. [哈希表：用set来判断快乐数](https://mp.weixin.qq.com/s/G4Q2Zfpfe706gLK7HpZHpA)
-5. [哈希表：map等候多时了](https://mp.weixin.qq.com/s/uVAtjOHSeqymV8FeQbliJQ)
-6. [哈希表：其实需要哈希的地方都能找到map的身影](https://mp.weixin.qq.com/s/Ue8pKKU5hw_m-jPgwlHcbA)
-7. [哈希表：这道题目我做过？](https://mp.weixin.qq.com/s/sYZIR4dFBrw_lr3eJJnteQ)
-8. [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
-9. [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
-10. [哈希表：总结篇！（每逢总结必经典）](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)
+1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
+2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](./problems/0242.有效的字母异位词.md)
+3. [哈希表：哈希值太大了，还是得用set](./problems/0349.两个数组的交集.md)
+4. [哈希表：用set来判断快乐数](./problems/0202.快乐数.md)
+5. [哈希表：map等候多时了](./problems/0001.两数之和.md)
+6. [哈希表：其实需要哈希的地方都能找到map的身影](./problems/0454.四数相加II.md)
+7. [哈希表：这道题目我做过？](./problems/0383.赎金信.md)
+8. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
+9. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
+10. [哈希表：总结篇！（每逢总结必经典）](./problems/哈希表总结.md)
 
 
 ## 字符串
@@ -153,9 +153,9 @@
 4. [字符串：花式反转还不够！](./problems/0151.翻转字符串里的单词.md)
 5. [链表：听说过两天反转链表又写不出来了？](./problems/0206.翻转链表.md)
 6. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
-7. [哈希表：解决了两数之和，那么能解决三数之和么？](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
-8. [双指针法：一样的道理，能解决四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
-9. [双指针法：总结篇！](https://mp.weixin.qq.com/s/_p7grwjISfMh0U65uOyCjA)
+7. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
+8. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
+9. [双指针法：总结篇！](./problems/双指针总结.md)
 
 ## 栈与队列
 
