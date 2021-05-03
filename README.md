@@ -2,7 +2,7 @@
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
-> 3. **知识星球** : 面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[我的知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
+> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
 > 4. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
@@ -63,8 +63,9 @@
 
 ## 前序
 
-* [代码随想录后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
-* [代码随想录知识星球](https://mp.weixin.qq.com/s/X1XCH-KevURi3LnakJsCkA)
+* [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
+* [「代码随想录」学习社区](https://mp.weixin.qq.com/s/X1XCH-KevURi3LnakJsCkA)
+
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
@@ -372,21 +373,23 @@
 
 # 知识星球精选
 
-1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+1. [技术比较弱，也对技术不感兴趣，如何选择方向？](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
 2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
 
 # B站算法视频讲解 
 
 以下为[B站「代码随想录」](https://space.bilibili.com/525438321)算法讲解视频：
 
-* [帮你把KMP算法学个通透！（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
-* [帮你把KMP算法学个通透！（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
-* [带你学透回溯算法（理论篇）](https://www.bilibili.com/video/BV1cy4y167mM)
+* [KMP算法（理论篇）](https://www.bilibili.com/video/BV1PD4y1o7nd)
+* [KMP算法（代码篇）](https://www.bilibili.com/video/BV1M5411j7Xx)
+* [回溯算法理论基础](https://www.bilibili.com/video/BV1cy4y167mM)
 * [回溯算法之组合问题（力扣题目：77.组合）](https://www.bilibili.com/video/BV1ti4y1L7cv)
 * [组合问题的剪枝操作（对应力扣题目：77.组合）](https://www.bilibili.com/video/BV1wi4y157er)
 * [组合总和（对应力扣题目：39.组合总和）](https://www.bilibili.com/video/BV1KT4y1M7HJ/)
 * [分割回文串（对应力扣题目：131.分割回文串)](https://www.bilibili.com/video/BV1c54y1e7k6)
-* [关于二叉树，你该了解这些！（理论基础一网打尽）](https://www.bilibili.com/video/BV1Hy4y1t7ij)
+* [二叉树理论基础](https://www.bilibili.com/video/BV1Hy4y1t7ij)
+* [二叉树的递归遍历](https://www.bilibili.com/video/BV1Wh411S7xt)
 
 （持续更新中....）
 
