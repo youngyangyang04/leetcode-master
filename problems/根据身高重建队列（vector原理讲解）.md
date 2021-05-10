@@ -157,13 +157,12 @@ public:
 相信在这里学习算法的录友们，都是想在软件行业长远发展的，都是要从事编程的工作，那么一定要深耕好一门编程语言，这个非常重要！
 
 
-> **相信很多小伙伴刷题的时候面对力扣上近两千道题目，感觉无从下手，我花费半年时间整理了Github项目：「力扣刷题攻略」[https://github.com/youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)。 里面有100多道经典算法题目刷题顺序、配有40w字的详细图解，常用算法模板总结，以及难点视频讲解，按照list一道一道刷就可以了！star支持一波吧！**
 
-* 公众号：[代码随想录](https://img-blog.csdnimg.cn/20210210152223466.png)
+
+
+
+-----------------------
+* 微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站：[代码随想录](https://space.bilibili.com/525438321)
-* Github：[leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-* 知乎：[代码随想录](https://www.zhihu.com/people/sun-xiu-yang-64)
-
-![](https://img-blog.csdnimg.cn/20210205113044152.png)
-
-
+* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+![](../pics/公众号.png)
