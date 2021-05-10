@@ -226,5 +226,4 @@ int main() {
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 
 
-![](../../pics/公众号.png)
 

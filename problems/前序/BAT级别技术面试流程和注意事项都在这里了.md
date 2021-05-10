@@ -219,5 +219,4 @@ leetcode是专门针对算法练习的题库，leetcode现在也推出了中文�
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 
 
-![](../../pics/公众号.png)
 
