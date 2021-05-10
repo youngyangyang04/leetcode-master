@@ -39,7 +39,7 @@
 
 <div align="center"><strong>最新文章会首发在公众号「代码随想录」，扫码看看吧，你会发现相见恨晚！</strong></img></div>
 
-<div align="center"><img src='https://img-blog.csdnimg.cn/20210321101634295.jpg' width=150 alt=''> </img></div> 
+<div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div> 
 
 ## 如何使用该刷题攻略
 
