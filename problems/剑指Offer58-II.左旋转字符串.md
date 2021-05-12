@@ -1,25 +1,33 @@
-# 题目地址
-https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/ 
+<p align="center">
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
+  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+</p>
+<p align="center"><strong>欢迎大家参与本项目，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
+
 
 > 反转个字符串还有这么多用处？
 
 # 题目：剑指Offer58-II.左旋转字符串
 
+https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
+
 字符串的左旋转操作是把字符串前面的若干个字符转移到字符串的尾部。请定义一个函数实现字符串左旋转操作的功能。比如，输入字符串"abcdefg"和数字2，该函数将返回左旋转两位得到的结果"cdefgab"。
 
 
-示例 1：   
-输入: s = "abcdefg", k = 2   
-输出: "cdefgab"   
+示例 1：
+输入: s = "abcdefg", k = 2
+输出: "cdefgab"
 
-示例 2：  
-输入: s = "lrloseumgh", k = 6   
-输出: "umghlrlose"   
+示例 2：
+输入: s = "lrloseumgh", k = 6
+输出: "umghlrlose"
  
-限制：   
-1 <= k < s.length <= 10000   
+限制：
+1 <= k < s.length <= 10000
 
-# 思路 
+# 思路
 
 为了让本题更有意义，提升一下本题难度：**不能申请额外空间，只能在本串上操作**。
 
@@ -30,19 +38,19 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 这道题目也非常类似，依然可以通过局部反转+整体反转 达到左旋转的目的。
 
-具体步骤为： 
+具体步骤为：
 
-1. 反转区间为前n的子串 
-2. 反转区间为n到末尾的子串 
-3. 反转整个字符串 
+1. 反转区间为前n的子串
+2. 反转区间为n到末尾的子串
+3. 反转整个字符串
 
 最后就可以得到左旋n的目的，而不用定义新的字符串，完全在本串上操作。
 
-例如 ：示例1中 输入：字符串abcdefg，n=2   
+例如 ：示例1中 输入：字符串abcdefg，n=2
 
 如图：
 
-<img src='../pics/剑指Offer58-II.左旋转字符串.png' width=600> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/%E5%89%91%E6%8C%87Offer58-II.%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.png' width=600> </img></div>
 
 最终得到左旋2个单元的字符串：cdefgab
 
@@ -50,7 +58,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 # C++代码
 
-```
+```C++
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {
@@ -84,4 +92,24 @@ public:
 
 **如果想让这套题目有意义，就不要申请额外空间。**
 
-> 更多算法干货文章持续更新，可以微信搜索「代码随想录」第一时间围观，关注后，回复「Java」「C++」 「python」「简历模板」「数据结构与算法」等等，就可以获得我多年整理的学习资料。
+
+
+## 其他语言版本
+
+
+Java：
+
+
+Python：
+
+
+Go：
+
+
+
+
+-----------------------
+* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
+* B站视频：[代码随想录](https://space.bilibili.com/525438321)
+* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>

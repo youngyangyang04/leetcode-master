@@ -1,17 +1,23 @@
-## 题目地址 
-https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+<p align="center">
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
+  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
+  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+</p>
+<p align="center"><strong>欢迎大家参与本项目，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
-> 遇到对字符串或者数组做填充或删除的操作时，都要想想从后向前操作怎么样。
 
 # 题目：剑指Offer 05.替换空格
 
+https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
-示例 1：  
-输入：s = "We are happy."   
-输出："We%20are%20happy."   
+示例 1：
+输入：s = "We are happy."
+输出："We%20are%20happy."
 
-# 思路 
+# 思路
 
 如果想把这道题目做到极致，就不要只用额外的辅助空间了！
 
@@ -21,26 +27,26 @@ https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 
 i指向新长度的末尾，j指向旧长度的末尾。
 
-<img src='../video/替换空格.gif' width=600> </img></div>
+![替换空格](https://tva1.sinaimg.cn/large/e6c9d24ely1go6qmevhgpg20du09m4qp.gif)
 
-有同学问了，为什么要从后向前填充，从前向后填充不行么？ 
+有同学问了，为什么要从后向前填充，从前向后填充不行么？
 
 从前向后填充就是O(n^2)的算法了，因为每次添加元素都要将添加元素之后的所有元素向后移动。
 
-**其实很多数组填充类的问题，都可以先预先给数组扩容带填充后的大小，然后在从后向前进行操作。** 
+**其实很多数组填充类的问题，都可以先预先给数组扩容带填充后的大小，然后在从后向前进行操作。**
 
 这么做有两个好处：
 
-1. 不用申请新数组。 
+1. 不用申请新数组。
 2. 从后向前填充元素，避免了从前先后填充元素要来的 每次添加元素都要将添加元素之后的所有元素向后移动。
 
 时间复杂度，空间复杂度均超过100%的用户。
 
-<img src='../pics/剑指Offer05.替换空格.png' width=600> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/%E5%89%91%E6%8C%87Offer05.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.png' width=600> </img></div>
 
-## C++代码 
+## C++代码
 
-```
+```C++
 class Solution {
 public:
     string replaceSpace(string s) {
@@ -70,7 +76,7 @@ public:
 };
 
 ```
-时间复杂度：O(n)   
+时间复杂度：O(n)
 空间复杂度：O(1)
 
 此时算上本题，我们已经做了七道双指针相关的题目了分别是：
@@ -82,7 +88,7 @@ public:
 * [142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
 * [344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
 
-# 拓展 
+# 拓展
 
 这里也给大家拓展一下字符串和数组有什么差别，
 
@@ -108,12 +114,33 @@ for (int i = 0; i < a.size(); i++) {
 }
 ```
 
-那么vector< char > 和 string 又有什么区别呢？ 
+那么vector< char > 和 string 又有什么区别呢？
 
 其实在基本操作上没有区别，但是 string提供更多的字符串处理的相关接口，例如string 重载了+，而vector却没有。
 
 所以想处理字符串，我们还是会定义一个string类型。
 
 
-> 更多算法干货文章持续更新，可以微信搜索「代码随想录」第一时间围观，关注后，回复「Java」「C++」 「python」「简历模板」「数据结构与算法」等等，就可以获得我多年整理的学习资料。
 
+
+
+
+## 其他语言版本
+
+
+Java：
+
+
+Python：
+
+
+Go：
+
+
+
+
+-----------------------
+* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
+* B站视频：[代码随想录](https://space.bilibili.com/525438321)
+* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
