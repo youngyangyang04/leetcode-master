@@ -305,7 +305,8 @@
 
 背包问题系列：
 
-<img src='https://img-blog.csdnimg.cn/202102261550480.png' width=500 alt='背包问题大纲'> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
+
 
 11. [动态规划：关于01背包问题，你该了解这些！](./problems/背包理论基础01背包-1.md)
 12. [动态规划：关于01背包问题，你该了解这些！（滚动数组）](./problems/背包理论基础01背包-2.md)
@@ -334,7 +335,8 @@
 
 股票系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/%E8%82%A1%E7%A5%A8%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.jpg' width=500 alt='股票问题总结'> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
+
 
 32. [动态规划：买卖股票的最佳时机](./problems/0121.买卖股票的最佳时机.md)
 33. [动态规划：本周我们都讲了这些（系列六）](./problems/周总结/20210225动规周末总结.md)
@@ -347,6 +349,9 @@
 39. [动态规划：股票系列总结篇](./problems/动态规划-股票问题总结篇.md)
 
 子序列系列： 
+
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
+
 
 40. [动态规划：最长递增子序列](./problems/0300.最长上升子序列.md)
 41. [动态规划：最长连续递增序列](./problems/0674.最长连续递增序列.md)
