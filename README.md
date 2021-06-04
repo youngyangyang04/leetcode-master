@@ -12,10 +12,10 @@
 </a>
 
 <p align="center">
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
 
 # LeetCode 刷题攻略
@@ -302,7 +302,7 @@
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲.jpg' width=500 alt='背包问题大纲'> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. [动态规划：斐波那契数](./problems/0509.斐波那契数.md)
 3. [动态规划：爬楼梯](./problems/0070.爬楼梯.md)
