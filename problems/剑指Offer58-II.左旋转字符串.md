@@ -23,7 +23,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 示例 2：
 输入: s = "lrloseumgh", k = 6
 输出: "umghlrlose"
- 
+
 限制：
 1 <= k < s.length <= 10000
 
@@ -119,8 +119,30 @@ class Solution {
 ```
 Python：
 
-
 Go：
+
+```go
+func reverseLeftWords(s string, n int) string {
+    b := []byte(s)
+    // 1. 反转前n个字符
+    // 2. 反转第n到end字符
+    // 3. 反转整个字符
+    reverse(b, 0, n-1)
+    reverse(b, n, len(b)-1)
+    reverse(b, 0, len(b)-1)
+    return string(b)
+}
+// 切片是引用传递
+func reverse(b []byte, left, right int){
+    for left < right{
+        b[left], b[right] = b[right],b[left]
+        left++
+        right--
+    }
+}
+```
+
+
 
 
 
