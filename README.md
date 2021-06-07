@@ -12,10 +12,10 @@
 </a>
 
 <p align="center">
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
 
 # LeetCode 刷题攻略
@@ -112,14 +112,24 @@
 
 （持续更新中.....）
 
+## 备战秋招
+
+1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
+4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
+5. [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
+6. [面试中遇到了发散性问题.....](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
+
 ## 数组 
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
 3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
-4. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
-5. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
-6. [数组：总结篇](./problems/数组总结篇.md)
+4. [数组：有序数组的平方，还有序么？](./problems/0977.有序数组的平方.md)    
+5. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
+6. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
+7. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
@@ -292,6 +302,7 @@
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. [动态规划：斐波那契数](./problems/0509.斐波那契数.md)
 3. [动态规划：爬楼梯](./problems/0070.爬楼梯.md)
@@ -366,6 +377,7 @@
 52. [为了绝杀编辑距离，Carl做了三步铺垫，你都知道么？](./problems/为了绝杀编辑距离，卡尔做了三步铺垫.md)
 53. [动态规划：回文子串](./problems/0647.回文子串.md)
 54. [动态规划：最长回文子序列](./problems/0516.最长回文子序列.md)
+55. [动态规划总结篇](./problems/动态规划总结篇.md)
 
 
 （持续更新中....）
@@ -390,12 +402,7 @@
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
 
-# 备战秋招
 
-1. [技术比较弱，也对技术不感兴趣，如何选择方向？](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
-2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
-3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
-4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
 
 # B站算法视频讲解 
 
