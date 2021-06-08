@@ -17,6 +17,11 @@
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
+<p align="center">
+<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+	<img src="./pics/知识星球.png" width="600"/>
+</a>
+
 
 # LeetCode 刷题攻略
 
