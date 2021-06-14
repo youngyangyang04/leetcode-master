@@ -3,7 +3,8 @@
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
 > 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
-> 4. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
+> 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
 <a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
@@ -11,11 +12,16 @@
 </a>
 
 <p align="center">
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://img-blog.csdnimg.cn/20201210231711160.png"><img src="https://img.shields.io/badge/公众号-代码随想录-brightgreen" alt=""></a>
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
+  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
+<p align="center">
+<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+	<img src="./pics/知识星球.png" width="600"/>
+</a>
+
 
 # LeetCode 刷题攻略
 
@@ -111,14 +117,24 @@
 
 （持续更新中.....）
 
+## 备战秋招
+
+1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
+4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
+5. [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
+6. [面试中遇到了发散性问题.....](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
+
 ## 数组 
 
 1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
 2. [数组：每次遇到二分法，都是一看就会，一写就废](./problems/0704.二分查找.md)
 3. [数组：就移除个元素很难么？](./problems/0027.移除元素.md)
-4. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
-5. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
-6. [数组：总结篇](./problems/数组总结篇.md)
+4. [数组：有序数组的平方，还有序么？](./problems/0977.有序数组的平方.md)    
+5. [数组：滑动窗口拯救了你](./problems/0209.长度最小的子数组.md)
+6. [数组：这个循环可以转懵很多人！](./problems/0059.螺旋矩阵II.md)
+7. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
@@ -169,10 +185,9 @@
 6. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
 7. [链表：链表相交](./problems/面试题02.07.链表相交.md)
 8. [链表：环找到了，那入口呢？](./problems/0142.环形链表II.md)
-9. [链表：删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
-10. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
-11. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
-12. [双指针法：总结篇！](./problems/双指针总结.md)
+9. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
+10. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
+11. [双指针法：总结篇！](./problems/双指针总结.md)
 
 ## 栈与队列
 
@@ -292,6 +307,7 @@
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. [动态规划：斐波那契数](./problems/0509.斐波那契数.md)
 3. [动态规划：爬楼梯](./problems/0070.爬楼梯.md)
@@ -305,7 +321,8 @@
 
 背包问题系列：
 
-<img src='https://img-blog.csdnimg.cn/202102261550480.png' width=500 alt='背包问题大纲'> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
+
 
 11. [动态规划：关于01背包问题，你该了解这些！](./problems/背包理论基础01背包-1.md)
 12. [动态规划：关于01背包问题，你该了解这些！（滚动数组）](./problems/背包理论基础01背包-2.md)
@@ -334,7 +351,8 @@
 
 股票系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/%E8%82%A1%E7%A5%A8%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93.jpg' width=500 alt='股票问题总结'> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
+
 
 32. [动态规划：买卖股票的最佳时机](./problems/0121.买卖股票的最佳时机.md)
 33. [动态规划：本周我们都讲了这些（系列六）](./problems/周总结/20210225动规周末总结.md)
@@ -347,6 +365,9 @@
 39. [动态规划：股票系列总结篇](./problems/动态规划-股票问题总结篇.md)
 
 子序列系列： 
+
+<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
+
 
 40. [动态规划：最长递增子序列](./problems/0300.最长上升子序列.md)
 41. [动态规划：最长连续递增序列](./problems/0674.最长连续递增序列.md)
@@ -361,9 +382,13 @@
 52. [为了绝杀编辑距离，Carl做了三步铺垫，你都知道么？](./problems/为了绝杀编辑距离，卡尔做了三步铺垫.md)
 53. [动态规划：回文子串](./problems/0647.回文子串.md)
 54. [动态规划：最长回文子序列](./problems/0516.最长回文子序列.md)
-
+55. [动态规划总结篇](./problems/动态规划总结篇.md)
 
 （持续更新中....）
+
+## 单调栈 
+
+1. [每日温度](./problems/0739.每日温度.md)
 
 ## 图论 
 
@@ -385,12 +410,7 @@
 
 [各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
 
-# 备战秋招
 
-1. [技术比较弱，也对技术不感兴趣，如何选择方向？](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
-2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
-3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
-4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
 
 # B站算法视频讲解 
 
@@ -409,6 +429,10 @@
 
 （持续更新中....）
 
+# 贡献者 
+
+你可以[点此链接](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢你们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
+
 # 关于作者
 
 大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
@@ -420,7 +444,7 @@
 <a name="微信"></a>
 <img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
 
-# 我的公众号
+# 公众号
 
 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
 
