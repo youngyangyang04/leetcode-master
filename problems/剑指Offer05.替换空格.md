@@ -152,6 +152,24 @@ public static String replaceSpace(StringBuffer str) {
 
 Python：
 
+在Python中，字符串被设计为**不可变类型**，无法直接修改字符串的某一位字符，需要通过新开辟一块内存来实现。在这里，我们为了方便修改，将字符串修改为列表，通过对列表修改完成后，再转换为字符串。
+
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        s = list(s)
+        for i in range(len(s)):
+            if s[i] == ' ':
+                s[i] = '%20'
+        return "".join(s)
+
+        # 将list转换为str，也可以这么写
+        # from functools import reduce
+        # return reduce(lambda x,y:x+y, s)
+```
+
+
+
 
 Go：
 
