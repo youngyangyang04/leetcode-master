@@ -16,16 +16,16 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 字符串的左旋转操作是把字符串前面的若干个字符转移到字符串的尾部。请定义一个函数实现字符串左旋转操作的功能。比如，输入字符串"abcdefg"和数字2，该函数将返回左旋转两位得到的结果"cdefgab"。
 
 
-示例 1：
-输入: s = "abcdefg", k = 2
-输出: "cdefgab"
+示例 1：    
+输入: s = "abcdefg", k = 2   
+输出: "cdefgab"      
 
-示例 2：
-输入: s = "lrloseumgh", k = 6
-输出: "umghlrlose"
+示例 2：     
+输入: s = "lrloseumgh", k = 6     
+输出: "umghlrlose"        
 
-限制：
-1 <= k < s.length <= 10000
+限制：      
+1 <= k < s.length <= 10000        
 
 # 思路
 
@@ -34,7 +34,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 不能使用额外空间的话，模拟在本串操作要实现左旋转字符串的功能还是有点困难的。
 
 
-那么我们可以想一下上一题目[字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)中讲过，使用整体反转+局部反转就可以实现，反转单词顺序的目的。
+那么我们可以想一下上一题目[字符串：花式反转还不够！](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)中讲过，使用整体反转+局部反转就可以实现，反转单词顺序的目的。
 
 这道题目也非常类似，依然可以通过局部反转+整体反转 达到左旋转的目的。
 
@@ -50,13 +50,13 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 如图：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/%E5%89%91%E6%8C%87Offer58-II.%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2.png' width=600> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/剑指Offer58-II.左旋转字符串.png' width=600> </img></div>
 
 最终得到左旋2个单元的字符串：cdefgab
 
 思路明确之后，那么代码实现就很简单了
 
-# C++代码
+C++代码如下：
 
 ```C++
 class Solution {
@@ -73,15 +73,16 @@ public:
 
 # 总结
 
+
 此时我们已经反转好多次字符串了，来一起回顾一下吧。
 
-在这篇文章[字符串：这道题目，使用库函数一行代码搞定](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)，第一次讲到反转一个字符串应该怎么做，使用了双指针法。
+在这篇文章[344.反转字符串](https://mp.weixin.qq.com/s/_rNm66OJVl92gBDIbGpA3w)，第一次讲到反转一个字符串应该怎么做，使用了双指针法。
 
-然后发现[字符串：简单的反转还不够！](https://mp.weixin.qq.com/s/XGSk1GyPWhfqj2g7Cb1Vgw)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在在for循环的表达式上做做文章。
+然后发现[541. 反转字符串II](https://mp.weixin.qq.com/s/pzXt6PQ029y7bJ9YZB2mVQ)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在在for循环的表达式上做做文章。
 
-后来在[字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)中，要对一句话里的单词顺序进行反转，发现先整体反转再局部反转 是一个很妙的思路。
+后来在[151.翻转字符串里的单词](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)中，要对一句话里的单词顺序进行反转，发现先整体反转再局部反转 是一个很妙的思路。
 
-最后再讲到本地，本题则是先局部反转再 整体反转，与[字符串：花式反转还不够！](https://mp.weixin.qq.com/s/X3qpi2v5RSp08mO-W5Vicw)类似，但是也是一种新的思路。
+最后再讲到本题，本题则是先局部反转再 整体反转，与[151.翻转字符串里的单词](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)类似，但是也是一种新的思路。
 
 好了，反转字符串一共就介绍到这里，相信大家此时对反转字符串的常见操作已经很了解了。
 
@@ -91,7 +92,6 @@ public:
 其实使用substr 和 反转 时间复杂度是一样的 ，都是O(n)，但是使用substr申请了额外空间，所以空间复杂度是O(n)，而反转方法的空间复杂度是O(1)。
 
 **如果想让这套题目有意义，就不要申请额外空间。**
-
 
 
 ## 其他语言版本
@@ -117,7 +117,6 @@ class Solution {
         }
 }
 ```
-Python：
 
 Go：
 

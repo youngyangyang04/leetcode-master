@@ -13,9 +13,9 @@ https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
-示例 1：
-输入：s = "We are happy."
-输出："We%20are%20happy."
+示例 1： 
+输入：s = "We are happy."    
+输出："We%20are%20happy."     
 
 # 思路
 
@@ -42,9 +42,9 @@ i指向新长度的末尾，j指向旧长度的末尾。
 
 时间复杂度，空间复杂度均超过100%的用户。
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/%E5%89%91%E6%8C%87Offer05.%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.png' width=600> </img></div>
+<img src='https://code-thinking.cdn.bcebos.com/pics/剑指Offer05.替换空格.png' width=600> </img></div>
 
-## C++代码
+C++代码如下：
 
 ```C++
 class Solution {
@@ -76,17 +76,17 @@ public:
 };
 
 ```
-时间复杂度：O(n)
-空间复杂度：O(1)
+* 时间复杂度：O(n)
+* 空间复杂度：O(1)
 
 此时算上本题，我们已经做了七道双指针相关的题目了分别是：
 
-* [27.移除元素](https://mp.weixin.qq.com/s/wj0T-Xs88_FHJFwayElQlA)
-* [15.三数之和](https://mp.weixin.qq.com/s/r5cgZFu0tv4grBAexdcd8A)
-* [18.四数之和](https://mp.weixin.qq.com/s/nQrcco8AZJV1pAOVjeIU_g)
-* [206.翻转链表](https://mp.weixin.qq.com/s/pnvVP-0ZM7epB8y3w_Njwg)
-* [142.环形链表II](https://mp.weixin.qq.com/s/_QVP3IkRZWx9zIpQRgajzA)
-* [344.反转字符串](https://mp.weixin.qq.com/s/X02S61WCYiCEhaik6VUpFA)
+* [27.移除元素](https://mp.weixin.qq.com/s/RMkulE4NIb6XsSX83ra-Ww)
+* [15.三数之和](https://mp.weixin.qq.com/s/QfTNEByq1YlNSXRKEumwHg)
+* [18.四数之和](https://mp.weixin.qq.com/s/SBU3THi1Kv6Sar7htqCB2Q)
+* [206.翻转链表](https://mp.weixin.qq.com/s/ckEvIVGcNLfrz6OLOMoT0A)
+* [142.环形链表II](https://mp.weixin.qq.com/s/gt_VH3hQTqNxyWcl1ECSbQ)
+* [344.反转字符串](https://mp.weixin.qq.com/s/_rNm66OJVl92gBDIbGpA3w)
 
 # 拓展
 
@@ -121,10 +121,6 @@ for (int i = 0; i < a.size(); i++) {
 所以想处理字符串，我们还是会定义一个string类型。
 
 
-
-
-
-
 ## 其他语言版本
 
 
@@ -149,8 +145,6 @@ public static String replaceSpace(StringBuffer str) {
         return sb.toString();
     }
 ```
-
-Python：
 
 
 Go：
