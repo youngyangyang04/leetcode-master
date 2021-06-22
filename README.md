@@ -17,6 +17,11 @@
   <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
   <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
+<p align="center">
+<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+	<img src="./pics/知识星球.png" width="600"/>
+</a>
+
 
 # LeetCode 刷题攻略
 
@@ -120,6 +125,10 @@
 4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
 5. [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
 6. [面试中遇到了发散性问题.....](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
+7. [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
+8. [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
+9. [秋招和提前批都越来越提前了....](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
+
 
 ## 数组 
 
@@ -379,8 +388,11 @@
 54. [动态规划：最长回文子序列](./problems/0516.最长回文子序列.md)
 55. [动态规划总结篇](./problems/动态规划总结篇.md)
 
-
 （持续更新中....）
+
+## 单调栈 
+
+1. [每日温度](./problems/0739.每日温度.md)
 
 ## 图论 
 
