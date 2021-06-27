@@ -119,6 +119,27 @@ class Solution {
 ```
 Python：
 
+```python
+# 方法一：可以使用切片方法
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        return s[n:] + s[0:n]
+    
+# 方法二：也可以使用上文描述的方法，有些面试中不允许使用切片，那就使用上文作者提到的方法
+# class Solution:
+#     def reverseLeftWords(self, s: str, n: int) -> str:
+#         s = list(s)
+#         s[0:n] = list(reversed(s[0:n]))
+#         s[n:] = list(reversed(s[n:]))
+#         s.reverse()
+
+#         return "".join(s)
+
+
+# 时间复杂度：O(n)
+# 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
+```
+
 Go：
 
 ```go
