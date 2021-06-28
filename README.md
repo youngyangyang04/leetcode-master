@@ -117,7 +117,7 @@
 
 （持续更新中.....）
 
-## 备战秋招
+## 知识星球精选
 
 1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
 2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
