@@ -132,6 +132,7 @@
 8. [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
 9. [秋招和提前批都越来越提前了....](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
 10. [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
+11. [对于秋招，实习生也有烦恼....](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
 
 
 ## 数组 
@@ -398,6 +399,7 @@
 
 1. [单调栈：每日温度](./problems/0739.每日温度.md)
 2. [单调栈：下一个更大元素I](./problems/0496.下一个更大元素I.md)
+3. [单调栈：下一个更大元素II](./problems/0503.下一个更大元素II.md)
 
 ## 图论 
 
