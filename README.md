@@ -71,7 +71,7 @@
 
 **这里每一篇题解，都是精品，值得仔细琢磨**。
 
-我在题目讲解中统一用C++语言，但你会发现下面几乎每篇题解都配有其他语言版本，Java、Python、Go、JavaScript等等，这正是热心小伙们的贡献的代码，当然我也会严格把控代码质量。 
+我在题目讲解中统一使用C++，但你会发现下面几乎每篇题解都配有其他语言版本，Java、Python、Go、JavaScript等等，正是这些[热心小伙们](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)的贡献的代码，当然我也会严格把控代码质量。 
 
 **所以也欢迎大家参与进来，完善题解的各个语言版本，拥抱开源，让更多小伙伴们收益**。
 
@@ -133,6 +133,13 @@
 9. [秋招和提前批都越来越提前了....](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
 10. [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
 11. [对于秋招，实习生也有烦恼....](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
+12. [华为提前批已经开始了.....](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
+13. [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
+
+## 杂谈
+
+[大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
+
 
 
 ## 数组 
@@ -161,14 +168,15 @@
 
 1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
 2. [哈希表：可以拿数组当哈希表来用，但哈希值不要太大](./problems/0242.有效的字母异位词.md)
-3. [哈希表：哈希值太大了，还是得用set](./problems/0349.两个数组的交集.md)
-4. [哈希表：用set来判断快乐数](./problems/0202.快乐数.md)
-5. [哈希表：map等候多时了](./problems/0001.两数之和.md)
-6. [哈希表：其实需要哈希的地方都能找到map的身影](./problems/0454.四数相加II.md)
-7. [哈希表：这道题目我做过？](./problems/0383.赎金信.md)
-8. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
-9. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
-10. [哈希表：总结篇！（每逢总结必经典）](./problems/哈希表总结.md)
+3. [哈希表：查找常用字符](./problems/1002.查找常用字符.md)
+4. [哈希表：哈希值太大了，还是得用set](./problems/0349.两个数组的交集.md)
+5. [哈希表：用set来判断快乐数](./problems/0202.快乐数.md)
+6. [哈希表：map等候多时了](./problems/0001.两数之和.md)
+7. [哈希表：其实需要哈希的地方都能找到map的身影](./problems/0454.四数相加II.md)
+8. [哈希表：这道题目我做过？](./problems/0383.赎金信.md)
+9. [哈希表：解决了两数之和，那么能解决三数之和么？](./problems/0015.三数之和.md)
+10. [双指针法：一样的道理，能解决四数之和](./problems/0018.四数之和.md)
+11. [哈希表：总结篇！（每逢总结必经典）](./problems/哈希表总结.md)
 
 
 ## 字符串
@@ -444,7 +452,7 @@
 
 # 贡献者 
 
-你可以[点此链接](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢你们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
+[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
 
 # 关于作者
 
@@ -459,7 +467,7 @@
 
 # 公众号
 
-更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。
+更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：666，可以获得我的所有算法专题原创PDF。
 
 **「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
 
