@@ -139,8 +139,9 @@
 
 ## 杂谈
 
-[大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
-[一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
+* [LeetCode-Master上榜了](https://mp.weixin.qq.com/s/wZRTrA9Rbvgq1yEkSw4vfQ)
+* [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
+* [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
 
 ## 数组 
 
