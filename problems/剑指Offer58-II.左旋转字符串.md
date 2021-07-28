@@ -118,6 +118,8 @@ class Solution {
 }
 ```
 
+python: 
+
 ```python
 # 方法一：可以使用切片方法
 class Solution:
