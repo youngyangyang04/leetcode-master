@@ -164,14 +164,10 @@ func reverse(b []byte, left, right int){
 }
 ```
 
-JavaScript版本
+
+JavaScript：
 
 ```javascript
-/**
- * @param {string} s
- * @param {number} n
- * @return {string}
- */
 var reverseLeftWords = function (s, n) {
     const reverse = (str, left, right) => {
         let strArr = str.split("");
