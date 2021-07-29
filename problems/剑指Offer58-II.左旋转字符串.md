@@ -165,37 +165,22 @@ func reverse(b []byte, left, right int){
 ```
 
 
-javaScript:
+JavaScript：
 
-```js
-/**
- * @param {string} s
- * @param {number} n
- * @return {string}
- */
- var reverseLeftWords = function(s, n) {
-  const strArr = Array.from(s);
-  reverse(strArr, 0, n - 1);
-  reverse(strArr, n, strArr.length - 1);
-  reverse(strArr, 0, strArr.length - 1);
-  return strArr.join('');
+```javascript
+var reverseLeftWords = function (s, n) {
+    const reverse = (str, left, right) => {
+        let strArr = str.split("");
+        for (; left < right; left++, right--) {
+            [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
+        }
+        return strArr.join("");
+    }
+    s = reverse(s, 0, n - 1);
+    s = reverse(s, n, s.length - 1);
+    return reverse(s, 0, s.length - 1);
 };
-
-// 翻转从 start 到 end 的字符
-function reverse(strArr, start, end) {
-  let left = start;
-  let right = end;
-
-  while(left < right) {
-    // 交换
-    [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
-    left++;
-    right--;
-  }
-}
 ```
-
-
 
 
 
