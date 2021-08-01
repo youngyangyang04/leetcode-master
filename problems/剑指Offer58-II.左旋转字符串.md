@@ -165,6 +165,22 @@ func reverse(b []byte, left, right int){
 ```
 
 
+JavaScript：
+
+```javascript
+var reverseLeftWords = function (s, n) {
+    const reverse = (str, left, right) => {
+        let strArr = str.split("");
+        for (; left < right; left++, right--) {
+            [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
+        }
+        return strArr.join("");
+    }
+    s = reverse(s, 0, n - 1);
+    s = reverse(s, n, s.length - 1);
+    return reverse(s, 0, s.length - 1);
+};
+```
 
 
 
