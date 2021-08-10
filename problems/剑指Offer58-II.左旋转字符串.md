@@ -58,7 +58,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 C++代码如下：
 
-```C++
+```CPP
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {

@@ -13,7 +13,7 @@
 
 而力扣上是核心代码模式，就是把要处理的数据都已经放入容器里，可以直接写逻辑，例如这样：
 
-```C++
+```CPP
 class Solution {
 public:
     int minimumTotal(vector<vector<int>>& triangle) {
@@ -55,7 +55,7 @@ public:
 
 这道题如果要是力扣上的核心代码模式，OJ应该直接给出如下代码：
 
-```C++
+```CPP
 class Solution {
 public:
     int getDays(vector<int>& work, vector<int>& gym) {
@@ -72,7 +72,7 @@ ACM模式要求写出来的代码是直接可以本地运行的，所以我们�
 
 拿本题来说，为了让代码可以运行，需要include这些库函数：
 
-```C++
+```CPP
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -87,7 +87,7 @@ using namespace std;
 
 完整代码如下：
 
-```C++
+```CPP
 #include<iostream>
 #include<vector>
 using namespace std;
