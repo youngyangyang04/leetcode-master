@@ -46,7 +46,7 @@ i指向新长度的末尾，j指向旧长度的末尾。
 
 C++代码如下：
 
-```C++
+```CPP
 class Solution {
 public:
     string replaceSpace(string s) {
