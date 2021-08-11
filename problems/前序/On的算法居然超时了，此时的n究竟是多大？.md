@@ -67,7 +67,7 @@
 
 实现三个函数，时间复杂度分别是 O(n) , O(n^2), O(nlogn)，使用加法运算来统一测试。
 
-```C++
+```CPP
 // O(n)
 void function1(long long n) {
     long long k = 0;
@@ -78,7 +78,7 @@ void function1(long long n) {
 
 ```
 
-```C++
+```CPP
 // O(n^2)
 void function2(long long n) {
     long long k = 0;
@@ -91,7 +91,7 @@ void function2(long long n) {
 }
 ```
 
-```C++
+```CPP
 // O(nlogn)
 void function3(long long n) {
     long long k = 0;
@@ -105,7 +105,7 @@ void function3(long long n) {
 ```
 
 来看一下这三个函数随着n的规模变化，耗时会产生多大的变化，先测function1 ，就把 function2 和 function3 注释掉
-```C++
+```CPP
 int main() {
     long long n; // 数据规模
     while (1) {
@@ -154,7 +154,7 @@ O(nlogn)的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符�
 
 # 完整测试代码
 
-```C++
+```CPP
 #include <iostream>
 #include <chrono>
 #include <thread>
@@ -228,4 +228,4 @@ int main() {
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

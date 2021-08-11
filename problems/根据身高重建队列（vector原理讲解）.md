@@ -12,7 +12,7 @@
 但是在解释的过程中有不恰当的地方，所以来专门写一篇文章来详细说一说这个问题。
 
 使用vector的代码如下：
-```C++
+```CPP
 // 版本一，使用vector（动态数组）
 class Solution {
 public:
@@ -38,7 +38,7 @@ public:
 其直观上来看数组的insert操作是O(n)的，整体代码的时间复杂度是O(n^2)。
 
 这么一分析好像和版本二链表实现的时间复杂度是一样的啊，为什么提交之后效率会差距这么大呢？
-```C++
+```CPP
 // 版本二，使用list（链表）
 class Solution {
 public:
@@ -107,7 +107,7 @@ for (int i = 0; i < vec.size(); i++) {
 
 手动模拟的过程其实不是很简单的，需要很多细节，我粗略写了一个版本，如下：
 
-```C++
+```CPP
 // 版本三
 // 使用vector，但不让它动态扩容
 class Solution {
@@ -180,4 +180,4 @@ Go：
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

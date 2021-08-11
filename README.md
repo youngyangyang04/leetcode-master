@@ -123,19 +123,22 @@
 
 ## 知识星球精选
 
-1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
-2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
-3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
-4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
-5. [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
-6. [面试中遇到了发散性问题.....](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
-7. [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
-8. [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
-9. [秋招和提前批都越来越提前了....](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
-10. [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
-11. [对于秋招，实习生也有烦恼....](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
-12. [华为提前批已经开始了.....](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
-13. [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
+* [HR面注意事项](https://mp.weixin.qq.com/s/0mDyCyCBfa0DeGov3Pebnw)
+* [刷题攻略要刷两遍！](https://mp.weixin.qq.com/s/e3_L7FZglY4UlTVvKolZyQ)
+* [秋招进行中的迷茫与焦虑......](https://mp.weixin.qq.com/s/X15MUw4sfH_AQNHdAivEvg)
+* [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
+* [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
+* [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
+* [备战2022届秋招](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
+* [技术不太好，如果选择方向](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+* [刷题要不要使用库函数](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+* [关于实习的几点问题](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
+* [面试中遇到了发散性问题，怎么帮？](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
+* [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
+* [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
+* [关于提前批的一些建议](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
+* [已经在实习的录友要如何准备秋招](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
+* [华为提前批已经开始了](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
 
 ## 杂谈
 
