@@ -122,8 +122,8 @@
 
 ## 社群
 
-* [准备秋招的录友们，组织在这里](https://mp.weixin.qq.com/s/xX4LFwZQIG_XiQAxVBrfeA)
-
+* [准备秋招的录友们，组织在这里！](https://mp.weixin.qq.com/s/xX4LFwZQIG_XiQAxVBrfeA)
+* [准备社招的录友们，组织在这里！](https://mp.weixin.qq.com/s/mbQ3s17ZJ4LXFRb-VD58Ww)
 
 ## 知识星球精选
 
@@ -146,9 +146,12 @@
 
 ## 杂谈
 
+* [「代码随想录」刷题网站上线](https://mp.weixin.qq.com/s/-6rd_g7LrVD1fuKBYk2tXQ)。
 * [LeetCode-Master上榜了](https://mp.weixin.qq.com/s/wZRTrA9Rbvgq1yEkSw4vfQ)
+* [上榜之后，都有哪些变化？](https://mp.weixin.qq.com/s/VJBV0qSBthjnbbmW-lctLA)
 * [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
 * [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
+
 
 ## 数组 
 
@@ -248,7 +251,7 @@
 15. [二叉树：以为使用了递归，其实还隐藏着回溯](./problems/二叉树中递归带着回溯.md)
 16. [二叉树：做了这么多题目了，我的左叶子之和是多少？](./problems/0404.左叶子之和.md)
 17. [二叉树：我的左下角的值是多少？](./problems/0513.找树左下角的值.md)
-18. [二叉树：递归函数究竟什么时候需要返回值，什么时候不要返回值？](./problems/0112.路径总和.md)
+18. [二叉树：路径总和](./problems/0112.路径总和.md)
 19. [二叉树：构造二叉树登场！](./problems/0106.从中序与后序遍历序列构造二叉树.md)
 20. [二叉树：构造一棵最大的二叉树](./problems/0654.最大二叉树.md)
 21. [本周小结！（二叉树系列三）](./problems/周总结/20201010二叉树周末总结.md) 
