@@ -141,6 +141,18 @@ class Solution:
 # 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
 ```
 
+```python 3
+#方法三：考虑不能用切片的情况下，利用模+下标实现
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        new_s = ''
+        for i in range(len(s)):
+            j = (i+n)%len(s)
+            new_s = new_s + s[j]
+        return new_s
+
+```
+
 Go：
 
 ```go
