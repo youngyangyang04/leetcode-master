@@ -58,7 +58,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 C++代码如下：
 
-```C++
+```CPP
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {
@@ -141,6 +141,18 @@ class Solution:
 # 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
 ```
 
+```python 3
+#方法三：考虑不能用切片的情况下，利用模+下标实现
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        new_s = ''
+        for i in range(len(s)):
+            j = (i+n)%len(s)
+            new_s = new_s + s[j]
+        return new_s
+
+```
+
 Go：
 
 ```go
@@ -165,6 +177,22 @@ func reverse(b []byte, left, right int){
 ```
 
 
+JavaScript：
+
+```javascript
+var reverseLeftWords = function (s, n) {
+    const reverse = (str, left, right) => {
+        let strArr = str.split("");
+        for (; left < right; left++, right--) {
+            [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
+        }
+        return strArr.join("");
+    }
+    s = reverse(s, 0, n - 1);
+    s = reverse(s, n, s.length - 1);
+    return reverse(s, 0, s.length - 1);
+};
+```
 
 
 
@@ -173,4 +201,4 @@ func reverse(b []byte, left, right int){
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
