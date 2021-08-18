@@ -1,4 +1,4 @@
-## 一些闲话：
+👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
@@ -119,29 +119,39 @@
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
-（持续更新中.....）
+
+## 社群
+
+* [准备秋招的录友们，组织在这里！](https://mp.weixin.qq.com/s/xX4LFwZQIG_XiQAxVBrfeA)
+* [准备社招的录友们，组织在这里！](https://mp.weixin.qq.com/s/mbQ3s17ZJ4LXFRb-VD58Ww)
 
 ## 知识星球精选
 
-1. [选择方向的时候，我也迷茫了](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
-2. [刷题就用库函数了，怎么了？](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
-3. [关于实习，大家可能有点迷茫！](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
-4. [马上秋招了，慌得很！](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
-5. [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
-6. [面试中遇到了发散性问题.....](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
-7. [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
-8. [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
-9. [秋招和提前批都越来越提前了....](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
-10. [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
-11. [对于秋招，实习生也有烦恼....](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
-12. [华为提前批已经开始了.....](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
-13. [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
+* [HR面注意事项](https://mp.weixin.qq.com/s/0mDyCyCBfa0DeGov3Pebnw)
+* [刷题攻略要刷两遍！](https://mp.weixin.qq.com/s/e3_L7FZglY4UlTVvKolZyQ)
+* [秋招进行中的迷茫与焦虑......](https://mp.weixin.qq.com/s/X15MUw4sfH_AQNHdAivEvg)
+* [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
+* [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
+* [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
+* [备战2022届秋招](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
+* [技术不太好，如果选择方向](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
+* [刷题要不要使用库函数](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
+* [关于实习的几点问题](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
+* [面试中遇到了发散性问题，怎么帮？](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
+* [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
+* [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
+* [关于提前批的一些建议](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
+* [已经在实习的录友要如何准备秋招](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
+* [华为提前批已经开始了](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
 
 ## 杂谈
 
+* [「代码随想录」刷题网站上线](https://mp.weixin.qq.com/s/-6rd_g7LrVD1fuKBYk2tXQ)。
 * [LeetCode-Master上榜了](https://mp.weixin.qq.com/s/wZRTrA9Rbvgq1yEkSw4vfQ)
+* [上榜之后，都有哪些变化？](https://mp.weixin.qq.com/s/VJBV0qSBthjnbbmW-lctLA)
 * [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
 * [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
+
 
 ## 数组 
 
@@ -241,7 +251,7 @@
 15. [二叉树：以为使用了递归，其实还隐藏着回溯](./problems/二叉树中递归带着回溯.md)
 16. [二叉树：做了这么多题目了，我的左叶子之和是多少？](./problems/0404.左叶子之和.md)
 17. [二叉树：我的左下角的值是多少？](./problems/0513.找树左下角的值.md)
-18. [二叉树：递归函数究竟什么时候需要返回值，什么时候不要返回值？](./problems/0112.路径总和.md)
+18. [二叉树：路径总和](./problems/0112.路径总和.md)
 19. [二叉树：构造二叉树登场！](./problems/0106.从中序与后序遍历序列构造二叉树.md)
 20. [二叉树：构造一棵最大的二叉树](./problems/0654.最大二叉树.md)
 21. [本周小结！（二叉树系列三）](./problems/周总结/20201010二叉树周末总结.md) 
@@ -409,6 +419,7 @@
 2. [单调栈：下一个更大元素I](./problems/0496.下一个更大元素I.md)
 3. [单调栈：下一个更大元素II](./problems/0503.下一个更大元素II.md)
 4. [单调栈：接雨水](./problems/0042.接雨水.md)
+5. [单调栈：柱状图中最大的矩形](./problems/0084.柱状图中最大的矩形.md)
 
 （持续更新中....）
 
@@ -451,7 +462,6 @@
 * [24.两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
 * [234.回文链表](./problems/0234.回文链表.md)
 * [143.重排链表](./problems/0143.重排链表.md)【数组】【双向队列】【直接操作链表】
-* [234.回文链表](./problems/0234.回文链表.md)
 * [141.环形链表](./problems/0141.环形链表.md)
 
 ## 哈希表
