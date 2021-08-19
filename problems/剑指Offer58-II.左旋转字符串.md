@@ -136,13 +136,28 @@ class Solution:
 
 #         return "".join(s)
 
+# 方法三：如果连reversed也不让使用，那么自己手写一个
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        def reverse_sub(lst, left, right):
+            while left < right:
+                lst[left], lst[right] = lst[right], lst[left]
+                left += 1
+                right -= 1
+        
+        res = list(s)
+        end = len(res) - 1
+        reverse_sub(res, 0, n - 1)
+        reverse_sub(res, n, end)
+        reverse_sub(res, 0, end)
+        return ''.join(res)
 
 # 时间复杂度：O(n)
 # 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
 ```
 
 ```python 3
-#方法三：考虑不能用切片的情况下，利用模+下标实现
+#方法四：考虑不能用切片的情况下，利用模+下标实现
 class Solution:
     def reverseLeftWords(self, s: str, n: int) -> str:
         new_s = ''
