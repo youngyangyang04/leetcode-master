@@ -125,24 +125,45 @@ python:
 class Solution:
     def reverseLeftWords(self, s: str, n: int) -> str:
         return s[n:] + s[0:n]
-    
+```
+```python    
 # 方法二：也可以使用上文描述的方法，有些面试中不允许使用切片，那就使用上文作者提到的方法
-# class Solution:
-#     def reverseLeftWords(self, s: str, n: int) -> str:
-#         s = list(s)
-#         s[0:n] = list(reversed(s[0:n]))
-#         s[n:] = list(reversed(s[n:]))
-#         s.reverse()
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        s = list(s)
+        s[0:n] = list(reversed(s[0:n]))
+        s[n:] = list(reversed(s[n:]))
+        s.reverse()
+        
+        return "".join(s)
 
-#         return "".join(s)
+```
 
+```python
+# 方法三：如果连reversed也不让使用，那么自己手写一个
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        def reverse_sub(lst, left, right):
+            while left < right:
+                lst[left], lst[right] = lst[right], lst[left]
+                left += 1
+                right -= 1
+        
+        res = list(s)
+        end = len(res) - 1
+        reverse_sub(res, 0, n - 1)
+        reverse_sub(res, n, end)
+        reverse_sub(res, 0, end)
+        return ''.join(res)
 
+# 同方法二
 # 时间复杂度：O(n)
 # 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
+
 ```
 
 ```python 3
-#方法三：考虑不能用切片的情况下，利用模+下标实现
+#方法四：考虑不能用切片的情况下，利用模+下标实现
 class Solution:
     def reverseLeftWords(self, s: str, n: int) -> str:
         new_s = ''
