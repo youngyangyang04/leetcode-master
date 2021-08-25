@@ -9,7 +9,7 @@
 
 # 题目：剑指Offer 05.替换空格
 
-https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+[力扣题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
@@ -81,12 +81,12 @@ public:
 
 此时算上本题，我们已经做了七道双指针相关的题目了分别是：
 
-* [27.移除元素](https://mp.weixin.qq.com/s/RMkulE4NIb6XsSX83ra-Ww)
-* [15.三数之和](https://mp.weixin.qq.com/s/QfTNEByq1YlNSXRKEumwHg)
-* [18.四数之和](https://mp.weixin.qq.com/s/SBU3THi1Kv6Sar7htqCB2Q)
-* [206.翻转链表](https://mp.weixin.qq.com/s/ckEvIVGcNLfrz6OLOMoT0A)
-* [142.环形链表II](https://mp.weixin.qq.com/s/gt_VH3hQTqNxyWcl1ECSbQ)
-* [344.反转字符串](https://mp.weixin.qq.com/s/_rNm66OJVl92gBDIbGpA3w)
+* [27.移除元素](https://programmercarl.com/0027.移除元素.html)
+* [15.三数之和](https://programmercarl.com/0015.三数之和.html)
+* [18.四数之和](https://programmercarl.com/0018.四数之和.html)
+* [206.翻转链表](https://programmercarl.com/0206.翻转链表.html)
+* [142.环形链表II](https://programmercarl.com/0142.环形链表II.html)
+* [344.反转字符串](https://programmercarl.com/0344.反转字符串.html)
 
 # 拓展
 
