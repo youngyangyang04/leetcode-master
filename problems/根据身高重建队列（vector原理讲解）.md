@@ -7,7 +7,7 @@
 <p align="center"><strong>欢迎大家<a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 # 贪心算法：根据身高重建队列（续集）
 
-在讲解[贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw)中，我们提到了使用vector（C++中的动态数组）来进行insert操作是费时的。
+在讲解[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中，我们提到了使用vector（C++中的动态数组）来进行insert操作是费时的。
 
 但是在解释的过程中有不恰当的地方，所以来专门写一篇文章来详细说一说这个问题。
 
@@ -99,9 +99,9 @@ for (int i = 0; i < vec.size(); i++) {
 
 **同时也注意此时capicity和size的变化，关键的地方我都标红了**。
 
-而在[贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw)中，我们使用vector来做insert的操作，此时大家可会发现，**虽然表面上复杂度是O(n^2)，但是其底层都不知道额外做了多少次全量拷贝了，所以算上vector的底层拷贝，整体时间复杂度可以认为是O(n^2 + t * n)级别的，t是底层拷贝的次数**。
+而在[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中，我们使用vector来做insert的操作，此时大家可会发现，**虽然表面上复杂度是O(n^2)，但是其底层都不知道额外做了多少次全量拷贝了，所以算上vector的底层拷贝，整体时间复杂度可以认为是O(n^2 + t * n)级别的，t是底层拷贝的次数**。
 
-那么是不是可以直接确定好vector的大小，不让它在动态扩容了，例如在[贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw)中已经给出了有people.size这么多的人，可以定义好一个固定大小的vector，这样我们就可以控制vector，不让它底层动态扩容。
+那么是不是可以直接确定好vector的大小，不让它在动态扩容了，例如在[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中已经给出了有people.size这么多的人，可以定义好一个固定大小的vector，这样我们就可以控制vector，不让它底层动态扩容。
 
 这种方法需要自己模拟插入的操作，不仅没有直接调用insert接口那么方便，需要手动模拟插入操作，而且效率也不高！
 
@@ -147,7 +147,7 @@ public:
 
 所以对于两种使用数组的方法一和方法三，也不好确定谁优，但一定都没有使用方法二链表的效率高！
 
-一波分析之后，对于[贪心算法：根据身高重建队列](https://mp.weixin.qq.com/s/-2TgZVdOwS-DvtbjjDEbfw) ，大家就安心使用链表吧！别折腾了，哈哈，相当于我替大家折腾了一下。
+一波分析之后，对于[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html) ，大家就安心使用链表吧！别折腾了，哈哈，相当于我替大家折腾了一下。
 
 ## 总结
 
