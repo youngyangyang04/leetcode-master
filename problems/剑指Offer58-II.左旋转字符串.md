@@ -214,6 +214,34 @@ var reverseLeftWords = function (s, n) {
 };
 ```
 
+Swift:
+
+```swift
+func reverseLeftWords(_ s: String, _ n: Int) -> String {
+    var ch = Array(s)
+    let len = ch.count
+    // 反转区间[0, n - 1]
+    reverseString(&ch, startIndex: 0, endIndex: n - 1)
+    // 反转区间[n, len - 1]
+    reverseString(&ch, startIndex: n, endIndex: len - 1)
+    // 反转区间[0, len - 1]，也就是整个字符串反转
+    reverseString(&ch, startIndex: 0, endIndex: len - 1)
+    return String(ch)
+}
+
+func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
+    var start = startIndex
+    var end = endIndex
+    while start < end {
+        (s[start], s[end]) = (s[end], s[start])
+        start += 1
+        end -= 1
+    }
+}
+```
+
+
+
 
 
 

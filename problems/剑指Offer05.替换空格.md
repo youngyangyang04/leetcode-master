@@ -264,6 +264,49 @@ javaScript:
 };
 ```
 
+Swift:
+
+```swift
+func replaceSpace(_ s: String) -> String {
+    var strArr = Array(s)
+    var count = 0
+
+    // 统计空格的个数
+    for i in strArr {
+        if i == " " {
+            count += 1
+        }
+    }
+    // left 指向旧数组的最后一个元素
+    var left = strArr.count - 1
+    // right 指向扩容后数组的最后一个元素（这里还没对数组进行实际上的扩容）
+    var right = strArr.count + count * 2 - 1
+
+    // 实际对数组扩容
+    for _ in 0..<(count * 2) {
+        strArr.append(" ")
+    }
+
+    while left < right {
+        if strArr[left] == " " {
+            strArr[right] = "0"
+            strArr[right - 1] = "2"
+            strArr[right - 2] = "%"
+            left -= 1
+            right -= 3
+        } else {
+            strArr[right] = strArr[left]
+            left -= 1
+            right -= 1
+        }
+    }
+
+    return String(strArr)
+}
+```
+
+
+
 
 
 -----------------------
