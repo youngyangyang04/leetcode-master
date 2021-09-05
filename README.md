@@ -124,7 +124,7 @@
 
 ## 社群
 
-* [准备秋招的录友们，组织在这里！](https://mp.weixin.qq.com/s/xX4LFwZQIG_XiQAxVBrfeA)
+* [准备校招的录友们，组织在这里！](https://mp.weixin.qq.com/s/5vKadlE1g2HjDpo2-y2ZFw)
 * [准备社招的录友们，组织在这里！](https://mp.weixin.qq.com/s/mbQ3s17ZJ4LXFRb-VD58Ww)
 
 ## 知识星球精选
