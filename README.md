@@ -122,11 +122,6 @@
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
-## 社群
-
-* [准备校招的录友们，组织在这里！](https://mp.weixin.qq.com/s/5vKadlE1g2HjDpo2-y2ZFw)
-* [准备社招的录友们，组织在这里！](https://mp.weixin.qq.com/s/mbQ3s17ZJ4LXFRb-VD58Ww)
-
 ## 知识星球精选
 
 * [为什么都说客户端会消失](./problems/知识星球精选/客三消.md)
@@ -488,6 +483,7 @@
 
 ## 贪心
 * [649.Dota2参议院](./problems/0649.Dota2参议院.md) 有难度
+* [1221.分割平衡字符](./problems/1221.分割平衡字符串.md) 简单贪心
 
 ## 动态规划 
 * [5.最长回文子串](./problems/0005.最长回文子串.md) 和[647.回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw) 差不多是一样的
