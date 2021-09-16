@@ -11,10 +11,9 @@
 
 # 题目：剑指Offer58-II.左旋转字符串
 
-https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
+[力扣题目链接](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 字符串的左旋转操作是把字符串前面的若干个字符转移到字符串的尾部。请定义一个函数实现字符串左旋转操作的功能。比如，输入字符串"abcdefg"和数字2，该函数将返回左旋转两位得到的结果"cdefgab"。
-
 
 示例 1：    
 输入: s = "abcdefg", k = 2   
@@ -34,7 +33,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 不能使用额外空间的话，模拟在本串操作要实现左旋转字符串的功能还是有点困难的。
 
 
-那么我们可以想一下上一题目[字符串：花式反转还不够！](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)中讲过，使用整体反转+局部反转就可以实现，反转单词顺序的目的。
+那么我们可以想一下上一题目[字符串：花式反转还不够！](https://programmercarl.com/0151.翻转字符串里的单词.html)中讲过，使用整体反转+局部反转就可以实现，反转单词顺序的目的。
 
 这道题目也非常类似，依然可以通过局部反转+整体反转 达到左旋转的目的。
 
@@ -58,7 +57,7 @@ https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/
 
 C++代码如下：
 
-```C++
+```CPP
 class Solution {
 public:
     string reverseLeftWords(string s, int n) {
@@ -76,13 +75,13 @@ public:
 
 此时我们已经反转好多次字符串了，来一起回顾一下吧。
 
-在这篇文章[344.反转字符串](https://mp.weixin.qq.com/s/_rNm66OJVl92gBDIbGpA3w)，第一次讲到反转一个字符串应该怎么做，使用了双指针法。
+在这篇文章[344.反转字符串](https://programmercarl.com/0344.反转字符串.html)，第一次讲到反转一个字符串应该怎么做，使用了双指针法。
 
-然后发现[541. 反转字符串II](https://mp.weixin.qq.com/s/pzXt6PQ029y7bJ9YZB2mVQ)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在在for循环的表达式上做做文章。
+然后发现[541. 反转字符串II](https://programmercarl.com/0541.反转字符串II.html)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在在for循环的表达式上做做文章。
 
-后来在[151.翻转字符串里的单词](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)中，要对一句话里的单词顺序进行反转，发现先整体反转再局部反转 是一个很妙的思路。
+后来在[151.翻转字符串里的单词](https://programmercarl.com/0151.翻转字符串里的单词.html)中，要对一句话里的单词顺序进行反转，发现先整体反转再局部反转 是一个很妙的思路。
 
-最后再讲到本题，本题则是先局部反转再 整体反转，与[151.翻转字符串里的单词](https://mp.weixin.qq.com/s/4j6vPFHkFAXnQhmSkq2X9g)类似，但是也是一种新的思路。
+最后再讲到本题，本题则是先局部反转再 整体反转，与[151.翻转字符串里的单词](https://programmercarl.com/0151.翻转字符串里的单词.html)类似，但是也是一种新的思路。
 
 好了，反转字符串一共就介绍到这里，相信大家此时对反转字符串的常见操作已经很了解了。
 
@@ -125,20 +124,53 @@ python:
 class Solution:
     def reverseLeftWords(self, s: str, n: int) -> str:
         return s[n:] + s[0:n]
-    
+```
+```python    
 # 方法二：也可以使用上文描述的方法，有些面试中不允许使用切片，那就使用上文作者提到的方法
-# class Solution:
-#     def reverseLeftWords(self, s: str, n: int) -> str:
-#         s = list(s)
-#         s[0:n] = list(reversed(s[0:n]))
-#         s[n:] = list(reversed(s[n:]))
-#         s.reverse()
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        s = list(s)
+        s[0:n] = list(reversed(s[0:n]))
+        s[n:] = list(reversed(s[n:]))
+        s.reverse()
+        
+        return "".join(s)
 
-#         return "".join(s)
+```
 
+```python
+# 方法三：如果连reversed也不让使用，那么自己手写一个
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        def reverse_sub(lst, left, right):
+            while left < right:
+                lst[left], lst[right] = lst[right], lst[left]
+                left += 1
+                right -= 1
+        
+        res = list(s)
+        end = len(res) - 1
+        reverse_sub(res, 0, n - 1)
+        reverse_sub(res, n, end)
+        reverse_sub(res, 0, end)
+        return ''.join(res)
 
+# 同方法二
 # 时间复杂度：O(n)
 # 空间复杂度：O(n)，python的string为不可变，需要开辟同样大小的list空间来修改
+
+```
+
+```python 3
+#方法四：考虑不能用切片的情况下，利用模+下标实现
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        new_s = ''
+        for i in range(len(s)):
+            j = (i+n)%len(s)
+            new_s = new_s + s[j]
+        return new_s
+
 ```
 
 Go：
@@ -182,6 +214,34 @@ var reverseLeftWords = function (s, n) {
 };
 ```
 
+Swift:
+
+```swift
+func reverseLeftWords(_ s: String, _ n: Int) -> String {
+    var ch = Array(s)
+    let len = ch.count
+    // 反转区间[0, n - 1]
+    reverseString(&ch, startIndex: 0, endIndex: n - 1)
+    // 反转区间[n, len - 1]
+    reverseString(&ch, startIndex: n, endIndex: len - 1)
+    // 反转区间[0, len - 1]，也就是整个字符串反转
+    reverseString(&ch, startIndex: 0, endIndex: len - 1)
+    return String(ch)
+}
+
+func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
+    var start = startIndex
+    var end = endIndex
+    while start < end {
+        (s[start], s[end]) = (s[end], s[start])
+        start += 1
+        end -= 1
+    }
+}
+```
+
+
+
 
 
 
@@ -189,4 +249,4 @@ var reverseLeftWords = function (s, n) {
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

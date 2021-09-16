@@ -9,7 +9,7 @@
 
 # 题目：剑指Offer 05.替换空格
 
-https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/
+[力扣题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
@@ -46,7 +46,7 @@ i指向新长度的末尾，j指向旧长度的末尾。
 
 C++代码如下：
 
-```C++
+```CPP
 class Solution {
 public:
     string replaceSpace(string s) {
@@ -81,12 +81,12 @@ public:
 
 此时算上本题，我们已经做了七道双指针相关的题目了分别是：
 
-* [27.移除元素](https://mp.weixin.qq.com/s/RMkulE4NIb6XsSX83ra-Ww)
-* [15.三数之和](https://mp.weixin.qq.com/s/QfTNEByq1YlNSXRKEumwHg)
-* [18.四数之和](https://mp.weixin.qq.com/s/SBU3THi1Kv6Sar7htqCB2Q)
-* [206.翻转链表](https://mp.weixin.qq.com/s/ckEvIVGcNLfrz6OLOMoT0A)
-* [142.环形链表II](https://mp.weixin.qq.com/s/gt_VH3hQTqNxyWcl1ECSbQ)
-* [344.反转字符串](https://mp.weixin.qq.com/s/_rNm66OJVl92gBDIbGpA3w)
+* [27.移除元素](https://programmercarl.com/0027.移除元素.html)
+* [15.三数之和](https://programmercarl.com/0015.三数之和.html)
+* [18.四数之和](https://programmercarl.com/0018.四数之和.html)
+* [206.翻转链表](https://programmercarl.com/0206.翻转链表.html)
+* [142.环形链表II](https://programmercarl.com/0142.环形链表II.html)
+* [344.反转字符串](https://programmercarl.com/0344.反转字符串.html)
 
 # 拓展
 
@@ -202,45 +202,27 @@ func replaceSpace(s string) string {
 
 python：
 ```python
-class Solution(object):
-    def replaceSpace(self, s):
-        """
-        :type s: str
-        :rtype: str
-        """
-        list_s = list(s)
-
-        # 记录原本字符串的长度
-        original_end = len(s)
-
-        # 将空格改成%20 使得字符串总长增长 2n，n为原本空格数量。
-        # 所以记录空格数量就可以得到目标字符串的长度
-        n_space = 0
-        for ss in s:
-            if ss == ' ':
-                n_space += 1
-                
-        list_s += ['0'] * 2 * n_space
-
-        # 设置左右指针位置
-        left, right = original_end - 1, len(list_s) - 1
-
-        # 循环直至左指针越界
-        while left >= 0:
-            if list_s[left] == ' ':
-                list_s[right] = '0'
-                list_s[right - 1] = '2'
-                list_s[right - 2] = '%'
-                right -= 3
-            else:
-                list_s[right] = list_s[left]
-                right -= 1
-            
-            left -= 1
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        counter = s.count(' ')
         
-        # 将list变回str，输出
-        s = ''.join(list_s)
-        return s
+        res = list(s)
+        # 每碰到一个空格就多拓展两个格子，1 + 2 = 3个位置存’%20‘
+        res.extend([' '] * counter * 2)
+        
+        # 原始字符串的末尾，拓展后的末尾
+        left, right = len(s) - 1, len(res) - 1
+        
+        while left >= 0:
+            if res[left] != ' ':
+                res[right] = res[left]
+                right -= 1
+            else:
+                # [right - 2, right), 左闭右开
+                res[right - 2: right + 1] = '%20'
+                right -= 3
+            left -= 1
+        return ''.join(res)
             
 ```
 
@@ -282,10 +264,53 @@ javaScript:
 };
 ```
 
+Swift:
+
+```swift
+func replaceSpace(_ s: String) -> String {
+    var strArr = Array(s)
+    var count = 0
+
+    // 统计空格的个数
+    for i in strArr {
+        if i == " " {
+            count += 1
+        }
+    }
+    // left 指向旧数组的最后一个元素
+    var left = strArr.count - 1
+    // right 指向扩容后数组的最后一个元素（这里还没对数组进行实际上的扩容）
+    var right = strArr.count + count * 2 - 1
+
+    // 实际对数组扩容
+    for _ in 0..<(count * 2) {
+        strArr.append(" ")
+    }
+
+    while left < right {
+        if strArr[left] == " " {
+            strArr[right] = "0"
+            strArr[right - 1] = "2"
+            strArr[right - 2] = "%"
+            left -= 1
+            right -= 3
+        } else {
+            strArr[right] = strArr[left]
+            left -= 1
+            right -= 1
+        }
+    }
+
+    return String(strArr)
+}
+```
+
+
+
 
 
 -----------------------
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=../pics/公众号.png width=450 alt=> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
