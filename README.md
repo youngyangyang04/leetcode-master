@@ -302,7 +302,8 @@
 
 题目分类大纲如下：             
 
-<img src='https://img-blog.csdnimg.cn/20210220152245584.png' width=600 alt='贪心算法大纲'> </img></div>
+
+<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. [贪心算法：分发饼干](./problems/0455.分发饼干.md)
