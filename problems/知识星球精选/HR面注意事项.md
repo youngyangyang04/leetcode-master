@@ -1,4 +1,9 @@
 
+<p align="center">
+<a href="https://github.com/youngyangyang04/leetcode-master" target="_blank">
+	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="800"/>
+</a>
+
 # HR面注意事项 
 
 [知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里已经有一些录友开始准备HR面。
