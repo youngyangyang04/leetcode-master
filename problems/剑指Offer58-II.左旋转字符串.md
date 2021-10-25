@@ -200,17 +200,14 @@ func reverse(b []byte, left, right int){
 JavaScript：
 
 ```javascript
-var reverseLeftWords = function (s, n) {
-    const reverse = (str, left, right) => {
-        let strArr = str.split("");
-        for (; left < right; left++, right--) {
-            [strArr[left], strArr[right]] = [strArr[right], strArr[left]];
-        }
-        return strArr.join("");
-    }
-    s = reverse(s, 0, n - 1);
-    s = reverse(s, n, s.length - 1);
-    return reverse(s, 0, s.length - 1);
+var reverseLeftWords = function(s, n) {
+  const length = s.length;
+  let i = 0;
+  while (i < length - n) {
+    s = s[length - 1] + s;
+    i++;
+  }
+  return s.slice(0, length);
 };
 ```
 
@@ -249,4 +246,4 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
