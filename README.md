@@ -4,7 +4,7 @@
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
 > 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
+> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
 > 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
 > 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
@@ -88,6 +88,7 @@
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
+
 * 项目
     * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
     * [Nosql数据库注入攻击系统](https://github.com/youngyangyang04/NoSQLAttack)
@@ -96,6 +97,9 @@
     * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
     * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
     * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
+    * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
+    * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
+
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
@@ -120,30 +124,34 @@
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
 
-
-## 社群
-
-* [准备秋招的录友们，组织在这里！](https://mp.weixin.qq.com/s/xX4LFwZQIG_XiQAxVBrfeA)
-* [准备社招的录友们，组织在这里！](https://mp.weixin.qq.com/s/mbQ3s17ZJ4LXFRb-VD58Ww)
-
 ## 知识星球精选
 
-* [HR面注意事项](https://mp.weixin.qq.com/s/0mDyCyCBfa0DeGov3Pebnw)
-* [刷题攻略要刷两遍！](https://mp.weixin.qq.com/s/e3_L7FZglY4UlTVvKolZyQ)
-* [秋招进行中的迷茫与焦虑......](https://mp.weixin.qq.com/s/X15MUw4sfH_AQNHdAivEvg)
-* [大厂新人培养体系应该是什么样的？](https://mp.weixin.qq.com/s/WBaPCosOljB5NEkFL2GhOQ)
-* [你的简历里「专业技能」写的够专业么？](https://mp.weixin.qq.com/s/bp6y-e5FVN28H9qc8J9zrg)
-* [Carl看了上百份简历，总结了这些！](https://mp.weixin.qq.com/s/sJa87MZD28piCOVMFkIbwQ)
-* [备战2022届秋招](https://mp.weixin.qq.com/s/7q7W8Cb2-a5U5atZdOnOFA)
-* [技术不太好，如果选择方向](https://mp.weixin.qq.com/s/ZCzFiAHZHLqHPLJQXNm75g)
-* [刷题要不要使用库函数](https://mp.weixin.qq.com/s/6K3_OSaudnHGq2Ey8vqYfg)
-* [关于实习的几点问题](https://mp.weixin.qq.com/s/xcxzi7c78kQGjvZ8hh7taA)
-* [面试中遇到了发散性问题，怎么帮？](https://mp.weixin.qq.com/s/SSonDxi2pjkSVwHNzZswng)
-* [英语到底重不重要！](https://mp.weixin.qq.com/s/1PRZiyF_-TVA-ipwDNjdKw)
-* [计算机专业要不要读研！](https://mp.weixin.qq.com/s/c9v1L3IjqiXtkNH7sOMAdg)
-* [关于提前批的一些建议](https://mp.weixin.qq.com/s/SNFiRDx8CKyjhTPlys6ywQ)
-* [已经在实习的录友要如何准备秋招](https://mp.weixin.qq.com/s/ka07IPryFnfmIjByFFcXDg)
-* [华为提前批已经开始了](https://mp.weixin.qq.com/s/OC35QDG8pn5OwLpCxieStw)
+* [HR特意刁难非科班！](./problems/知识星球精选/HR特意刁难非科班.md)
+* [offer的选择](./problems/知识星球精选/offer的选择.md)
+* [天下乌鸦一般黑，哪家没有PUA？](./problems/知识星球精选/天下乌鸦一般黑.md)
+* [初入大三，考研VS工作](./problems/知识星球精选/初入大三选择考研VS工作.md)
+* [非科班2021秋招总结](./problems/知识星球精选/非科班2021秋招总结.md)
+* [秋招下半场依然没offer，怎么办？](./problems/知识星球精选/秋招下半场依然没offer.md)
+* [合适自己的就是最好的](./problems/知识星球精选/合适自己的就是最好的.md)
+* [为什么都说客户端会消失](./problems/知识星球精选/客三消.md)
+* [博士转计算机如何找工作](./problems/知识星球精选/博士转行计算机.md)
+* [不一样的七夕](./problems/知识星球精选/不一样的七夕.md)
+* [HR面注意事项](./problems/知识星球精选/HR面注意事项.md)
+* [刷题攻略要刷两遍！](./problems/知识星球精选/刷题攻略要刷两遍.md)
+* [秋招进行中的迷茫与焦虑......](./problems/知识星球精选/秋招进行中的迷茫与焦虑.md)
+* [大厂新人培养体系应该是什么样的？](./problems/知识星球精选/大厂新人培养体系.md)
+* [你的简历里「专业技能」写的够专业么？](./problems/知识星球精选/专业技能可以这么写.md)
+* [Carl看了上百份简历，总结了这些！](./problems/知识星球精选/写简历的一些问题.md)
+* [备战2022届秋招](./problems/知识星球精选/备战2022届秋招.md)
+* [技术不太好，如果选择方向](./problems/知识星球精选/技术不好如何选择技术方向.md)
+* [刷题要不要使用库函数](./problems/知识星球精选/刷力扣用不用库函数.md)
+* [关于实习的几点问题](./problems/知识星球精选/关于实习大家的疑问.md)
+* [面试中遇到了发散性问题，怎么办？](./problems/知识星球精选/面试中发散性问题.md)
+* [英语到底重不重要！](./problems/知识星球精选/英语到底重不重要.md)
+* [计算机专业要不要读研！](./problems/知识星球精选/要不要考研.md)
+* [关于提前批的一些建议](./problems/知识星球精选/关于提前批的一些建议.md)
+* [已经在实习的录友要如何准备秋招](./problems/知识星球精选/如何权衡实习与秋招复习.md)
+* [华为提前批已经开始了](./problems/知识星球精选/提前批已经开始了.md)
 
 ## 杂谈
 
@@ -152,7 +160,6 @@
 * [上榜之后，都有哪些变化？](https://mp.weixin.qq.com/s/VJBV0qSBthjnbbmW-lctLA)
 * [大半年过去了......](https://mp.weixin.qq.com/s/lubfeistPxBLSQIe5XYg5g)
 * [一万录友在B站学算法！](https://mp.weixin.qq.com/s/Vzq4zkMZY7erKeu0fqGLgw)
-
 
 ## 数组 
 
@@ -304,7 +311,8 @@
 
 题目分类大纲如下：             
 
-<img src='https://img-blog.csdnimg.cn/20210220152245584.png' width=600 alt='贪心算法大纲'> </img></div>
+
+<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. [贪心算法：分发饼干](./problems/0455.分发饼干.md)
@@ -457,6 +465,7 @@
 * [724.寻找数组的中心索引](./problems/0724.寻找数组的中心索引.md)
 * [34.在排序数组中查找元素的第一个和最后一个位置](./problems/0034.在排序数组中查找元素的第一个和最后一个位置.md) （二分法）
 * [922.按奇偶排序数组II](./problems/0922.按奇偶排序数组II.md) 
+* [35.搜索插入位置](./problems/0035.搜索插入位置.md)
 
 ## 链表
 
@@ -464,6 +473,7 @@
 * [234.回文链表](./problems/0234.回文链表.md)
 * [143.重排链表](./problems/0143.重排链表.md)【数组】【双向队列】【直接操作链表】
 * [141.环形链表](./problems/0141.环形链表.md)
+* [160.相交链表](./problems/面试题02.07.链表相交.md)
 
 ## 哈希表
 * [205.同构字符串](./problems/0205.同构字符串.md):【哈希表的应用】
@@ -485,6 +495,7 @@
 
 ## 贪心
 * [649.Dota2参议院](./problems/0649.Dota2参议院.md) 有难度
+* [1221.分割平衡字符](./problems/1221.分割平衡字符串.md) 简单贪心
 
 ## 动态规划 
 * [5.最长回文子串](./problems/0005.最长回文子串.md) 和[647.回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw) 差不多是一样的
@@ -544,7 +555,8 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
+
 
 # 公众号
 
@@ -555,6 +567,6 @@
 **来看看就知道了，你会发现相见恨晚！**
 
 <a name="公众号"></a>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
-![](./pics/公众号.png)
 
