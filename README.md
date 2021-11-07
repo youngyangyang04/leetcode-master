@@ -4,7 +4,7 @@
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ) 。
 > 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
+> 3. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ) 。
 > 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
 > 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
@@ -97,6 +97,8 @@
     * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
     * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
     * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
+    * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
+    * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
 
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
@@ -124,6 +126,11 @@
 
 ## 知识星球精选
 
+* [HR特意刁难非科班！](./problems/知识星球精选/HR特意刁难非科班.md)
+* [offer的选择](./problems/知识星球精选/offer的选择.md)
+* [天下乌鸦一般黑，哪家没有PUA？](./problems/知识星球精选/天下乌鸦一般黑.md)
+* [初入大三，考研VS工作](./problems/知识星球精选/初入大三选择考研VS工作.md)
+* [非科班2021秋招总结](./problems/知识星球精选/非科班2021秋招总结.md)
 * [秋招下半场依然没offer，怎么办？](./problems/知识星球精选/秋招下半场依然没offer.md)
 * [合适自己的就是最好的](./problems/知识星球精选/合适自己的就是最好的.md)
 * [为什么都说客户端会消失](./problems/知识星球精选/客三消.md)
@@ -466,6 +473,7 @@
 * [234.回文链表](./problems/0234.回文链表.md)
 * [143.重排链表](./problems/0143.重排链表.md)【数组】【双向队列】【直接操作链表】
 * [141.环形链表](./problems/0141.环形链表.md)
+* [160.相交链表](./problems/面试题02.07.链表相交.md)
 
 ## 哈希表
 * [205.同构字符串](./problems/0205.同构字符串.md):【哈希表的应用】
@@ -547,7 +555,8 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175">
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
+
 
 # 公众号
 
@@ -558,6 +567,6 @@
 **来看看就知道了，你会发现相见恨晚！**
 
 <a name="公众号"></a>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
-![](./pics/公众号.png)
 
