@@ -144,6 +144,41 @@ public static String replaceSpace(StringBuffer str) {
         }
         return sb.toString();
     }
+
+//方式二：双指针法
+public String replaceSpace(String s) {
+    if(s == null || s.length() == 0){
+        return s;
+    }
+    //扩充空间，空格数量2倍
+    StringBuilder str = new StringBuilder();
+    for (int i = 0; i < s.length(); i++) {
+        if(s.charAt(i) == ' '){
+            str.append("  ");
+        }
+    }
+    //若是没有空格直接返回
+    if(str.length() == 0){
+        return s;
+    }
+    //有空格情况 定义两个指针
+    int left = s.length() - 1;//左指针：指向原始字符串最后一个位置
+    s += str.toString();
+    int right = s.length()-1;//右指针：指向扩展字符串的最后一个位置
+    char[] chars = s.toCharArray();
+    while(left>=0){
+        if(chars[left] == ' '){
+            chars[right--] = '0';
+            chars[right--] = '2';
+            chars[right] = '%';
+        }else{
+            chars[right] = chars[left];
+        }
+        left--;
+        right--;
+    }
+    return new String(chars);
+}
 ```
 
 
@@ -313,4 +348,4 @@ func replaceSpace(_ s: String) -> String {
 * 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
 * B站视频：[代码随想录](https://space.bilibili.com/525438321)
 * 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
+<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
