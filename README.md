@@ -14,7 +14,7 @@
 
 <p align="center">
 <a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111014019.png" width="1000"/>
+	<img src="./pics/阿里云.png" width="1000"/>
 </a>
 
 # LeetCode 刷题攻略
