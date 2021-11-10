@@ -10,9 +10,11 @@
 > 4. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
 > 5. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
+<p align="center"><strong>阿里云服务器，双11特价活动🔥🔥🔥🔥</p>
+
 <p align="center">
 <a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111012450.png" width="1000"/>
+	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111014019.png" width="1000"/>
 </a>
 
 # LeetCode 刷题攻略
