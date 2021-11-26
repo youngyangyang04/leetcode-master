@@ -577,4 +577,10 @@
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
+# 服务器 
 
+<p align="center"><strong>阿里云服务器，双11特价活动🔥🔥🔥🔥</p>
+<p align="center">
+<a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
+	<img src="./pics/阿里云.png" width="1000"/>
+</a>
