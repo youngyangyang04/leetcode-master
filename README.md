@@ -124,6 +124,16 @@
 
 ## 知识星球精选
 
+* [秋招面试，心态很重要！](./problems/知识星球精选/秋招总结3.md)
+* [秋招倒霉透顶，触底反弹！](./problems/知识星球精选/秋招总结2.md)
+* [无竞赛，无实习，如何秋招？](./problems/知识星球精选/秋招总结1.md)
+* [offer总决赛，何去何从！](./problems/知识星球精选/offer总决赛，何去何从.md)
+* [入职后担心代码能力跟不上！](./problems/知识星球精选/入职后担心代码能力跟不上.md)
+* [秋招进入offer决赛圈！](./problems/知识星球精选/offer对比-决赛圈.md)
+* [非科班的困扰](./problems/知识星球精选/非科班的困扰.md)
+* [offer的选择-开奖](./problems/知识星球精选/秋招开奖.md)
+* [看到代码就抵触！怎么办？](./problems/知识星球精选/不喜欢写代码怎么办.md)
+* [遭遇逼签，怎么办？](./problems/知识星球精选/逼签.md)
 * [HR特意刁难非科班！](./problems/知识星球精选/HR特意刁难非科班.md)
 * [offer的选择](./problems/知识星球精选/offer的选择.md)
 * [天下乌鸦一般黑，哪家没有PUA？](./problems/知识星球精选/天下乌鸦一般黑.md)
@@ -567,4 +577,10 @@
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
+# 服务器 
 
+<p align="center"><strong>阿里云服务器，双11特价活动🔥🔥🔥🔥</p>
+<p align="center">
+<a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
+	<img src="./pics/阿里云.png" width="1000"/>
+</a>
