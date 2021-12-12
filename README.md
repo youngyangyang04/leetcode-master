@@ -22,11 +22,11 @@
   <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
 
-<p align="center"><strong>《代码随想录》正式出版啦！！双十二五折优惠！</strong></p>
+<p align="center"><strong>《代码随想录》正式出版啦！！录友专属福利，扫下方二维码享五折优惠！详细可以<a href="https://mp.weixin.qq.com/s/JoyeqY-QhncJZvGO89tjNQ">点击这里</a></strong></p>
 
 <p align="center">
 <a href="https://union-click.jd.com/jdc?e=&p=JF8BALsJK1olXDYCVlpeAU8XBF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksVB2wBH1sSQl9HCANtQUJzWGwIWlt1CBxqHzpYQ1EQRRBsa1cZbQcyV1dfDEsVBm8AK2sVWjZUOl5cCUoWAmoIHlglXDYCU1xVC0MWBGcBHVIWbQECXW4AQBdfVCQ4K2sWbTYyVG5eOAl5BTwNHAwSCQIAUAsPDUwVCmYJGV0dW1RSVVwIDEtAU2Y4GVoUWQ8y" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211212143852.png" width="400"/>
+	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211212150135.png" width="400"/>
 </a>
 </p>
 
