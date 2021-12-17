@@ -134,7 +134,8 @@ public static String replaceSpace(StringBuffer str) {
 		//使用 sb 逐个复制 str ，碰到空格则替换，否则直接复制
         for (int i = 0; i < str.length(); i++) {
 		//str.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
-            if (" ".equals(String.valueOf(str.charAt(i)))){
+        //if (" ".equals(String.valueOf(str.charAt(i)))){
+            if (s.charAt(i) == ' ') {
                 sb.append("%20");
             } else {
                 sb.append(str.charAt(i));
