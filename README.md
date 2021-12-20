@@ -22,7 +22,7 @@
   <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
 </p>
 
-<p align="center"><strong>《代码随想录》正式出版啦！！录友专属福利，点击下方可以享五折优惠！详细可以<a href="programmercarl.com/other/publish.html">点击这里</a></strong></p>
+<p align="center"><strong>《代码随想录》正式出版啦！！录友专属福利，点击下方可以享五折优惠！详细可以<a href="https://programmercarl.com/other/publish.html">点击这里</a></strong></p>
 
 <p align="center">
 <a href="https://union-click.jd.com/jdc?e=&p=JF8BAMQJK1olXg8EUVhVCkkWAV8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlX0B9A1cfakpyYBkSRj4QKFBUEEAfaEcbM244GFIXWQYAUV5VOHsXBF9edVsUXAcDVVtdDUgnAl8IHFkdXw8KUl5fDkgRM2gIEmtIFVpKAxVtOHsUM184G2sWbURsVApfAR8XA2sLSw8cWA8LUw1ZCElHAmhdTAxGW1YBUlxtCkoWB2Y4" target="_blank">
