@@ -29,7 +29,7 @@ i指向新长度的末尾，j指向旧长度的末尾。
 
 有同学问了，为什么要从后向前填充，从前向后填充不行么？
 
-从前向后填充就是O(n^2)的算法了，因为每次添加元素都要将添加元素之后的所有元素向后移动。
+从前向后填充就是$O(n^2)$的算法了，因为每次添加元素都要将添加元素之后的所有元素向后移动。
 
 **其实很多数组填充类的问题，都可以先预先给数组扩容带填充后的大小，然后在从后向前进行操作。**
 
@@ -72,10 +72,10 @@ public:
         return s;
     }
 };
-
 ```
-* 时间复杂度：O(n)
-* 空间复杂度：O(1)
+
+* 时间复杂度：$O(n)$
+* 空间复杂度：$O(1)$
 
 此时算上本题，我们已经做了七道双指针相关的题目了分别是：
 
@@ -134,7 +134,8 @@ public static String replaceSpace(StringBuffer str) {
 		//使用 sb 逐个复制 str ，碰到空格则替换，否则直接复制
         for (int i = 0; i < str.length(); i++) {
 		//str.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
-            if (" ".equals(String.valueOf(str.charAt(i)))){
+        //if (" ".equals(String.valueOf(str.charAt(i)))){
+            if (s.charAt(i) == ' ') {
                 sb.append("%20");
             } else {
                 sb.append(str.charAt(i));
