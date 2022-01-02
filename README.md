@@ -571,7 +571,7 @@
 也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
 
 <a name="微信"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/WechatIMG82.jpeg" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211230153955.png" data-img="1" width="200" height="200"></img></div>
 
 
 # 公众号
