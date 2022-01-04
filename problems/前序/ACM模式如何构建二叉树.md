@@ -24,7 +24,7 @@
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210914222335.png)
 
-一直跟着公众号学算法的录友 应该知道，我在[二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/Dza-fqjTyGrsRw4PWNKdxA)，已经讲过，**只有 中序与后序 和  中序和前序 可以确定一颗唯一的二叉树。 前序和后序是不能确定唯一的二叉树的**。
+一直跟着公众号学算法的录友 应该知道，我在[二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/Dza-fqjTyGrsRw4PWNKdxA)，已经讲过，**只有 中序与后序 和  中序和前序 可以确定一棵唯一的二叉树。 前序和后序是不能确定唯一的二叉树的**。
 
 那么[538.把二叉搜索树转换为累加树](https://mp.weixin.qq.com/s/rlJUFGCnXsIMX0Lg-fRpIw)的示例中，为什么，一个序列（数组或者是字符串）就可以确定二叉树了呢？
 
