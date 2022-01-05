@@ -564,14 +564,14 @@
 
 # 关于作者
 
-大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
+大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
 
-加入刷题微信群，备注：「个人简单介绍」 + 组队刷题
+加入「代码随想录」刷题小分队（微信群），可以扫下方二维码加我微信。
 
-也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）
+如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
 
-<a name="微信"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211230153955.png" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220102204804.png" data-img="1" width="200" height="200"></img></div>
+
 
 
 # 公众号
@@ -585,10 +585,3 @@
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
-# 服务器 
-
-<p align="center"><strong>阿里云服务器，双11特价活动🔥🔥🔥🔥</p>
-<p align="center">
-<a href="https://www.aliyun.com/minisite/goods?taskPkg=1111ydsrwb&pkgSid=1959&recordId=962642&userCode=roof0wob" target="_blank">
-	<img src="./pics/阿里云.png" width="1000"/>
-</a>
