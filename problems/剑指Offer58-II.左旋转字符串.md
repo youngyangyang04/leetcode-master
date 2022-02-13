@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
@@ -86,7 +86,7 @@ public:
 # 题外话
 
 一些同学热衷于使用substr，来做这道题。
-其实使用substr 和 反转 时间复杂度是一样的 ，都是O(n)，但是使用substr申请了额外空间，所以空间复杂度是O(n)，而反转方法的空间复杂度是O(1)。
+其实使用substr 和 反转 时间复杂度是一样的 ，都是$O(n)$，但是使用substr申请了额外空间，所以空间复杂度是$O(n)$，而反转方法的空间复杂度是$O(1)$。
 
 **如果想让这套题目有意义，就不要申请额外空间。**
 
@@ -206,6 +206,61 @@ var reverseLeftWords = function(s, n) {
     i++;
   }
   return s.slice(0, length);
+};
+```
+
+版本二（在原字符串上操作）：
+
+```js
+/**
+ * @param {string} s
+ * @param {number} n
+ * @return {string}
+ */
+var reverseLeftWords = function (s, n) {
+    /** Utils */
+    function reverseWords(strArr, start, end) {
+        let temp;
+        while (start < end) {
+            temp = strArr[start];
+            strArr[start] = strArr[end];
+            strArr[end] = temp;
+            start++;
+            end--;
+        }
+    }
+    /** Main code */
+    let strArr = s.split('');
+    let length = strArr.length;
+    reverseWords(strArr, 0, length - 1);
+    reverseWords(strArr, 0, length - n - 1);
+    reverseWords(strArr, length - n, length - 1);
+    return strArr.join('');
+};
+```
+
+TypeScript：
+
+```typescript
+function reverseLeftWords(s: string, n: number): string {
+    /** Utils */
+    function reverseWords(strArr: string[], start: number, end: number): void {
+        let temp: string;
+        while (start < end) {
+            temp = strArr[start];
+            strArr[start] = strArr[end];
+            strArr[end] = temp;
+            start++;
+            end--;
+        }
+    }
+    /** Main code */
+    let strArr: string[] = s.split('');
+    let length: number = strArr.length;
+    reverseWords(strArr, 0, length - 1);
+    reverseWords(strArr, 0, length - n - 1);
+    reverseWords(strArr, length - n, length - 1);
+    return strArr.join('');
 };
 ```
 

@@ -20,9 +20,9 @@
 
 也就是说程序运行的时间超过了规定的时间，一般OJ（online judge）的超时时间就是1s，也就是用例数据输入后最多要1s内得到结果，暂时还不清楚leetcode的判题规则，下文为了方便讲解，暂定超时时间就是1s。
 
-如果写出了一个O(n)的算法 ，其实可以估算出来n是多大的时候算法的执行时间就会超过1s了。
+如果写出了一个$O(n)$的算法 ，其实可以估算出来n是多大的时候算法的执行时间就会超过1s了。
 
-如果n的规模已经足够让O(n)的算法运行时间超过了1s，就应该考虑log(n)的解法了。
+如果n的规模已经足够让$O(n)$的算法运行时间超过了1s，就应该考虑log(n)的解法了。
 
 # 从硬件配置看计算机的性能
 
@@ -65,7 +65,7 @@
 
 测试硬件：2015年MacPro，CPU配置：2.7 GHz Dual-Core Intel Core i5
 
-实现三个函数，时间复杂度分别是 O(n) , O(n^2), O(nlogn)，使用加法运算来统一测试。
+实现三个函数，时间复杂度分别是 $O(n)$ , $O(n^2)$, $O(n\log n)$，使用加法运算来统一测试。
 
 ```CPP
 // O(n)
@@ -130,19 +130,19 @@ int main() {
 
 ![程序超时2](https://img-blog.csdnimg.cn/20200729200018460.png)
 
-O(n)的算法，1s内大概计算机可以运行 5 * (10^8)次计算，可以推测一下O(n^2) 的算法应该1s可以处理的数量级的规模是 5 * (10^8)开根号，实验数据如下。
+O(n)的算法，1s内大概计算机可以运行 5 * (10^8)次计算，可以推测一下$O(n^2)$ 的算法应该1s可以处理的数量级的规模是 5 * (10^8)开根号，实验数据如下。
 
 ![程序超时3](https://img-blog.csdnimg.cn/2020072919590970.png)
 
 O(n^2)的算法，1s内大概计算机可以运行 22500次计算，验证了刚刚的推测。
 
-在推测一下O(nlogn)的话， 1s可以处理的数据规模是什么呢？
+在推测一下$O(n\log n)$的话， 1s可以处理的数据规模是什么呢？
 
-理论上应该是比 O(n)少一个数量级，因为logn的复杂度 其实是很快，看一下实验数据。
+理论上应该是比 $O(n)$少一个数量级，因为$\log n$的复杂度 其实是很快，看一下实验数据。
 
 ![程序超时4](https://img-blog.csdnimg.cn/20200729195729407.png)
 
-O(nlogn)的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符合预期。
+$O(n\log n)$的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符合预期。
 
 这是在我个人PC上测出来的数据，不能说是十分精确，但数量级是差不多的，大家也可以在自己的计算机上测一下。
 
@@ -150,7 +150,7 @@ O(nlogn)的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符�
 
 ![程序超时1](https://img-blog.csdnimg.cn/20201208231559175.png)
 
-至于O(logn) 和O(n^3) 等等这些时间复杂度在1s内可以处理的多大的数据规模，大家可以自己写一写代码去测一下了。
+至于 $O(\log n)$ 和 $O(n^3)$ 等等这些时间复杂度在1s内可以处理的多大的数据规模，大家可以自己写一写代码去测一下了。
 
 # 完整测试代码
 
@@ -206,12 +206,67 @@ int main() {
     }
 }
 
+```
 
+
+Java版本
+```Java
+import java.util.Scanner;
+
+public class TimeComplexity {
+    // o(n)
+    public static void function1(long n) {
+        System.out.println("o(n)算法");
+        long k = 0;
+        for (long i = 0; i < n; i++) {
+            k++;
+        }
+    }
+
+    // o(n^2)
+    public static void function2(long n) {
+        System.out.println("o(n^2)算法");
+        long k = 0;
+        for (long i = 0; i < n; i++) {
+            for (long j = 0; j < n; j++) {
+                k++;
+            }
+        }
+    }
+
+    // o(nlogn)
+    public static void function3(long n) {
+        System.out.println("o(nlogn)算法");
+        long k = 0;
+        for (long i = 0; i < n; i++) {
+            for (long j = 1; j < n; j = j * 2) { // 注意这里j=1
+                k++;
+            }
+        }
+    }
+
+    public static void main(String[] args) {
+        while(true) {
+            Scanner in = new Scanner(System.in);
+            System.out.print("输入n: ");
+            int n = in.nextInt();
+            long startTime = System.currentTimeMillis();
+
+            function1(n);
+            // function2(n);
+            // function3(n);
+
+            long endTime = System.currentTimeMillis();
+            long costTime = endTime - startTime;
+            System.out.println("算法耗时 == " + costTime + "ms");
+        }
+    }
+}
 ```
 
 # 总结
 
-本文详细分析了在leetcode上做题程序为什么会有超时，以及从硬件配置上大体知道CPU的执行速度，然后亲自做一个实验来看看O(n)的算法，跑一秒钟，这个n究竟是做大，最后给出不同时间复杂度，一秒内可以运算出来的n的大小。
+本文详细分析了在leetcode上做题程序为什么会有超时，以及从硬件配置上大体知道CPU的执行速度，然后亲自做一个实验来看看$O(n)$的算法，跑一秒钟，这个n究竟是做大，最后给出不同时间复杂度，一秒内可以运算出来的n的大小。
 
 建议录友们也都自己做一做实验，测一测，看看是不是和我的测出来的结果差不多。
 

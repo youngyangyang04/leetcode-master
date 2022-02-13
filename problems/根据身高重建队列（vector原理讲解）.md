@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
@@ -33,7 +33,7 @@ public:
 耗时如下：
 ![vectorinsert](https://img-blog.csdnimg.cn/20201218203611181.png)
 
-其直观上来看数组的insert操作是O(n)的，整体代码的时间复杂度是O(n^2)。
+其直观上来看数组的insert操作是$O(n)$的，整体代码的时间复杂度是$O(n^2)$。
 
 这么一分析好像和版本二链表实现的时间复杂度是一样的啊，为什么提交之后效率会差距这么大呢？
 ```CPP
@@ -97,7 +97,7 @@ for (int i = 0; i < vec.size(); i++) {
 
 **同时也注意此时capicity和size的变化，关键的地方我都标红了**。
 
-而在[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中，我们使用vector来做insert的操作，此时大家可会发现，**虽然表面上复杂度是O(n^2)，但是其底层都不知道额外做了多少次全量拷贝了，所以算上vector的底层拷贝，整体时间复杂度可以认为是O(n^2 + t * n)级别的，t是底层拷贝的次数**。
+而在[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中，我们使用vector来做insert的操作，此时大家可会发现，**虽然表面上复杂度是$O(n^2)$，但是其底层都不知道额外做了多少次全量拷贝了，所以算上vector的底层拷贝，整体时间复杂度可以认为是$O(n^2 + t × n)$级别的，t是底层拷贝的次数**。
 
 那么是不是可以直接确定好vector的大小，不让它在动态扩容了，例如在[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中已经给出了有people.size这么多的人，可以定义好一个固定大小的vector，这样我们就可以控制vector，不让它底层动态扩容。
 
@@ -133,7 +133,7 @@ public:
 
 ![vector手动模拟insert](https://img-blog.csdnimg.cn/20201218200626718.png)
 
-这份代码就是不让vector动态扩容，全程我们自己模拟insert的操作，大家也可以直观的看出是一个O(n^2)的方法了。
+这份代码就是不让vector动态扩容，全程我们自己模拟insert的操作，大家也可以直观的看出是一个$O(n^2)$的方法了。
 
 但这份代码在leetcode上统计的耗时甚至比版本一的还高，我们都不让它动态扩容了，为什么耗时更高了呢？
 
@@ -151,7 +151,7 @@ public:
 
 大家应该发现了，编程语言中一个普通容器的insert，delete的使用，都可能对写出来的算法的有很大影响！
 
-如果抛开语言谈算法，除非从来不用代码写算法纯分析，**否则的话，语言功底不到位O(n)的算法可以写出O(n^2)的性能**，哈哈。
+如果抛开语言谈算法，除非从来不用代码写算法纯分析，**否则的话，语言功底不到位$O(n)$的算法可以写出$O(n^2)$的性能**，哈哈。
 
 相信在这里学习算法的录友们，都是想在软件行业长远发展的，都是要从事编程的工作，那么一定要深耕好一门编程语言，这个非常重要！
 
