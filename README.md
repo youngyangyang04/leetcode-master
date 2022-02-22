@@ -10,7 +10,7 @@
 > 5. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
 > 6. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
 > 7. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
-
+> 8. html编译方法: [安装mdbook](https://rust-lang.github.io/mdBook/index.html), 安装后进入当前源码目录，直接输入*mdbook build*即会在当前目录生成一个book文件夹，将该文件夹放到对应服务器即可。
 <p align="center">
 <a href="programmercarl.com" target="_blank">
 	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211111115823.png" width="400"/>
