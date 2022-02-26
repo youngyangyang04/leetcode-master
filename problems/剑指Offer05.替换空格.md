@@ -260,8 +260,24 @@ class Solution:
             
 ```
 
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        # method 1 - Very rude
+        return "%20".join(s.split(" "))
+
+        # method 2 - Reverse the s when counting in for loop, then update from the end.
+        n = len(s)
+        for e, i in enumerate(s[::-1]):
+            print(i, e)
+            if i == " ":
+                s = s[: n - (e + 1)] + "%20" + s[n - e:]
+            print("")
+        return s
+```
 
 javaScript:
+
 ```js
 /**
  * @param {string} s
