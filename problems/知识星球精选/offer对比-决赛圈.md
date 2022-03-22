@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
@@ -7,7 +7,7 @@
 
 秋招已经结束了，该开奖的差不多都陆续开奖了，很多录友的也进入了offer决赛圈。
 
-我每天都在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里，回答十几个offer对比的问题，我也是结合自己过来人的经验给大家做做分析，我也选几个案例，在公众号上也给大家分享一下，希望对大家有所启发。
+我每天都在[知识星球](https://programmercarl.com/other/kstar.html)里，回答十几个offer对比的问题，我也是结合自己过来人的经验给大家做做分析，我也选几个案例，在公众号上也给大家分享一下，希望对大家有所启发。
 
 以下是知识星球里的部分问答：
 
