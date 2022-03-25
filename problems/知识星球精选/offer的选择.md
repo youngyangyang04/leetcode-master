@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
@@ -10,7 +10,7 @@
 
 不过大部分同学应该拿到的是 两个大厂offer，或者说拿到两个小厂offer，还要考虑岗位，业务，公司前景，那么就要纠结如何选择了。
 
-在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里，我已经给很多录友提供了选择offer的建议，这里也分享出来，希望对大家在选择offer上有所启发。
+在[知识星球](https://programmercarl.com/other/kstar.html)里，我已经给很多录友提供了选择offer的建议，这里也分享出来，希望对大家在选择offer上有所启发。
 
 ## 保研与工作
 
