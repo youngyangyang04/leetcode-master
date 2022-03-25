@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
@@ -8,7 +8,7 @@
 
 不少录友都是非科班转程序员，或者进军互联网的，但有一些HR在HR面的时候特意刁难大家。
 
-正如[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里，这位录友所遭受的情景。
+正如[知识星球](https://programmercarl.com/other/kstar.html)里，这位录友所遭受的情景。
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211006230202.png)
 
