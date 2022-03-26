@@ -1,12 +1,12 @@
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
 
 # HR面注意事项 
 
-[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里已经有一些录友开始准备HR面。
+[知识星球](https://programmercarl.com/other/kstar.html)里已经有一些录友开始准备HR面。
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210807155107.png)
 
@@ -86,4 +86,4 @@ HR朋友的回答是：你不说真相，我会认为你可能对技术有追求
 
 ---------------
 
-加入「代码随想录」知识星球，[点击这里](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+加入「代码随想录」知识星球，[点击这里](https://programmercarl.com/other/kstar.html)

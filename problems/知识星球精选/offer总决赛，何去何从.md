@@ -1,12 +1,12 @@
 
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
 # offer总决赛，何去何从!
 
-最近在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)上，给至少300位录友做了offer选择，准对大家的情况，结合我的经验做一做分析。
+最近在[知识星球](https://programmercarl.com/other/kstar.html)上，给至少300位录友做了offer选择，准对大家的情况，结合我的经验做一做分析。
 
 希望可以给大家带来不一样的分析视角，帮大家少走弯路。
 

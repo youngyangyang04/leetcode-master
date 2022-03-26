@@ -1,11 +1,11 @@
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
 # 秋招下半场依然没offer，怎么办？
 
-[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里一些录友拿到了满意的offer，也有一些录友，依然没有offer，每天的状态已经不能用焦虑来形容了。
+[知识星球](https://programmercarl.com/other/kstar.html)里一些录友拿到了满意的offer，也有一些录友，依然没有offer，每天的状态已经不能用焦虑来形容了。
 
 在星球里就有录友向我提问了这样一个问题：
 
@@ -52,7 +52,7 @@
 
 ## 在学点技术，冲春招？
 
-[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里还有一位录友，也是类似的情况，秋招感觉很艰难，要不要在学一学微服务分布式之类的，再冲春招。
+[知识星球](https://programmercarl.com/other/kstar.html)里还有一位录友，也是类似的情况，秋招感觉很艰难，要不要在学一学微服务分布式之类的，再冲春招。
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210921103343.png)
 
@@ -71,13 +71,13 @@
 
 ## 给参加明年秋招录友的劝告
 
-其实我在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里，**看到了太多太多 参加今年秋招的录友 埋怨自己 准备的太晚了，没想到要看的东西这么多，没想到竞争这么激烈**。
+其实我在[知识星球](https://programmercarl.com/other/kstar.html)里，**看到了太多太多 参加今年秋招的录友 埋怨自己 准备的太晚了，没想到要看的东西这么多，没想到竞争这么激烈**。
 
 所以明年参加秋招的录友，要提前就开始准备，明确自己的岗位，知道岗位的要求，制定自己的计划，然后按计划执行。
 
 **其实多早开始准备，都不算早！**
 
-很多在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里的准大三，研一的录友，都能在星球里感受到 秋招的竞争与激烈。
+很多在[知识星球](https://programmercarl.com/other/kstar.html)里的准大三，研一的录友，都能在星球里感受到 秋招的竞争与激烈。
 
 所以他们也就早早的开始准备了。
 
@@ -87,7 +87,7 @@
 
 估计大多数准大三或者准研一的同学都还没有这种意识。
 
-**但在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里，通过每天录友们的打卡，每天都能感受到这种紧迫感**。
+**但在[知识星球](https://programmercarl.com/other/kstar.html)里，通过每天录友们的打卡，每天都能感受到这种紧迫感**。
 
 正如一位星球里的录友这么说：
 
