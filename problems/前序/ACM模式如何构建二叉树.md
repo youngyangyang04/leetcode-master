@@ -1,13 +1,4 @@
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-<p align="center"><strong>欢迎大家<a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
-
-
 # 力扣上如何自己构造二叉树输入用例？
 
 经常有录友问，二叉树的题目中输入用例在ACM模式下应该怎么构造呢？
@@ -45,21 +36,7 @@
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210914223147.png)
 
-那么此时大家是不是应该知道了，数组如何转化成 二叉树了。**如果父节点的数组下标是i，那么它的左孩子下标就是i * 2 + 1，右孩子下标就是 i * 2 + 2**。计算过程为：
-
-如果父节点在第$k$层，第$m,m \in [0,2^k]$个节点，则其左孩子所在的位置必然为$k+1$层，第$2*(m-1)+1$个节点。
-
-- 计算父节点在数组中的索引：
-  $$
-  index_{father}=(\sum_{i=0}^{i=k-1}2^i)+m-1=2^k-1+m-1
-  $$
-
-- 计算左子节点在数组的索引：
-  $$
-  index_{left}=(\sum_{i=0}^{i=k}2^i)+2*m-1-1=2^{k+1}+2m-3
-  $$
-
-- 故左孩子的下表为$index_{left}=index_{father}\times2+1$，同理可得到右子孩子的索引关系。也可以直接在左子孩子的基础上`+1`。
+那么此时大家是不是应该知道了，数组如何转化成 二叉树了。**如果父节点的数组下标是i，那么它的左孩子下标就是i * 2 + 1，右孩子下标就是 i * 2 + 2**。
 
 那么这里又有同学疑惑了，这些我都懂了，但我还是不知道 应该 怎么构造。
 
@@ -251,7 +228,4 @@ int main() {
 ```
 
 -----------------------
-* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
-* B站视频：[代码随想录](https://space.bilibili.com/525438321)
-* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 <div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

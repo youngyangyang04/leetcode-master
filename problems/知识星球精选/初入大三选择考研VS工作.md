@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ" target="_blank">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
 </a>
 
@@ -8,7 +8,7 @@
 
 9月份开学季，已过，一些录友也升入大三了，升入大三摆在自己面前最大的问题就是，考研还是找工作？
 
-在[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)里就有录友问我这样一个问题， 其实每个人情况不一样，做出的选择也不一样，这里给大家分享一下，相信对你也会有启发。
+在[知识星球](https://programmercarl.com/other/kstar.html)里就有录友问我这样一个问题， 其实每个人情况不一样，做出的选择也不一样，这里给大家分享一下，相信对你也会有启发。
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211002110618.png)
 

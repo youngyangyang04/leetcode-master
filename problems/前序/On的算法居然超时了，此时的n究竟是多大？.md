@@ -1,18 +1,12 @@
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-<p align="center"><strong>欢迎大家<a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
+# On的算法居然超时了，此时的n究竟是多大？
 
 
 一些同学可能对计算机运行的速度还没有概念，就是感觉计算机运行速度应该会很快，那么在leetcode上做算法题目的时候为什么会超时呢？
 
 计算机究竟1s可以执行多少次操作呢？ 接下来探讨一下这个问题。
 
-# 超时是怎么回事
+## 超时是怎么回事
 
 ![程序超时](https://img-blog.csdnimg.cn/20200729112716117.png)
 
@@ -24,7 +18,7 @@
 
 如果n的规模已经足够让$O(n)$的算法运行时间超过了1s，就应该考虑log(n)的解法了。
 
-# 从硬件配置看计算机的性能
+## 从硬件配置看计算机的性能
 
 计算机的运算速度主要看CPU的配置，以2015年MacPro为例，CPU配置：2.7 GHz Dual-Core Intel Core i5 。
 
@@ -43,7 +37,7 @@
 
 所以我们的程序在计算机上究竟1s真正能执行多少次操作呢？
 
-# 做个测试实验
+## 做个测试实验
 
 在写测试程序测1s内处理多大数量级数据的时候，有三点需要注意：
 
@@ -152,7 +146,7 @@ $O(n\log n)$的算法，1s内大概计算机可以运行 2 * (10^7)次计算，�
 
 至于 $O(\log n)$ 和 $O(n^3)$ 等等这些时间复杂度在1s内可以处理的多大的数据规模，大家可以自己写一写代码去测一下了。
 
-# 完整测试代码
+## 完整测试代码
 
 ```CPP
 #include <iostream>
@@ -264,7 +258,7 @@ public class TimeComplexity {
 }
 ```
 
-# 总结
+## 总结
 
 本文详细分析了在leetcode上做题程序为什么会有超时，以及从硬件配置上大体知道CPU的执行速度，然后亲自做一个实验来看看$O(n)$的算法，跑一秒钟，这个n究竟是做大，最后给出不同时间复杂度，一秒内可以运算出来的n的大小。
 
@@ -280,7 +274,4 @@ public class TimeComplexity {
 
 
 -----------------------
-* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
-* B站视频：[代码随想录](https://space.bilibili.com/525438321)
-* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 <div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>

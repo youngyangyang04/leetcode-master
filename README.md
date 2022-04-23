@@ -1,14 +1,14 @@
 
-
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
-> 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 4. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
-> 5. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
-> 6. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 3. **最强八股文：**：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html)
+> 4. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
+> 5. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
+> 6. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
+> 7. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
 <a href="programmercarl.com" target="_blank">
@@ -88,8 +88,7 @@
 
 ## 前序
 
-* [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
-* [「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
@@ -123,7 +122,7 @@
     
 * 算法性能分析
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
-    * [$O(n)$的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
     * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
@@ -263,7 +262,7 @@
 3. [二叉树：听说递归能做的，栈也能做！](./problems/二叉树的迭代遍历.md)
 4. [二叉树：前中后序迭代方式的写法就不能统一一下么？](./problems/二叉树的统一迭代法.md)
 5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) 
-6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md)
+6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md) 
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
 8. [二叉树：我对称么？](./problems/0101.对称二叉树.md)
 9. [二叉树：看看这些树的最大深度](./problems/0104.二叉树的最大深度.md)
