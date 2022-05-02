@@ -208,6 +208,59 @@ int main() {
 ## Java 
 
 ```Java
+public class Solution {
+    // 节点类
+    static class TreeNode {
+        // 节点值
+        int val;
+
+        // 左节点
+        TreeNode left;
+
+        // 右节点
+        TreeNode right;
+
+        // 节点的构造函数(默认左右节点都为null)
+        public TreeNode(int x) {
+            this.val = x;
+            this.left = null;
+            this.right = null;
+        }
+    }
+    
+    /**
+     * 根据数组构建二叉树
+     * @param arr 树的数组表示
+     * @return 构建成功后树的根节点
+     */
+    public TreeNode constructBinaryTree(final int[] arr) {
+        // 构建和原数组相同的树节点列表
+        List<TreeNode> treeNodeList = arr.length > 0 ? new ArrayList<>(arr.length) : null;
+        TreeNode root = null;
+        // 把输入数值数组，先转化为二叉树节点列表
+        for (int i = 0; i < arr.length; i++) {
+            TreeNode node = null;
+            if (arr[i] != -1) { // 用 -1 表示null
+                node = new TreeNode(arr[i]);
+            }
+            treeNodeList.add(node);
+            if (i == 0) {
+                root = node;
+            }
+        }
+        // 遍历一遍，根据规则左右孩子赋值就可以了
+        // 注意这里 结束规则是 i * 2 + 2 < arr.length，避免空指针
+        for (int i = 0; i * 2 + 2 < arr.length; i++) {
+            TreeNode node = treeNodeList.get(i);
+            if (node != null) {
+                // 线性存储转连式存储关键逻辑
+                node.left = treeNodeList.get(2 * i + 1);
+                node.right = treeNodeList.get(2 * i + 2);
+            }
+        }
+        return root;
+    }
+}
 ```
 
 
@@ -220,6 +273,73 @@ int main() {
 ## Go 
 
 ```Go
+package main
+
+import "fmt"
+
+type TreeNode struct {
+    Val   int
+    Left  *TreeNode
+    Right *TreeNode
+}
+
+func constructBinaryTree(array []int) *TreeNode {
+    var root *TreeNode
+    nodes := make([]*TreeNode, len(array))
+
+    // 初始化二叉树节点
+    for i := 0; i < len(nodes); i++ {
+	var node *TreeNode
+	if array[i] != -1 {
+	    node = &TreeNode{Val: array[i]}
+	}
+	nodes[i] = node
+	if i == 0 {
+	    root = node
+	}
+    }
+    // 串联节点
+    for i := 0; i*2+2 < len(array); i++ {
+        if nodes[i] != nil {
+	    nodes[i].Left = nodes[i*2+1]
+	    nodes[i].Right = nodes[i*2+2]
+	}
+    }
+    return root
+}
+
+func printBinaryTree(root *TreeNode, n int) {
+    var queue []*TreeNode
+    if root != nil {
+	queue = append(queue, root)
+    }
+
+    result := []int{}
+    for len(queue) > 0 {
+	for j := 0; j < len(queue); j++ {
+	    node := queue[j]
+	    if node != nil {
+		result = append(result, node.Val)
+		queue = append(queue, node.Left)
+		queue = append(queue, node.Right)
+	    } else {
+	        result = append(result, -1)
+	    }
+        }
+	// 清除队列中的本层节点, 进入下一层遍历
+	queue = queue[len(queue):]
+    }
+    
+    // 参数n控制输出值数量, 否则二叉树最后一层叶子节点的孩子节点也会被打印(但是这些孩子节点是不存在的).
+    fmt.Println(result[:n])
+}
+
+func main() {
+    array := []int{4, 1, 6, 0, 2, 5, 7, -1, -1, -1, 3, -1, -1, -1, 8}
+    root := constructBinaryTree(array)
+    printBinaryTree(root, len(array))
+}
+
 ```
 
 ## JavaScript
