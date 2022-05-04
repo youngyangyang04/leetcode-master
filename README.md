@@ -531,7 +531,8 @@
 
 如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220426233122.png" data-img="1" width="200" height="200"></img></div>
+
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
 
 
 
@@ -542,6 +543,7 @@
 **「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
 
 **来看看就知道了，你会发现相见恨晚！**
+
 
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
