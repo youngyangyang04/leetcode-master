@@ -531,7 +531,8 @@
 
 如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220426233122.png" data-img="1" width="200" height="200"></img></div>
+
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
 
 
 
@@ -545,5 +546,5 @@
 
 
 <a name="公众号"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="650" height="500"></img></div>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
