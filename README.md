@@ -543,6 +543,7 @@
 
 **来看看就知道了，你会发现相见恨晚！**
 
+
 <a name="公众号"></a>
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="650" height="500"></img></div>
 
