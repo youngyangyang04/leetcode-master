@@ -1,14 +1,14 @@
 
-
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
 > 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
-> 3. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 4. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
-> 5. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
-> 6. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
+> 3. **最强八股文：**：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html)
+> 4. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
+> 5. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
+> 6. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
+> 7. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 <p align="center">
 <a href="programmercarl.com" target="_blank">
@@ -88,8 +88,7 @@
 
 ## 前序
 
-* [「代码随想录」后序安排](https://mp.weixin.qq.com/s/4eeGJREy6E-v6D7cR_5A4g)
-* [「代码随想录」学习社区](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
+* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
@@ -103,6 +102,7 @@
     * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
     * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
     * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
+    * [刷题要不要用库函数](./problems/前序/刷力扣用不用库函数.md)
     * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
     * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
 
@@ -123,51 +123,12 @@
     
 * 算法性能分析
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
-    * [$O(n)$的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
     * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
-
-## 知识星球精选
-
-* [秋招面试，心态很重要！](./problems/知识星球精选/秋招总结3.md)
-* [秋招倒霉透顶，触底反弹！](./problems/知识星球精选/秋招总结2.md)
-* [无竞赛，无实习，如何秋招？](./problems/知识星球精选/秋招总结1.md)
-* [offer总决赛，何去何从！](./problems/知识星球精选/offer总决赛，何去何从.md)
-* [入职后担心代码能力跟不上！](./problems/知识星球精选/入职后担心代码能力跟不上.md)
-* [秋招进入offer决赛圈！](./problems/知识星球精选/offer对比-决赛圈.md)
-* [非科班的困扰](./problems/知识星球精选/非科班的困扰.md)
-* [offer的选择-开奖](./problems/知识星球精选/秋招开奖.md)
-* [看到代码就抵触！怎么办？](./problems/知识星球精选/不喜欢写代码怎么办.md)
-* [遭遇逼签，怎么办？](./problems/知识星球精选/逼签.md)
-* [HR特意刁难非科班！](./problems/知识星球精选/HR特意刁难非科班.md)
-* [offer的选择](./problems/知识星球精选/offer的选择.md)
-* [天下乌鸦一般黑，哪家没有PUA？](./problems/知识星球精选/天下乌鸦一般黑.md)
-* [初入大三，考研VS工作](./problems/知识星球精选/初入大三选择考研VS工作.md)
-* [非科班2021秋招总结](./problems/知识星球精选/非科班2021秋招总结.md)
-* [秋招下半场依然没offer，怎么办？](./problems/知识星球精选/秋招下半场依然没offer.md)
-* [合适自己的就是最好的](./problems/知识星球精选/合适自己的就是最好的.md)
-* [为什么都说客户端会消失](./problems/知识星球精选/客三消.md)
-* [博士转计算机如何找工作](./problems/知识星球精选/博士转行计算机.md)
-* [不一样的七夕](./problems/知识星球精选/不一样的七夕.md)
-* [HR面注意事项](./problems/知识星球精选/HR面注意事项.md)
-* [刷题攻略要刷两遍！](./problems/知识星球精选/刷题攻略要刷两遍.md)
-* [秋招进行中的迷茫与焦虑......](./problems/知识星球精选/秋招进行中的迷茫与焦虑.md)
-* [大厂新人培养体系应该是什么样的？](./problems/知识星球精选/大厂新人培养体系.md)
-* [你的简历里「专业技能」写的够专业么？](./problems/知识星球精选/专业技能可以这么写.md)
-* [Carl看了上百份简历，总结了这些！](./problems/知识星球精选/写简历的一些问题.md)
-* [备战2022届秋招](./problems/知识星球精选/备战2022届秋招.md)
-* [技术不太好，如果选择方向](./problems/知识星球精选/技术不好如何选择技术方向.md)
-* [刷题要不要使用库函数](./problems/知识星球精选/刷力扣用不用库函数.md)
-* [关于实习的几点问题](./problems/知识星球精选/关于实习大家的疑问.md)
-* [面试中遇到了发散性问题，怎么办？](./problems/知识星球精选/面试中发散性问题.md)
-* [英语到底重不重要！](./problems/知识星球精选/英语到底重不重要.md)
-* [计算机专业要不要读研！](./problems/知识星球精选/要不要考研.md)
-* [关于提前批的一些建议](./problems/知识星球精选/关于提前批的一些建议.md)
-* [已经在实习的录友要如何准备秋招](./problems/知识星球精选/如何权衡实习与秋招复习.md)
-* [华为提前批已经开始了](./problems/知识星球精选/提前批已经开始了.md)
 
 ## 杂谈
 
@@ -263,7 +224,7 @@
 3. [二叉树：听说递归能做的，栈也能做！](./problems/二叉树的迭代遍历.md)
 4. [二叉树：前中后序迭代方式的写法就不能统一一下么？](./problems/二叉树的统一迭代法.md)
 5. [二叉树：层序遍历登场！](./problems/0102.二叉树的层序遍历.md) 
-6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md)
+6. [二叉树：你真的会翻转二叉树么？](./problems/0226.翻转二叉树.md) 
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
 8. [二叉树：我对称么？](./problems/0101.对称二叉树.md)
 9. [二叉树：看看这些树的最大深度](./problems/0104.二叉树的最大深度.md)
@@ -570,7 +531,8 @@
 
 如果是已工作，备注：姓名-城市-岗位-组队刷题。如果学生，备注：姓名-学校-年级-组队刷题。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20220102204804.png" data-img="1" width="200" height="200"></img></div>
+
+<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
 
 
 
@@ -581,6 +543,7 @@
 **「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
 
 **来看看就知道了，你会发现相见恨晚！**
+
 
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>

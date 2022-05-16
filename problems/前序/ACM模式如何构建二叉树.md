@@ -1,13 +1,4 @@
 
-<p align="center">
-  <a href="https://mp.weixin.qq.com/s/RsdcQ9umo09R6cfnwXZlrQ"><img src="https://img.shields.io/badge/PDF下载-代码随想录-blueviolet" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw"><img src="https://img.shields.io/badge/刷题-微信群-green" alt=""></a>
-  <a href="https://space.bilibili.com/525438321"><img src="https://img.shields.io/badge/B站-代码随想录-orange" alt=""></a>
-  <a href="https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ"><img src="https://img.shields.io/badge/知识星球-代码随想录-blue" alt=""></a>
-</p>
-<p align="center"><strong>欢迎大家<a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
-
-
 # 力扣上如何自己构造二叉树输入用例？
 
 经常有录友问，二叉树的题目中输入用例在ACM模式下应该怎么构造呢？
@@ -45,21 +36,7 @@
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20210914223147.png)
 
-那么此时大家是不是应该知道了，数组如何转化成 二叉树了。**如果父节点的数组下标是i，那么它的左孩子下标就是i * 2 + 1，右孩子下标就是 i * 2 + 2**。计算过程为：
-
-如果父节点在第$k$层，第$m,m \in [0,2^k]$个节点，则其左孩子所在的位置必然为$k+1$层，第$2*(m-1)+1$个节点。
-
-- 计算父节点在数组中的索引：
-  $$
-  index_{father}=(\sum_{i=0}^{i=k-1}2^i)+m-1=2^k-1+m-1
-  $$
-
-- 计算左子节点在数组的索引：
-  $$
-  index_{left}=(\sum_{i=0}^{i=k}2^i)+2*m-1-1=2^{k+1}+2m-3
-  $$
-
-- 故左孩子的下表为$index_{left}=index_{father}\times2+1$，同理可得到右子孩子的索引关系。也可以直接在左子孩子的基础上`+1`。
+那么此时大家是不是应该知道了，数组如何转化成 二叉树了。**如果父节点的数组下标是i，那么它的左孩子下标就是i * 2 + 1，右孩子下标就是 i * 2 + 2**。
 
 那么这里又有同学疑惑了，这些我都懂了，但我还是不知道 应该 怎么构造。
 
@@ -231,18 +208,192 @@ int main() {
 ## Java 
 
 ```Java
+public class Solution {
+    // 节点类
+    static class TreeNode {
+        // 节点值
+        int val;
+
+        // 左节点
+        TreeNode left;
+
+        // 右节点
+        TreeNode right;
+
+        // 节点的构造函数(默认左右节点都为null)
+        public TreeNode(int x) {
+            this.val = x;
+            this.left = null;
+            this.right = null;
+        }
+    }
+    
+    /**
+     * 根据数组构建二叉树
+     * @param arr 树的数组表示
+     * @return 构建成功后树的根节点
+     */
+    public TreeNode constructBinaryTree(final int[] arr) {
+        // 构建和原数组相同的树节点列表
+        List<TreeNode> treeNodeList = arr.length > 0 ? new ArrayList<>(arr.length) : null;
+        TreeNode root = null;
+        // 把输入数值数组，先转化为二叉树节点列表
+        for (int i = 0; i < arr.length; i++) {
+            TreeNode node = null;
+            if (arr[i] != -1) { // 用 -1 表示null
+                node = new TreeNode(arr[i]);
+            }
+            treeNodeList.add(node);
+            if (i == 0) {
+                root = node;
+            }
+        }
+        // 遍历一遍，根据规则左右孩子赋值就可以了
+        // 注意这里 结束规则是 i * 2 + 2 < arr.length，避免空指针
+        for (int i = 0; i * 2 + 2 < arr.length; i++) {
+            TreeNode node = treeNodeList.get(i);
+            if (node != null) {
+                // 线性存储转连式存储关键逻辑
+                node.left = treeNodeList.get(2 * i + 1);
+                node.right = treeNodeList.get(2 * i + 2);
+            }
+        }
+        return root;
+    }
+}
 ```
 
 
 ## Python 
 
-```Python
+```Python3
+class TreeNode:
+    def __init__(self, val = 0, left = None, right = None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
+# 根据数组构建二叉树
+
+def construct_binary_tree(nums: []) -> TreeNode:
+    if not nums: 
+        return None
+    # 用于存放构建好的节点
+    root = TreeNode(-1)
+    Tree = []
+    # 将数组元素全部转化为树节点
+    for i in range(len(nums)):
+        if nums[i]!= -1:
+            node = TreeNode(nums[i])
+        else:
+            node = None
+        Tree.append(node)
+        if i == 0:
+            root = node
+    for i in range(len(Tree)):
+        node = Tree[i]
+        if node and (2 * i + 2) < len(Tree):
+            node.left = Tree[i * 2 + 1]
+            node.right = Tree[i * 2 + 2]
+    return root
+
+
+
+# 算法:中序遍历二叉树
+
+class Solution:
+    def __init__(self):
+        self.T = []
+    def inorder(self, root: TreeNode) -> []:
+        if not root:
+            return 
+        self.inorder(root.left)
+        self.T.append(root.val)
+        self.inorder(root.right)
+        return self.T
+
+
+
+# 验证创建二叉树的有效性,二叉排序树的中序遍历应为顺序排列
+
+test_tree = [3, 1, 5, -1, 2, 4 ,6]
+root = construct_binary_tree(test_tree)
+A = Solution()
+print(A.inorder(root))
 ```
 
 
 ## Go 
 
 ```Go
+package main
+
+import "fmt"
+
+type TreeNode struct {
+    Val   int
+    Left  *TreeNode
+    Right *TreeNode
+}
+
+func constructBinaryTree(array []int) *TreeNode {
+    var root *TreeNode
+    nodes := make([]*TreeNode, len(array))
+
+    // 初始化二叉树节点
+    for i := 0; i < len(nodes); i++ {
+	var node *TreeNode
+	if array[i] != -1 {
+	    node = &TreeNode{Val: array[i]}
+	}
+	nodes[i] = node
+	if i == 0 {
+	    root = node
+	}
+    }
+    // 串联节点
+    for i := 0; i*2+2 < len(array); i++ {
+        if nodes[i] != nil {
+	    nodes[i].Left = nodes[i*2+1]
+	    nodes[i].Right = nodes[i*2+2]
+	}
+    }
+    return root
+}
+
+func printBinaryTree(root *TreeNode, n int) {
+    var queue []*TreeNode
+    if root != nil {
+	queue = append(queue, root)
+    }
+
+    result := []int{}
+    for len(queue) > 0 {
+	for j := 0; j < len(queue); j++ {
+	    node := queue[j]
+	    if node != nil {
+		result = append(result, node.Val)
+		queue = append(queue, node.Left)
+		queue = append(queue, node.Right)
+	    } else {
+	        result = append(result, -1)
+	    }
+        }
+	// 清除队列中的本层节点, 进入下一层遍历
+	queue = queue[len(queue):]
+    }
+    
+    // 参数n控制输出值数量, 否则二叉树最后一层叶子节点的孩子节点也会被打印(但是这些孩子节点是不存在的).
+    fmt.Println(result[:n])
+}
+
+func main() {
+    array := []int{4, 1, 6, 0, 2, 5, 7, -1, -1, -1, 3, -1, -1, -1, 8}
+    root := constructBinaryTree(array)
+    printBinaryTree(root, len(array))
+}
+
 ```
 
 ## JavaScript
@@ -251,7 +402,4 @@ int main() {
 ```
 
 -----------------------
-* 作者微信：[程序员Carl](https://mp.weixin.qq.com/s/b66DFkOp8OOxdZC_xLZxfw)
-* B站视频：[代码随想录](https://space.bilibili.com/525438321)
-* 知识星球：[代码随想录](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)
 <div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
