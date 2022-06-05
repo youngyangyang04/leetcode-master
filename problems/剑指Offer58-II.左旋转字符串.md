@@ -290,7 +290,34 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 }
 ```
 
+Scala:
 
+```scala
+object Solution {
+  def reverseLeftWords(s: String, n: Int): String = {
+    var str = s.toCharArray // 转换为Array
+    // abcdefg => ba cdefg 
+    reverseString(str, 0, n - 1)
+    // ba cdefg => ba gfedc
+    reverseString(str, n, str.length - 1)
+    // ba gfedc => cdefgab
+    reverseString(str, 0, str.length - 1)
+    // 最终返回，return关键字可以省略
+    new String(str)
+  }
+  // 翻转字符串
+  def reverseString(s: Array[Char], start: Int, end: Int): Unit = {
+    var (left, right) = (start, end)
+    while (left < right) {
+      var tmp = s(left)
+      s(left) = s(right)
+      s(right) = tmp
+      left += 1
+      right -= 1
+    }
+  }
+}
+```
 
 
 
