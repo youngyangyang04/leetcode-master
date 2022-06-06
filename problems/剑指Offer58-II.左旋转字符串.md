@@ -290,6 +290,28 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 }
 ```
 
+
+### PHP
+
+```php
+function reverseLeftWords($s, $n) {
+    $this->reverse($s,0,$n-1); //反转区间为前n的子串
+    $this->reverse($s,$n,strlen($s)-1); //反转区间为n到末尾的子串
+    $this->reverse($s,0,strlen($s)-1); //反转整个字符串
+    return $s;
+}
+
+// 按指定进行翻转 【array、string都可】
+function reverse(&$s, $start, $end) {
+    for ($i = $start, $j = $end; $i < $j; $i++, $j--) {
+        $tmp = $s[$i];
+        $s[$i] = $s[$j];
+        $s[$j] = $tmp;
+    }
+}
+```
+
+
 Scala:
 
 ```scala
@@ -318,6 +340,7 @@ object Solution {
   }
 }
 ```
+
 
 
 
