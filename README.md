@@ -523,6 +523,10 @@
 
 [点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
 
+# Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
+
 # 关于作者
 
 大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术研发，CSDN博客专家。对算法和C++后端技术有一定的见解，利用工作之余重新刷leetcode。 
