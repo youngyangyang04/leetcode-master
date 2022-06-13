@@ -1,6 +1,9 @@
 
 # 一台服务器有什么用！
 
+* [阿里云活动期间服务器购买](https://www.aliyun.com/minisite/goods?taskCode=shareNew2205&recordId=3641992&userCode=roof0wob)
+* [腾讯云活动期间服务器购买](https://curl.qcloud.com/EiaMXllu)
+
 但在组织这场活动的时候，了解到大家都有一个共同的问题： **这个服务器究竟有啥用？？**
 
 这真是一个好问题，而且我一句两句还说不清楚，所以就专门发文来讲一讲。
