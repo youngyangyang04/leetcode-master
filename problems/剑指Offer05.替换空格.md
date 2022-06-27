@@ -413,8 +413,98 @@ func replaceSpace(_ s: String) -> String {
 }
 ```
 
+Scala:
+
+方式一: 双指针
+```scala
+object Solution {
+  def replaceSpace(s: String): String = {
+    var count = 0
+    s.foreach(c => if (c == ' ') count += 1) // 统计空格的数量
+    val sOldSize = s.length // 旧数组字符串长度
+    val sNewSize = s.length + count * 2 // 新数组字符串长度
+    val res = new Array[Char](sNewSize) // 新数组
+    var index = sNewSize - 1 // 新数组索引
+    // 逆序遍历
+    for (i <- (0 until sOldSize).reverse) {
+      if (s(i) == ' ') {
+        res(index) = '0'
+        index -= 1
+        res(index) = '2'
+        index -= 1
+        res(index) = '%'
+      } else {
+        res(index) = s(i)
+      }
+      index -= 1
+    }
+    res.mkString
+  }
+}
+```
+方式二: 使用一个集合，遇到空格就添加%20
+```scala
+object Solution {
+  import scala.collection.mutable.ListBuffer
+  def replaceSpace(s: String): String = {
+    val res: ListBuffer[Char] = ListBuffer[Char]()
+    for (i <- s.indices) {
+      if (s(i) == ' ') {
+        res += '%'
+        res += '2'
+        res += '0'
+      }else{
+        res += s(i)
+      }
+    }
+    res.mkString
+  }
+}
+```
+方式三: 使用map
+```scala
+object Solution {
+  def replaceSpace(s: String): String = {
+    s.map(c => if(c == ' ') "%20" else c).mkString
+  }
+  }
+```
 
 
+PHP：
+```php
+function replaceSpace($s){
+    $sLen = strlen($s);
+    $moreLen = $this->spaceLen($s) * 2;
+
+    $head = $sLen - 1;
+    $tail = $sLen + $moreLen - 1;
+
+    $s = $s . str_repeat(' ', $moreLen);
+    while ($head != $tail) {
+        if ($s[$head] == ' ') {
+            $s[$tail--] = '0';
+            $s[$tail--] = '2';
+            $s[$tail] = '%';
+        } else {
+            $s[$tail] = $s[$head];
+        }
+        $head--;
+        $tail--;
+    }
+    return $s;
+}
+// 统计空格个数
+function spaceLen($s){
+    $count = 0;
+    for ($i = 0; $i < strlen($s); $i++) {
+        if ($s[$i] == ' ') {
+            $count++;
+        }
+    }
+    return $count;
+}
+```
 
 
 -----------------------
