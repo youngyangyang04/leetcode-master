@@ -7,7 +7,7 @@
 
 # 题目：剑指Offer 05.替换空格
 
-[力扣题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+[力扣题目链接](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
