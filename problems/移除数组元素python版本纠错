@@ -1,0 +1,12 @@
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        compare_len = len(nums)
+        i = 0
+        while i < compare_len:
+            if nums[i] == val:
+                for j in range(i + 1, compare_len):
+                    nums[j - 1] = nums[j]
+                compare_len -= 1
+            else:
+                i += 1
+        return compare_len
