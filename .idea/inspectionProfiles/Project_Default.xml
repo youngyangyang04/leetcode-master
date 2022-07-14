@@ -1,0 +1,70 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="4">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.8" />
+            <item index="2" class="java.lang.String" itemvalue="3.9" />
+            <item index="3" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="26">
+            <item index="0" class="java.lang.String" itemvalue="xdoctest" />
+            <item index="1" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="2" class="java.lang.String" itemvalue="chainercv" />
+            <item index="3" class="java.lang.String" itemvalue="lxml" />
+            <item index="4" class="java.lang.String" itemvalue="fastrlock" />
+            <item index="5" class="java.lang.String" itemvalue="Pillow" />
+            <item index="6" class="java.lang.String" itemvalue="cuda9.0" />
+            <item index="7" class="java.lang.String" itemvalue="pytorch0.4.1" />
+            <item index="8" class="java.lang.String" itemvalue="python3.5" />
+            <item index="9" class="java.lang.String" itemvalue="cudnn7.1.3" />
+            <item index="10" class="java.lang.String" itemvalue="scipy" />
+            <item index="11" class="java.lang.String" itemvalue="pytest" />
+            <item index="12" class="java.lang.String" itemvalue="mmlvis" />
+            <item index="13" class="java.lang.String" itemvalue="sklearn" />
+            <item index="14" class="java.lang.String" itemvalue="asynctest" />
+            <item index="15" class="java.lang.String" itemvalue="flake8" />
+            <item index="16" class="java.lang.String" itemvalue="albumentations" />
+            <item index="17" class="java.lang.String" itemvalue="imagecorruptions" />
+            <item index="18" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="19" class="java.lang.String" itemvalue="interrogate" />
+            <item index="20" class="java.lang.String" itemvalue="isort" />
+            <item index="21" class="java.lang.String" itemvalue="kwarray" />
+            <item index="22" class="java.lang.String" itemvalue="onnx" />
+            <item index="23" class="java.lang.String" itemvalue="codecov" />
+            <item index="24" class="java.lang.String" itemvalue="ubelt" />
+            <item index="25" class="java.lang.String" itemvalue="pydensecrf" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="tensorflow_core._api.v2.train.exponential_decay" />
+          <option value="mypackage.__all__" />
+          <option value="StudentManagerSystem.main.managerSystem" />
+          <option value="str.tif" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
