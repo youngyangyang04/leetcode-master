@@ -7,7 +7,7 @@
 
 # 题目：剑指Offer 05.替换空格
 
-[力扣题目链接](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)
+[力扣题目链接](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)
 
 请实现一个函数，把字符串 s 中的每个空格替换成"%20"。
 
@@ -467,6 +467,73 @@ object Solution {
   def replaceSpace(s: String): String = {
     s.map(c => if(c == ' ') "%20" else c).mkString
   }
+  }
+```
+
+
+PHP：
+```php
+function replaceSpace($s){
+    $sLen = strlen($s);
+    $moreLen = $this->spaceLen($s) * 2;
+
+    $head = $sLen - 1;
+    $tail = $sLen + $moreLen - 1;
+
+    $s = $s . str_repeat(' ', $moreLen);
+    while ($head != $tail) {
+        if ($s[$head] == ' ') {
+            $s[$tail--] = '0';
+            $s[$tail--] = '2';
+            $s[$tail] = '%';
+        } else {
+            $s[$tail] = $s[$head];
+        }
+        $head--;
+        $tail--;
+    }
+    return $s;
+}
+// 统计空格个数
+function spaceLen($s){
+    $count = 0;
+    for ($i = 0; $i < strlen($s); $i++) {
+        if ($s[$i] == ' ') {
+            $count++;
+        }
+    }
+    return $count;
+}
+```
+
+Rust
+
+```Rust
+impl Solution {
+    pub fn replace_space(s: String) -> String {
+        let mut len: usize = s.len();
+        let mut s = s.chars().collect::<Vec<char>>();
+        let mut count = 0;
+        for i in &s {
+            if i.is_ascii_whitespace() {
+                count += 1;
+            }
+        }
+        let mut new_len = len + count * 2;
+        s.resize(new_len, ' ');
+        while len < new_len {
+            len -= 1;
+            new_len -= 1;
+            if s[len].is_ascii_whitespace() {
+                s[new_len] = '0';
+                s[new_len - 1] = '2';
+                s[new_len - 2] = '%';
+                new_len -= 2;
+            }
+            else { s[new_len] = s[len] }
+        }
+        s.iter().collect::<String>()
+    }
 }
 ```
 
