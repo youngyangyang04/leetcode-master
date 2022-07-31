@@ -254,7 +254,7 @@
 33. [二叉树：构造一棵搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
 34. [二叉树：搜索树转成累加树](./problems/0538.把二叉搜索树转换为累加树.md)
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
- 
+
 ## 回溯算法 
 
 题目分类大纲如下：             
@@ -522,6 +522,10 @@
 # 贡献者 
 
 [点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
+
+# Star 趋势
+
+[![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
 
 # 关于作者
 

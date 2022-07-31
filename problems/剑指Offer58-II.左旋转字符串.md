@@ -9,7 +9,7 @@
 
 # 题目：剑指Offer58-II.左旋转字符串
 
-[力扣题目链接](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
+[力扣题目链接](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)
 
 字符串的左旋转操作是把字符串前面的若干个字符转移到字符串的尾部。请定义一个函数实现字符串左旋转操作的功能。比如，输入字符串"abcdefg"和数字2，该函数将返回左旋转两位得到的结果"cdefgab"。
 
@@ -291,7 +291,80 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 ```
 
 
+### PHP
 
+```php
+function reverseLeftWords($s, $n) {
+    $this->reverse($s,0,$n-1); //反转区间为前n的子串
+    $this->reverse($s,$n,strlen($s)-1); //反转区间为n到末尾的子串
+    $this->reverse($s,0,strlen($s)-1); //反转整个字符串
+    return $s;
+}
+
+// 按指定进行翻转 【array、string都可】
+function reverse(&$s, $start, $end) {
+    for ($i = $start, $j = $end; $i < $j; $i++, $j--) {
+        $tmp = $s[$i];
+        $s[$i] = $s[$j];
+        $s[$j] = $tmp;
+    }
+}
+```
+
+
+Scala:
+
+```scala
+object Solution {
+  def reverseLeftWords(s: String, n: Int): String = {
+    var str = s.toCharArray // 转换为Array
+    // abcdefg => ba cdefg 
+    reverseString(str, 0, n - 1)
+    // ba cdefg => ba gfedc
+    reverseString(str, n, str.length - 1)
+    // ba gfedc => cdefgab
+    reverseString(str, 0, str.length - 1)
+    // 最终返回，return关键字可以省略
+    new String(str)
+  }
+  // 翻转字符串
+  def reverseString(s: Array[Char], start: Int, end: Int): Unit = {
+    var (left, right) = (start, end)
+    while (left < right) {
+      var tmp = s(left)
+      s(left) = s(right)
+      s(right) = tmp
+      left += 1
+      right -= 1
+    }
+  }
+}
+```
+
+Rust:
+
+```Rust
+impl Solution {
+    pub fn reverse(s: &mut Vec<char>, mut begin: usize, mut end: usize){
+        while begin < end {
+            let temp = s[begin];
+            s[begin] = s[end];
+            s[end] = temp;
+            begin += 1;
+            end -= 1;
+        }
+    }
+    pub fn reverse_left_words(s: String, n: i32) -> String {
+        let len = s.len();
+        let mut s = s.chars().collect::<Vec<char>>();
+        let n = n as usize;
+        Self::reverse(&mut s, 0, n - 1);
+        Self::reverse(&mut s, n, len - 1);
+        Self::reverse(&mut s, 0, len - 1);
+        s.iter().collect::<String>()
+    }
+}
+```
 
 
 
