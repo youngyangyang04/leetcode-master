@@ -341,7 +341,30 @@ object Solution {
 }
 ```
 
+Rust:
 
+```Rust
+impl Solution {
+    pub fn reverse(s: &mut Vec<char>, mut begin: usize, mut end: usize){
+        while begin < end {
+            let temp = s[begin];
+            s[begin] = s[end];
+            s[end] = temp;
+            begin += 1;
+            end -= 1;
+        }
+    }
+    pub fn reverse_left_words(s: String, n: i32) -> String {
+        let len = s.len();
+        let mut s = s.chars().collect::<Vec<char>>();
+        let n = n as usize;
+        Self::reverse(&mut s, 0, n - 1);
+        Self::reverse(&mut s, n, len - 1);
+        Self::reverse(&mut s, 0, len - 1);
+        s.iter().collect::<String>()
+    }
+}
+```
 
 
 
