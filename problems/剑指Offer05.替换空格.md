@@ -196,18 +196,19 @@ public String replaceSpace(String s) {
     s += str.toString();
     int right = s.length()-1;//右指针：指向扩展字符串的最后一个位置
     char[] chars = s.toCharArray();
+    char[] ret = new char[s.length()];
     while(left>=0){
         if(chars[left] == ' '){
-            chars[right--] = '0';
-            chars[right--] = '2';
-            chars[right] = '%';
+            ret[right--] = '0';
+            ret[right--] = '2';
+            ret[right] = '%';
         }else{
-            chars[right] = chars[left];
+            ret[right] = chars[left];
         }
         left--;
         right--;
     }
-    return new String(chars);
+    return new String(ret);
 }
 ```
 
