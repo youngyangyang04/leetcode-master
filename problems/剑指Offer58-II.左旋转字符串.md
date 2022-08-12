@@ -263,6 +263,13 @@ function reverseLeftWords(s: string, n: number): string {
     return strArr.join('');
 };
 ```
+方法二:
+```typescript
+// 拼接两个字符串，截取符合要求的部分
+function reverseLeftWords(s: string, n: number): string {
+    return (s+s).slice(n,s.length+n);
+};
+```
 
 Swift:
 
