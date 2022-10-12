@@ -115,6 +115,29 @@ class Solution {
 }
 ```
 
+```java
+//解法二：空间复杂度：O(1)。用原始数组来进行反转操作
+//思路为：先整个字符串反转，再反转前面的，最后反转后面 n 个
+class Solution {
+    public String reverseLeftWords(String s, int n) {
+        char[] chars = s.toCharArray();
+        reverse(chars, 0, chars.length - 1);
+        reverse(chars, 0, chars.length - 1 - n);
+        reverse(chars, chars.length - n, chars.length - 1);
+        return new String(chars);
+    }
+
+    public void reverse(char[] chars, int left, int right) {
+        while (left < right) {
+            chars[left] ^= chars[right];
+            chars[right] ^= chars[left];
+            chars[left] ^= chars[right];
+            left++;
+            right--;
+        }
+    }
+```
+
 python: 
 
 ```python
