@@ -5,24 +5,12 @@
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
 Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: nums = [3,2,4], target = 6
@@ -32,25 +20,13 @@ Output: [1,2]
 **Example 3:**
 
 ```
-
-```
-
-
-
-```
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
 
 **Code：**
 
-```
-
-```
-
-
-
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
@@ -73,24 +49,12 @@ class Solution {
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: x = 121
 Output: true
 Explanation: 121 reads as 121 from left to right and from right to left.
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: x = -121
@@ -101,12 +65,6 @@ Explanation: From left to right, it reads -121. From right to left, it becomes 1
 **Example 3:**
 
 ```
-
-```
-
-
-
-```
 Input: x = 10
 Output: false
 Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
@@ -114,13 +72,7 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 
 **Code：**
 
-```
-
-```
-
-
-
-```
+```python
 class Solution:
     def isPalindrome(self, x: int) -> bool:
         return str(x) == str(x)[::-1]
@@ -133,24 +85,12 @@ class Solution:
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "III"
 Output: 3
 Explanation: III = 3.
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: s = "LVIII"
@@ -161,12 +101,6 @@ Explanation: L = 50, V= 5, III = 3.
 **Example 3:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "MCMXCIV"
 Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
@@ -174,13 +108,7 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 **Code**:
 
-```
-
-```
-
-
-
-```
+```python
 class Solution:
     def romanToInt(self, s: str) -> int:
         values = { "I":1, "V":5, "X":10, "L":50, "C":100, "D":500, "M":1000}
@@ -204,23 +132,11 @@ If there is no common prefix, return an empty string `""`.
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: strs = ["flower","flow","flight"]
 Output: "fl"
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: strs = ["dog","racecar","car"]
@@ -230,13 +146,7 @@ Explanation: There is no common prefix among the input strings.
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```python
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if not strs:
@@ -255,6 +165,8 @@ class Solution:
 
 [字符串的常见算法问题总结（LIS、LCS、LCP、LPS、ED、KMP）](https://blog.csdn.net/Deeven123/article/details/82930354)
 
+
+
 ### 0x05 Valid Parentheses
 
 **Description**
@@ -269,12 +181,6 @@ An input string is valid if:
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "()"
 Output: true
 ```
@@ -282,23 +188,11 @@ Output: true
 **Example 2:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "()[]{}"
 Output: true
 ```
 
 **Example 3:**
-
-```
-
-```
-
-
 
 ```
 Input: s = "(]"
@@ -312,13 +206,7 @@ Output: false
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```python
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
@@ -338,6 +226,8 @@ class Solution:
         return len(stack) == 0
 ```
 
+
+
 ### 0x06 Merge Two Sorted Lists
 
 **Description**
@@ -350,13 +240,7 @@ Return *the head of the merged linked list*.
 
 **Example 1:**
 
-[![img](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
-
-```
-
-```
-
-
+![img](https://assets.leetcode.com/uploads/2020/10/03/merge_ex1.jpg)
 
 ```
 Input: list1 = [1,2,4], list2 = [1,3,4]
@@ -366,23 +250,11 @@ Output: [1,1,2,3,4,4]
 **Example 2:**
 
 ```
-
-```
-
-
-
-```
 Input: list1 = [], list2 = []
 Output: []
 ```
 
 **Example 3:**
-
-```
-
-```
-
-
 
 ```
 Input: list1 = [], list2 = [0]
@@ -397,13 +269,7 @@ Output: [0]
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```C++
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
@@ -458,6 +324,8 @@ public:
 };
 ```
 
+
+
 ### 0x07 Remove Duplicates from Sorted Array
 
 **Description**
@@ -473,12 +341,6 @@ Do **not** allocate extra space for another array. You must do this by **modifyi
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: nums = [1,1,2]
 Output: 2, nums = [1,2,_]
 Explanation: Your function should return k = 2, with the first two elements of nums being 1 and 2 respectively.
@@ -486,12 +348,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: nums = [0,0,1,1,1,2,2,3,3,4]
@@ -506,13 +362,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 - `-100 <= nums[i] <= 100`
 - `nums` is sorted in **non-decreasing** order.
 
-```
-
-```
-
-
-
-```
+```c++
 class Solution {
 public:
     int removeDuplicates(std::vector<int>& nums) {
@@ -529,6 +379,8 @@ public:
 };
 ```
 
+
+
 ### 0x08 Remove Element
 
 **Description**
@@ -544,12 +396,6 @@ Do **not** allocate extra space for another array. You must do this by **modifyi
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: nums = [3,2,2,3], val = 3
 Output: 2, nums = [2,2,_,_]
 Explanation: Your function should return k = 2, with the first two elements of nums being 2.
@@ -557,12 +403,6 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ```
 
 **Example 2:**
-
-```
-
-```
-
-
 
 ```
 Input: nums = [0,1,2,2,3,0,4,2], val = 2
@@ -580,13 +420,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```C++
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
@@ -603,21 +437,19 @@ public:
 };
 ```
 
+
+
 ### 0x09 Search Insert Position
 
 **Description**
 
-Given a sorted array of distinct integers and a target value, return  the index if the  target is found. If not, return the index where it  would be if it were  inserted in order.
+Given a sorted array of distinct integers and a target value, return the index if the  target is found. If not, return the index where it would be if it were  inserted in order.
 
 You must write an algorithm with `O(log n)` runtime complexity.
 
+ 
+
 **Example 1:**
-
-```
-
-```
-
-
 
 ```
 Input: nums = [1,3,5,6], target = 5
@@ -627,23 +459,11 @@ Output: 2
 **Example 2:**
 
 ```
-
-```
-
-
-
-```
 Input: nums = [1,3,5,6], target = 2
 Output: 1
 ```
 
 **Example 3:**
-
-```
-
-```
-
-
 
 ```
 Input: nums = [1,3,5,6], target = 7
@@ -659,13 +479,7 @@ Output: 4
 
 **Code(Binary Search):**
 
-```
-
-```
-
-
-
-```
+```C++
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
@@ -681,6 +495,8 @@ public:
 };
 ```
 
+
+
 ### 0x0a Length of Last Word
 
 **Description**
@@ -692,12 +508,6 @@ A **word** is a maximal substring consisting of non-space characters only.
 **Example 1:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "Hello World"
 Output: 5
 Explanation: The last word is "World" with length 5.
@@ -706,24 +516,12 @@ Explanation: The last word is "World" with length 5.
 **Example 2:**
 
 ```
-
-```
-
-
-
-```
 Input: s = "   fly me   to   the moon  "
 Output: 4
 Explanation: The last word is "moon" with length 4.
 ```
 
 **Example 3:**
-
-```
-
-```
-
-
 
 ```
 Input: s = "luffy is still joyboy"
@@ -739,13 +537,7 @@ Explanation: The last word is "joyboy" with length 6.
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```C++
 class Solution {
 public:
     int lengthOfLastWord(string s) {
@@ -764,21 +556,17 @@ public:
 };
 ```
 
+
+
 ### 0x0b Plus One
 
 **Description**
 
-You are given a **large integer** represented as an integer array `digits`, where each `digits[i]` is the `ith` digit of the integer. The digits are ordered from most significant to   least significant in left-to-right order. The large integer does not   contain any leading `0`‘s.
+You are given a **large integer** represented as an integer array `digits`, where each `digits[i]` is the `ith` digit of the integer. The digits are ordered from most significant to  least significant in left-to-right order. The large integer does not  contain any leading `0`'s.
 
 Increment the large integer by one and return *the resulting array of digits*.
 
 **Example 1:**
-
-```
-
-```
-
-
 
 ```
 Input: digits = [1,2,3]
@@ -791,12 +579,6 @@ Thus, the result should be [1,2,4].
 **Example 2:**
 
 ```
-
-```
-
-
-
-```
 Input: digits = [4,3,2,1]
 Output: [4,3,2,2]
 Explanation: The array represents the integer 4321.
@@ -805,12 +587,6 @@ Thus, the result should be [4,3,2,2].
 ```
 
 **Example 3:**
-
-```
-
-```
-
-
 
 ```
 Input: digits = [9]
@@ -824,17 +600,11 @@ Thus, the result should be [1,0].
 
 - `1 <= digits.length <= 100`
 - `0 <= digits[i] <= 9`
-- `digits` does not contain any leading `0`‘s.
+- `digits` does not contain any leading `0`'s.
 
 **Code:**
 
-```
-
-```
-
-
-
-```
+```C++
 class Solution {
 public:
     vector<int> plusOne(vector<int>& digits) {
@@ -854,3 +624,4 @@ public:
     }
 };
 ```
+
