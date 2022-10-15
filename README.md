@@ -15,7 +15,7 @@
 
 <p align="center">
 <a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
-	<img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20221015160559.png" width="800"/>
+	<img src="./pics/训练营.png" width="800"/>
 </a>
 </p>
 
