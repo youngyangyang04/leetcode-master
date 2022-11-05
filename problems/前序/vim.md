@@ -1,4 +1,6 @@
-# 人生苦短，我用VIM！
+# 人生苦短，我用VIM！| 最强vim配置
+
+> Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 
 熟悉我的录友，应该都知道我是vim流，无论是写代码还是写文档（Markdown），都是vim，都没用IDE。
 
@@ -53,7 +55,7 @@ IDE那么很吃内存，打开个IDE卡半天，用VIM就很轻便了，秒开�
   |_|   \___/ \_/\_/ \___|_|    \/   |_|_| |_| |_|
 ```
 
-这个配置我开源在Github上，地址：https://github.com/youngyangyang04/PowerVim
+这个配置我开源在Github上，地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 
 
 
@@ -92,6 +94,7 @@ sh install.sh
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211013102249.png)
 
+Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 
 最后，因为这个vim配置因为我一直没有宣传，所以star数量很少，哈哈哈，录友们去给个star吧，真正的开发利器，值得顶起来！
 
