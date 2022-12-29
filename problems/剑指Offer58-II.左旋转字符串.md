@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
+<a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
+  <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
@@ -31,7 +31,7 @@
 不能使用额外空间的话，模拟在本串操作要实现左旋转字符串的功能还是有点困难的。
 
 
-那么我们可以想一下上一题目[字符串：花式反转还不够！](https://programmercarl.com/0151.翻转字符串里的单词.html)中讲过，使用整体反转+局部反转就可以实现，反转单词顺序的目的。
+那么我们可以想一下上一题目[字符串：花式反转还不够！](https://programmercarl.com/0151.翻转字符串里的单词.html)中讲过，使用整体反转+局部反转就可以实现反转单词顺序的目的。
 
 这道题目也非常类似，依然可以通过局部反转+整体反转 达到左旋转的目的。
 
@@ -41,7 +41,7 @@
 2. 反转区间为n到末尾的子串
 3. 反转整个字符串
 
-最后就可以得到左旋n的目的，而不用定义新的字符串，完全在本串上操作。
+最后就可以达到左旋n的目的，而不用定义新的字符串，完全在本串上操作。
 
 例如 ：示例1中 输入：字符串abcdefg，n=2
 
@@ -75,7 +75,7 @@ public:
 
 在这篇文章[344.反转字符串](https://programmercarl.com/0344.反转字符串.html)，第一次讲到反转一个字符串应该怎么做，使用了双指针法。
 
-然后发现[541. 反转字符串II](https://programmercarl.com/0541.反转字符串II.html)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在在for循环的表达式上做做文章。
+然后发现[541. 反转字符串II](https://programmercarl.com/0541.反转字符串II.html)，这里开始给反转加上了一些条件，当需要固定规律一段一段去处理字符串的时候，要想想在for循环的表达式上做做文章。
 
 后来在[151.翻转字符串里的单词](https://programmercarl.com/0151.翻转字符串里的单词.html)中，要对一句话里的单词顺序进行反转，发现先整体反转再局部反转 是一个很妙的思路。
 
@@ -398,5 +398,7 @@ impl Solution {
 
 
 
------------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
+<p align="center">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
+  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
+</a>
