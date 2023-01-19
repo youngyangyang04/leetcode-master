@@ -25,7 +25,7 @@
 
 i指向新长度的末尾，j指向旧长度的末尾。
 
-![替换空格](https://tva1.sinaimg.cn/large/e6c9d24ely1go6qmevhgpg20du09m4qp.gif)
+![替换空格](https://code-thinking.cdn.bcebos.com/gifs/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.gif)
 
 有同学问了，为什么要从后向前填充，从前向后填充不行么？
 
