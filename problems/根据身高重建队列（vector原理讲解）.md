@@ -3,11 +3,13 @@
   <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
+
+
 # 贪心算法：根据身高重建队列（续集）
 
 在讲解[贪心算法：根据身高重建队列](https://programmercarl.com/0406.根据身高重建队列.html)中，我们提到了使用vector（C++中的动态数组）来进行insert操作是费时的。
 
-但是在解释的过程中有不恰当的地方，所以来专门写一篇文章来详细说一说这个问题。
+这里专门写一篇文章来详细说一说这个问题。
 
 使用vector的代码如下：
 ```CPP
