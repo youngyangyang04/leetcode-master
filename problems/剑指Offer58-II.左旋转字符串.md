@@ -194,6 +194,18 @@ class Solution:
 
 ```
 
+```python 3 
+# 方法五：另类的切片方法
+class Solution:
+    def reverseLeftWords(self, s: str, n: int) -> str:
+        n = len(s)
+        s = s + s 
+        return s[k : n+k]
+
+# 时间复杂度：O(n)
+# 空间复杂度：O(n)
+```
+
 Go：
 
 ```go
