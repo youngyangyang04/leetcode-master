@@ -6,7 +6,7 @@
 > 2. **正式出版** ：[《代码随想录》](https://programmercarl.com/other/publish.html) 。
 > 3. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
 > 4. **算法公开课** : [《代码随想录》算法视频公开课](https://www.bilibili.com/video/BV1fA4y1o715) 。
-> 5. **最强八股文：**：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html)
+> 5. **最强八股文** : [代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html) 。
 > 6. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
 > 7. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
 > 8. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
