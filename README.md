@@ -2,14 +2,14 @@
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
 
-> 1. **介绍**：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
+> 1. **介绍** ：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **正式出版** ：[《代码随想录》](https://programmercarl.com/other/publish.html) 。
-> 3. **PDF版本** ： [「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
-> 4. **算法公开课** : [《代码随想录》算法视频公开课](https://www.bilibili.com/video/BV1fA4y1o715) 。
-> 5. **最强八股文：**：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html)
-> 6. **刷题顺序** ： README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 7. **学习社区** : 一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
-> 8. **提交代码**：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
+> 3. **PDF版本** ：[「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
+> 4. **算法公开课** ：[《代码随想录》算法视频公开课](https://www.bilibili.com/video/BV1fA4y1o715) 。
+> 5. **最强八股文** ：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html) 。
+> 6. **刷题顺序** ：README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
+> 7. **学习社区** ：一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
+> 8. **提交代码** ：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A)了解提交代码的方式。
 > 9. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
 
 
@@ -295,8 +295,7 @@
 21. [本周小结！（贪心算法系列四）](./problems/周总结/20201224贪心周末总结.md)
 22. [贪心算法：738.单调递增的数字](./problems/0738.单调递增的数字.md)
 23. [贪心算法：968.监控二叉树](./problems/0968.监控二叉树.md)
-24. [贪心算法：714.买卖股票的最佳时机含手续费](./problems/0714.买卖股票的最佳时机含手续费.md)
-25. [贪心算法：总结篇！（每逢总结必经典）](./problems/贪心算法总结篇.md)
+24. [贪心算法：总结篇！（每逢总结必经典）](./problems/贪心算法总结篇.md)
 
 ## 动态规划
 
@@ -501,12 +500,9 @@
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
 
 
-
 # 公众号
 
 更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：666，可以获得我的所有算法专题原创PDF。
-
-**「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！**，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。
 
 **来看看就知道了，你会发现相见恨晚！**
 
@@ -514,3 +510,5 @@
 <a name="公众号"></a>
 <div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20211026122841.png" data-img="1" width="650" height="500"></img></div>
 
+
+<!-- 24. [贪心算法：714.买卖股票的最佳时机含手续费](./problems/0714.买卖股票的最佳时机含手续费.md) -->
