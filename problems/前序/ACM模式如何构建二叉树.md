@@ -305,11 +305,12 @@ def construct_binary_tree(nums: []) -> TreeNode:
         Tree.append(node)
         if i == 0:
             root = node
+    # 直接判断2*i+2<len(Tree)会漏掉2*i+1=len(Tree)-1的情况
     for i in range(len(Tree)):
-        node = Tree[i]
-        if node and (2 * i + 2) < len(Tree):
-            node.left = Tree[i * 2 + 1]
-            node.right = Tree[i * 2 + 2]
+        if Tree[i] and 2 * i + 1 < len(Tree):
+            Tree[i].left = Tree[2 * i + 1]
+            if 2 * i + 2 < len(Tree):
+                Tree[i].right = Tree[2 * i + 2]
     return root
 
 
