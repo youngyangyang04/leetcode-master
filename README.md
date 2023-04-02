@@ -66,7 +66,7 @@
 
 **这里每一篇题解，都是精品，值得仔细琢磨**。
 
-我在题目讲解中统一使用C++，但你会发现下面几乎每篇题解都配有其他语言版本，Java、Python、Go、JavaScript等等，正是这些[热心小伙们](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)的贡献的代码，当然我也会严格把控代码质量。 
+我在题目讲解中统一使用C++，但你会发现下面几乎每篇题解都配有其他语言版本，Java、Python、Go、JavaScript等等，正是这些[热心小伙们](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)贡献的代码，当然我也会严格把控代码质量。 
 
 **所以也欢迎大家参与进来，完善题解的各个语言版本，拥抱开源，让更多小伙伴们受益**。
 
