@@ -1,8 +1,10 @@
+
 <p align="center">
 <a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
   <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
+
 
 
 # 贪心算法：根据身高重建队列（续集）
@@ -12,6 +14,7 @@
 这里专门写一篇文章来详细说一说这个问题。
 
 使用vector的代码如下：
+
 ```CPP
 // 版本一，使用vector（动态数组）
 class Solution {
@@ -32,12 +35,14 @@ public:
 };
 
 ```
+
 耗时如下：
-![vectorinsert](https://img-blog.csdnimg.cn/20201218203611181.png)
+![vectorinsert](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218203611181.png)
 
 其直观上来看数组的insert操作是O(n)的，整体代码的时间复杂度是O(n^2)。
 
 这么一分析好像和版本二链表实现的时间复杂度是一样的啊，为什么提交之后效率会差距这么大呢？
+
 ```CPP
 // 版本二，使用list（链表）
 class Solution {
@@ -65,7 +70,7 @@ public:
 
 耗时如下：
 
-![使用链表](https://img-blog.csdnimg.cn/20201218200756257.png)
+![使用链表](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218200756257.png)
 
 大家都知道对于普通数组，一旦定义了大小就不能改变，例如int a[10];，这个数组a至多只能放10个元素，改不了的。
 
@@ -76,6 +81,7 @@ public:
 **首先vector的底层实现也是普通数组**。
 
 vector的大小有两个维度一个是size一个是capicity，size就是我们平时用来遍历vector时候用的，例如：
+
 ```
 for (int i = 0; i < vec.size(); i++) {
 
@@ -91,7 +97,7 @@ for (int i = 0; i < vec.size(); i++) {
 就是重新申请一个二倍于原数组大小的数组，然后把数据都拷贝过去，并释放原数组内存。（对，就是这么原始粗暴的方法！）
 
 举一个例子，如图：
-![vector原理](https://img-blog.csdnimg.cn/20201218185902217.png)
+![vector原理](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218185902217.png)
 
 原vector中的size和capicity相同都是3，初始化为1 2 3，此时要push_back一个元素4。
 
@@ -131,9 +137,10 @@ public:
     }
 };
 ```
+
 耗时如下：
 
-![vector手动模拟insert](https://img-blog.csdnimg.cn/20201218200626718.png)
+![vector手动模拟insert](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218200626718.png)
 
 这份代码就是不让vector动态扩容，全程我们自己模拟insert的操作，大家也可以直观的看出是一个O(n^2)的方法了。
 
