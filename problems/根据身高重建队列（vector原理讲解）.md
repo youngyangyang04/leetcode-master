@@ -177,6 +177,35 @@ Java：
 
 Python：
 
+Rust：
+
+```rust
+// 版本二，使用list（链表）
+use std::collections::LinkedList;
+impl Solution{
+    pub fn reconstruct_queue(mut people: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
+        let mut queue = LinkedList::new();
+        people.sort_by(|a, b| {
+            if a[0] == b[0] {
+                return a[1].cmp(&b[1]);
+            }
+            b[0].cmp(&a[0])
+        });
+        queue.push_back(people[0].clone());
+        for v in people.iter().skip(1) {
+            if queue.len() > v[1] as usize {
+                let mut back_link = queue.split_off(v[1] as usize);
+                queue.push_back(v.clone());
+                queue.append(&mut back_link);
+            } else {
+                queue.push_back(v.clone());
+            }
+        }
+        queue.into_iter().collect()
+    }
+}
+```
+
 
 Go：
 
