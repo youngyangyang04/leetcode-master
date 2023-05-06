@@ -266,6 +266,7 @@ func replaceSpace(s string) string {
 
 
 python：
+####因为字符串是不可变类型，所以操作字符串需要将其转换为列表，因此空间复杂度不可能不为O(1)
 ```python
 class Solution:
     def replaceSpace(self, s: str) -> str:
