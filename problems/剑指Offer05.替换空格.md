@@ -266,6 +266,8 @@ func replaceSpace(s string) string {
 
 
 python：
+#### 因为字符串是不可变类型，所以操作字符串需要将其转换为列表，因此空间复杂度不可能为O(1)
+（版本一）转换成列表，并且添加相匹配的空间，然后进行填充
 ```python
 class Solution:
     def replaceSpace(self, s: str) -> str:
@@ -290,14 +292,22 @@ class Solution:
         return ''.join(res)
             
 ```
-
+（版本二）添加空列表，添加匹配的结果
 ```python
 class Solution:
     def replaceSpace(self, s: str) -> str:
-        # method 1 - Very rude
-        return "%20".join(s.split(" "))
-
-        # method 2 - Reverse the s when counting in for loop, then update from the end.
+        res = []
+        for i in range(len(s)):
+            if s[i] == ' ':
+                res.append('%20')
+            else:
+                res.append(s[i])
+        return ''.join(res)
+```
+（版本三）使用切片
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
         n = len(s)
         for e, i in enumerate(s[::-1]):
             print(i, e)
@@ -306,7 +316,18 @@ class Solution:
             print("")
         return s
 ```
-
+（版本四）使用join + split
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        return "%20".join(s.split(" "))
+```
+（版本五）使用replace
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        return s.replace(' ', '%20')
+```
 javaScript:
 
 ```js
