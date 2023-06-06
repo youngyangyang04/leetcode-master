@@ -1,4 +1,7 @@
-# 人生苦短，我用VIM！
+# 人生苦短，我用VIM！| 最强vim配置
+
+> Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
+> Gitee地址：[https://gitee.com/programmercarl/power-vim](https://gitee.com/programmercarl/power-vim)
 
 熟悉我的录友，应该都知道我是vim流，无论是写代码还是写文档（Markdown），都是vim，都没用IDE。
 
@@ -53,7 +56,7 @@ IDE那么很吃内存，打开个IDE卡半天，用VIM就很轻便了，秒开�
   |_|   \___/ \_/\_/ \___|_|    \/   |_|_| |_| |_|
 ```
 
-这个配置我开源在Github上，地址：https://github.com/youngyangyang04/PowerVim
+这个配置我开源在Github上，地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 
 
 
@@ -63,7 +66,7 @@ IDE那么很吃内存，打开个IDE卡半天，用VIM就很轻便了，秒开�
 
 ## 安装
 
-PowerVim的安防非常简单，我已经写好了安装脚本，只要执行以下就可以安装，而且不会影响你之前的vim配置，之前的配置都给做了备份，大家看一下脚本就知道备份在哪里了。
+PowerVim的安装非常简单，我已经写好了安装脚本，只要执行以下就可以安装，而且不会影响你之前的vim配置，之前的配置都给做了备份，大家看一下脚本就知道备份在哪里了。
 
 安装过程非常简单：
 ```bash
@@ -92,6 +95,9 @@ sh install.sh
 
 ![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211013102249.png)
 
+Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
+
+Gitee地址：[https://gitee.com/programmercarl/power-vim](https://gitee.com/programmercarl/power-vim)
 
 最后，因为这个vim配置因为我一直没有宣传，所以star数量很少，哈哈哈，录友们去给个star吧，真正的开发利器，值得顶起来！
 

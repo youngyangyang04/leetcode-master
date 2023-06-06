@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20210924105952.png" width="1000"/>
+<a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
+  <img src="../pics/训练营.png" width="1000"/>
 </a>
 <p align="center"><strong><a href="https://mp.weixin.qq.com/s/tqCxrMEU-ajQumL1i8im9A">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们收益！</strong></p>
 
@@ -25,7 +25,7 @@
 
 i指向新长度的末尾，j指向旧长度的末尾。
 
-![替换空格](https://tva1.sinaimg.cn/large/e6c9d24ely1go6qmevhgpg20du09m4qp.gif)
+![替换空格](https://code-thinking.cdn.bcebos.com/gifs/%E6%9B%BF%E6%8D%A2%E7%A9%BA%E6%A0%BC.gif)
 
 有同学问了，为什么要从后向前填充，从前向后填充不行么？
 
@@ -36,7 +36,7 @@ i指向新长度的末尾，j指向旧长度的末尾。
 这么做有两个好处：
 
 1. 不用申请新数组。
-2. 从后向前填充元素，避免了从前先后填充元素要来的 每次添加元素都要将添加元素之后的所有元素向后移动。
+2. 从后向前填充元素，避免了从前向后填充元素时，每次添加元素都要将添加元素之后的所有元素向后移动的问题。
 
 时间复杂度，空间复杂度均超过100%的用户。
 
@@ -156,20 +156,20 @@ char* replaceSpace(char* s){
 Java：
 ```Java
 //使用一个新的对象，复制 str，复制的过程对其判断，是空格则替换，否则直接复制，类似于数组复制
-public static String replaceSpace(StringBuffer str) {
-        if (str == null) {
+public static String replaceSpace(String s) {
+        if (s == null) {
             return null;
         }
-		//选用 StringBuilder 单线程使用，比较快，选不选都行
+        //选用 StringBuilder 单线程使用，比较快，选不选都行
         StringBuilder sb = new StringBuilder();
-		//使用 sb 逐个复制 str ，碰到空格则替换，否则直接复制
-        for (int i = 0; i < str.length(); i++) {
-		//str.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
-        //if (" ".equals(String.valueOf(str.charAt(i)))){
+        //使用 sb 逐个复制 s ，碰到空格则替换，否则直接复制
+        for (int i = 0; i < s.length(); i++) {
+            //s.charAt(i) 为 char 类型，为了比较需要将其转为和 " " 相同的字符串类型
+            //if (" ".equals(String.valueOf(s.charAt(i)))){}
             if (s.charAt(i) == ' ') {
                 sb.append("%20");
             } else {
-                sb.append(str.charAt(i));
+                sb.append(s.charAt(i));
             }
         }
         return sb.toString();
@@ -266,6 +266,8 @@ func replaceSpace(s string) string {
 
 
 python：
+#### 因为字符串是不可变类型，所以操作字符串需要将其转换为列表，因此空间复杂度不可能为O(1)
+（版本一）转换成列表，并且添加相匹配的空间，然后进行填充
 ```python
 class Solution:
     def replaceSpace(self, s: str) -> str:
@@ -290,14 +292,22 @@ class Solution:
         return ''.join(res)
             
 ```
-
+（版本二）添加空列表，添加匹配的结果
 ```python
 class Solution:
     def replaceSpace(self, s: str) -> str:
-        # method 1 - Very rude
-        return "%20".join(s.split(" "))
-
-        # method 2 - Reverse the s when counting in for loop, then update from the end.
+        res = []
+        for i in range(len(s)):
+            if s[i] == ' ':
+                res.append('%20')
+            else:
+                res.append(s[i])
+        return ''.join(res)
+```
+（版本三）使用切片
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
         n = len(s)
         for e, i in enumerate(s[::-1]):
             print(i, e)
@@ -306,7 +316,18 @@ class Solution:
             print("")
         return s
 ```
-
+（版本四）使用join + split
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        return "%20".join(s.split(" "))
+```
+（版本五）使用replace
+```python
+class Solution:
+    def replaceSpace(self, s: str) -> str:
+        return s.replace(' ', '%20')
+```
 javaScript:
 
 ```js
@@ -538,5 +559,7 @@ impl Solution {
 ```
 
 
------------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码一.jpg width=500> </img></div>
+<p align="center">
+<a href="https://programmercarl.com/other/kstar.html" target="_blank">
+  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
+</a>
