@@ -24,7 +24,7 @@
 限制：      
 1 <= k < s.length <= 10000        
 
-# 思路
+## 思路
 
 为了让本题更有意义，提升一下本题难度：**不能申请额外空间，只能在本串上操作**。
 
@@ -71,7 +71,7 @@ public:
 
 是不是发现这代码也太简单了，哈哈。
 
-# 总结
+## 总结
 
 
 此时我们已经反转好多次字符串了，来一起回顾一下吧。
@@ -86,7 +86,7 @@ public:
 
 好了，反转字符串一共就介绍到这里，相信大家此时对反转字符串的常见操作已经很了解了。
 
-# 题外话
+## 题外话
 
 一些同学热衷于使用substr，来做这道题。
 其实使用substr 和 反转 时间复杂度是一样的 ，都是O(n)，但是使用substr申请了额外空间，所以空间复杂度是O(n)，而反转方法的空间复杂度是O(1)。
@@ -96,7 +96,8 @@ public:
 
 ## 其他语言版本
 
-Java：
+### Java：
+
 ```java
 class Solution {
     public String reverseLeftWords(String s, int n) {
@@ -141,7 +142,7 @@ class Solution {
     }
 ```
 
-python: 
+### Python: 
 （版本一）使用切片
 
 ```python
@@ -211,7 +212,7 @@ class Solution:
 
 ```
 
-Go：
+### Go：
 
 ```go
 func reverseLeftWords(s string, n int) string {
@@ -234,8 +235,7 @@ func reverse(b []byte, left, right int){
 }
 ```
 
-
-JavaScript：
+### JavaScript：
 
 ```javascript
 var reverseLeftWords = function(s, n) {
@@ -279,7 +279,7 @@ var reverseLeftWords = function (s, n) {
 };
 ```
 
-TypeScript：
+### TypeScript：
 
 ```typescript
 function reverseLeftWords(s: string, n: number): string {
@@ -311,7 +311,7 @@ function reverseLeftWords(s: string, n: number): string {
 };
 ```
 
-Swift:
+### Swift:
 
 ```swift
 func reverseLeftWords(_ s: String, _ n: Int) -> String {
@@ -338,7 +338,7 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 ```
 
 
-### PHP
+### PHP：
 
 ```php
 function reverseLeftWords($s, $n) {
@@ -358,8 +358,7 @@ function reverse(&$s, $start, $end) {
 }
 ```
 
-
-Scala:
+### Scala:
 
 ```scala
 object Solution {
@@ -388,7 +387,7 @@ object Solution {
 }
 ```
 
-Rust:
+### Rust:
 
 ```Rust
 impl Solution {
