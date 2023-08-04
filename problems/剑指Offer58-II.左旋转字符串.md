@@ -142,7 +142,7 @@ class Solution {
     }
 ```
 
-### python: 
+### Python: 
 （版本一）使用切片
 
 ```python
@@ -338,7 +338,7 @@ func reverseString(_ s: inout [Character], startIndex: Int, endIndex: Int)  {
 ```
 
 
-### PHP
+### PHP：
 
 ```php
 function reverseLeftWords($s, $n) {
@@ -418,4 +418,3 @@ impl Solution {
 <a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
 </a>
-
