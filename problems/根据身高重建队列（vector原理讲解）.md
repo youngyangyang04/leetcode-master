@@ -196,7 +196,7 @@ impl Solution{
 }
 ```
 
-### Go：
+### Go
 
 Go中slice的`append`操作和C++中vector的扩容机制基本相同。
 
@@ -213,4 +213,3 @@ Go中slice的`append`操作和C++中vector的扩容机制基本相同。
 <a href="https://programmercarl.com/other/kstar.html" target="_blank">
   <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
 </a>
-
