@@ -14,7 +14,7 @@
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230516112821.png' width=500 alt=''> </img></div>
 
-星球里的录友都可以得到我1V1的指导，**我已经详细回答了7000+个问题**： （这个回答问题数量，可以看出我有劳模的潜质 哈哈）
+星球里的录友都可以得到我1V1的指导，**我已经详细回答了7000+个问题**： （这个回答问题数量，可以看出我有劳模的潜质 ）
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230426103803.png' width=500 alt=''> </img></div>
 
@@ -45,7 +45,7 @@
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230607171843.png' width=400 alt=''> </img></div>
 
 
-一些录友当初也是进来 白嫖一波资料，就退款跑了 哈哈哈，不过后面又加回来，例如这位录友：
+一些录友当初也是进来 白嫖一波资料，就退款跑了，不过后面又加回来，例如这位录友：
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20220516160948.png' width=500 alt=''> </img></div>
 
