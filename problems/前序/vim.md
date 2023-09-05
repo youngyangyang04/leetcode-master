@@ -7,7 +7,7 @@
 
 但这里我并不是说IDE不好用，IDE在 代码跟踪，引用跳转等等其实是很给力的，效率比vim高。
 
-我用vim的话，如果需要跟踪代码的话，就用ctag去跳转，虽然很不智能（是基于规则匹配，不是语义匹配），但加上我自己的智能就也能用（这里真的要看对代码的把握程度了，哈哈哈）
+我用vim的话，如果需要跟踪代码的话，就用ctag去跳转，虽然很不智能（是基于规则匹配，不是语义匹配），但加上我自己的智能就也能用（这里真的要看对代码的把握程度了）
 
 所以连跟踪代码都不用IDE的话，其他方面那我就更用不上IDE了。
 
@@ -99,5 +99,5 @@ Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/
 
 Gitee地址：[https://gitee.com/programmercarl/power-vim](https://gitee.com/programmercarl/power-vim)
 
-最后，因为这个vim配置因为我一直没有宣传，所以star数量很少，哈哈哈，录友们去给个star吧，真正的开发利器，值得顶起来！
+最后，因为这个vim配置因为我一直没有宣传，所以star数量很少，录友们去给个star吧，真正的开发利器，值得顶起来！
 
