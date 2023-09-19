@@ -69,7 +69,7 @@ public:
 * 时间复杂度: O(n)
 * 空间复杂度：O(1)
 
-是不是发现这代码也太简单了，哈哈。
+是不是发现这代码也太简单了。
 
 ## 总结
 
@@ -120,8 +120,9 @@ class Solution {
 ```
 
 ```java
-//解法二：空间复杂度：O(1)。用原始数组来进行反转操作
-//思路为：先整个字符串反转，再反转前面的，最后反转后面 n 个
+// 解法二
+// 空间复杂度：O(n)。String 的 toCharArray() 方法底层会 new 一个和原字符串相同大小的 char 数组
+// 思路为：先整个字符串反转，再反转前面的，最后反转后面 n 个
 class Solution {
     public String reverseLeftWords(String s, int n) {
         char[] chars = s.toCharArray();
