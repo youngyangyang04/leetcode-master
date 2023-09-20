@@ -1,5 +1,5 @@
 
-# 如何练习ACM模式输入输入模式 | 如何准备笔试 | 卡码网
+# 如何练习ACM模式输入输出模式 | 如何准备笔试 | 卡码网
 
 卡码网地址：[https://kamacoder.com](https://kamacoder.com)
 
