@@ -5,7 +5,7 @@
 > 1. **介绍** ：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **正式出版** ：[《代码随想录》](https://programmercarl.com/other/publish.html) 。
 > 3. **PDF版本** ：[「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
-> 4. **算法公开课** ：[《代码随想录》算法视频公开课](https://www.programmercarl.com/other/gongkaike.html) 。
+> 4. **算法公开课** ：[《代码随想录》算法视频公开课](https://www.bilibili.com/video/BV1fA4y1o715) 。
 > 5. **最强八股文** ：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html) 。
 > 6. **刷题顺序** ：README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
 > 7. **学习社区** ：一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
@@ -75,6 +75,7 @@
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
     * [C++语言基础课](https://kamacoder.com/course.php?course_id=1)
+    * [Java语言基础课](https://kamacoder.com/course.php?course_id=2)
 
 * 项目
     * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
