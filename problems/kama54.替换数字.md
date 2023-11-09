@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
   <img src="../pics/训练营.png" width="1000"/>
@@ -6,8 +7,6 @@
 
 
 # 替换数字 
-
-力扣已经将剑指offer题目下架，所以我在卡码网上给大家提供类似的题目来练习 
 
 [卡码网题目链接](https://kamacoder.com/problempage.php?pid=1064)
 
