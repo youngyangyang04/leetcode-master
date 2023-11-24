@@ -46,7 +46,7 @@
 
 从前向后填充就是O(n^2)的算法了，因为每次添加元素都要将添加元素之后的所有元素整体向后移动。
 
-**其实很多数组填充类的问题，其做饭都是先预先给数组扩容带填充后的大小，然后在从后向前进行操作。**
+**其实很多数组填充类的问题，其做法都是先预先给数组扩容带填充后的大小，然后在从后向前进行操作。**
 
 这么做有两个好处：
 
@@ -162,6 +162,27 @@ class Main {
 ```
 
 ### Go：
+````go
+package main
+
+import "fmt"
+
+func main(){
+    var strByte []byte
+    
+    fmt.Scanln(&strByte)
+    
+    for i := 0; i < len(strByte); i++{
+        if strByte[i] <= '9' && strByte[i] >= '0' {
+            inserElement := []byte{'n','u','m','b','e','r'}
+            strByte = append(strByte[:i], append(inserElement, strByte[i+1:]...)...)
+            i = i + len(inserElement) -1
+        }
+    }
+    
+    fmt.Printf(string(strByte))
+}
+````
 
 
 
