@@ -1,0 +1,22 @@
+'''python
+class Solution:
+    def mySqrt(self, x: int) -> int:
+        #想创新一点，用75%查找,
+        low,high = 0,x
+        while low<=high:
+            tq = (low + 3*high) // 4 #tq是three quarter的意思
+            if tq*tq < x:
+                if (tq+1)*(tq+1) > x:
+                    return tq #前后反向，返回答案
+                elif (tq+1)*(tq+1) == x:
+                    return tq+1
+                else:
+                    low = tq + 1 
+            elif tq*tq > x:
+                if (tq-1)*(tq-1) <= x: #与上面同理
+                    return tq-1
+                else:
+                    high = tq - 1
+            else:
+                return tq
+'''      
