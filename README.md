@@ -1,7 +1,7 @@
 
 👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
 👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
-
+test
 > 1. **介绍** ：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
 > 2. **正式出版** ：[《代码随想录》](https://programmercarl.com/other/publish.html) 。
 > 3. **PDF版本** ：[「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/other/algo_pdf.html) 。
