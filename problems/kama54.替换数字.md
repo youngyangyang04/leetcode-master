@@ -183,11 +183,67 @@ func main(){
     fmt.Printf(string(strByte))
 }
 ````
+Go使用双指针解法
+````go
+package main
+
+import "fmt"
+
+func replaceNumber(strByte []byte) string {
+    // 查看有多少字符
+    numCount, oldSize := 0, len(strByte)
+    for i := 0; i < len(strByte); i++ {
+        if (strByte[i] <= '9') && (strByte[i] >= '0') {
+            numCount ++
+        }
+    }
+    // 增加长度
+    for i := 0; i < numCount; i++ {
+        strByte = append(strByte, []byte("     ")...)
+    }
+    tmpBytes := []byte("number")
+    // 双指针从后遍历
+    leftP, rightP := oldSize-1, len(strByte)-1
+    for leftP < rightP {
+        rightShift := 1
+        // 如果是数字则加入number
+        if (strByte[leftP] <= '9') && (strByte[leftP] >= '0') {
+            for i, tmpByte := range tmpBytes {
+                strByte[rightP-len(tmpBytes)+i+1] = tmpByte
+            }
+            rightShift = len(tmpBytes)
+        } else {
+            strByte[rightP] = strByte[leftP]
+        }
+        // 更新指针
+        rightP -= rightShift
+        leftP -= 1
+    }
+    return string(strByte)
+}
+
+func main(){
+    var strByte []byte
+    fmt.Scanln(&strByte)
+    
+    newString := replaceNumber(strByte)
+
+    fmt.Println(newString)
+}
+````
 
 
 
 ### python：
-
+```Python
+class Solution:
+    def change(self, s):
+        lst = list(s) # Python里面的string也是不可改的，所以也是需要额外空间的。空间复杂度：O(n)。
+        for i in range(len(lst)):
+            if lst[i].isdigit():
+                lst[i] = "number"
+        return ''.join(lst)
+```
 ### JavaScript:
 
 
