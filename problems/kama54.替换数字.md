@@ -28,7 +28,7 @@
 
 ## 思路
 
-如果想把这道题目做到极致，就不要只用额外的辅助空间了！ （不过使用Java刷题的录友，一定要使用辅助空间，因为Java里的string不能修改）
+如果想把这道题目做到极致，就不要只用额外的辅助空间了！ （不过使用Java/C#刷题的录友，一定要使用辅助空间，因为Java/C#里的string不能修改）
 
 首先扩充数组到每个数字字符替换成 "number" 之后的大小。
 
@@ -261,7 +261,29 @@ class Solution:
 
 ### Rust:
 
-
+### C#:
+```C#
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        string s = Console.ReadLine()??"";
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < s.Length; i++)
+        {
+            if (char.IsDigit(s[i]))
+            {
+                sb.Append("number");
+            }
+            else
+            {
+                sb.Append(s[i]);
+            }
+        }
+        Console.WriteLine(sb);
+    }
+}
+```
 
 <p align="center">
 <a href="https://programmercarl.com/other/kstar.html" target="_blank">
