@@ -76,6 +76,7 @@
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
     * [C++语言基础课](https://kamacoder.com/course.php?course_id=1)
     * [Java语言基础课](https://kamacoder.com/course.php?course_id=2)
+    * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
 
 * 项目
     * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
