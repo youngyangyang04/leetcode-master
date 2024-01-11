@@ -1,7 +1,4 @@
 
-思考一下边的权值为负数的情况 
-
-
 # 寻宝
 
 [卡码网：53. 寻宝](https://kamacoder.com/problempage.php?pid=1053)
