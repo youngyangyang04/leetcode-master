@@ -111,7 +111,7 @@ python代码
 
 有的录友是一个pull request 里有很多commit （一个commit是一道题目的代码）。
 
-有的录友是一个pull request 里有有一个commit。
+有的录友是一个pull request 里只有一个commit。
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210512221535670.png' width=500 alt=''></img></div>
 
