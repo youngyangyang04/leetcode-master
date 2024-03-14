@@ -56,36 +56,36 @@
 C++代码如下：
 
 ```CPP
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main() {
     string s;
     while (cin >> s) {
+        int sOldIndex = s.size() - 1;
         int count = 0; // 统计数字的个数
-        int sOldSize = s.size();
         for (int i = 0; i < s.size(); i++) {
             if (s[i] >= '0' && s[i] <= '9') {
                 count++;
             }
         }
-        // 扩充字符串s的大小，也就是每个空格替换成"number"之后的大小
+        // 扩充字符串s的大小，也就是将每个数字替换成"number"之后的大小
         s.resize(s.size() + count * 5);
-        int sNewSize = s.size();
-        // 从后先前将空格替换为"number"
-        for (int i = sNewSize - 1, j = sOldSize - 1; j < i; i--, j--) {
-            if (s[j] > '9' || s[j] < '0') {
-                s[i] = s[j];
+        int sNewIndex = s.size() - 1;
+        // 从后往前将数字替换为"number"
+        while (sOldIndex >= 0) {
+            if (s[sOldIndex] >= '0' && s[sOldIndex] <= '9') {
+                s[sNewIndex--] = 'r';
+                s[sNewIndex--] = 'e';
+                s[sNewIndex--] = 'b';
+                s[sNewIndex--] = 'm';
+                s[sNewIndex--] = 'u';
+                s[sNewIndex--] = 'n';
             } else {
-                s[i] = 'r';
-                s[i - 1] = 'e';
-                s[i - 2] = 'b';
-                s[i - 3] = 'm';
-                s[i - 4] = 'u';
-                s[i - 5] = 'n';
-                i -= 5;
+                s[sNewIndex--] = s[sOldIndex];
             }
+            sOldIndex--;
         }
-        cout << s << endl;
+        cout << s << endl;       
     }
 }
 
@@ -245,7 +245,60 @@ class Solution:
         return ''.join(lst)
 ```
 ### JavaScript:
+```js
+const readline = require("readline");
 
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+})
+
+function main() {
+    const num0 = "0".charCodeAt();
+    const num9 = "9".charCodeAt();
+    const a = "a".charCodeAt();
+    const z = "z".charCodeAt();
+    function isAZ(str) {
+        return str >= a && str <= z;
+    }
+    function isNumber(str) {
+        return str >= num0 && str <= num9;
+    }
+    rl.on("line", (input) => {
+        let n = 0;
+        for (let i = 0; i < input.length; i++) {
+            const val = input[i].charCodeAt();
+            if (isNumber(val)) {
+                n+= 6;
+            }
+            if (isAZ(val)) {
+                n++;
+            }
+        }
+        const ans = new Array(n).fill(0);
+        let index = input.length - 1;
+        for (let i = n - 1; i >= 0; i--) {
+            const val = input[index].charCodeAt();
+            if (isAZ(val)) {
+                ans[i] = input[index];
+            }
+            if (isNumber(val)) {
+                ans[i] = "r";
+                ans[i - 1] = "e";
+                ans[i - 2] = "b";
+                ans[i - 3] = "m";
+                ans[i - 4] = "u";
+                ans[i - 5] = "n";
+                i -= 5;
+            }
+            index--;
+        }
+        console.log(ans.join(""));
+    })
+}
+
+main();
+```
 
 ### TypeScript：
 
