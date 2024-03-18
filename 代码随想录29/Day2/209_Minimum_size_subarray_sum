@@ -1,0 +1,16 @@
+class Solution:
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+        i, j = 0, 0
+        result = float("inf")  # Initialize result to positive infinity
+        current_sum = 0
+
+        while j < len(nums):
+            current_sum += nums[j]
+            while current_sum >= target:
+                sub_length = j - i + 1
+                result = min(result, sub_length)
+                current_sum -= nums[i]
+                i += 1
+            j += 1
+
+        return 0 if result == float("inf") else result
