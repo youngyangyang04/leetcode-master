@@ -141,6 +141,50 @@ for (int i = 0; i < a.size(); i++) {
 
 ### C：
 
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#define MAX_SIZE 10001
+
+int main(void) {
+    char * s = (char *)malloc(MAX_SIZE * sizeof(char));
+    if (scanf("%s", s) != 1) {
+        exit(-1);
+    }
+    // 计算数字有多少个
+    int cnt = 0;
+    // 计算字符串长度
+    int len = 0;
+    for (size_t i = 0; s[i] != '\0'; ++i) {
+        if (isdigit(s[i])) {
+            ++cnt;
+        }
+        ++len;
+    }
+    int new_len = len + cnt * 5;
+    // 加1是为了存储'\0'
+    char * ans = (char *)malloc((new_len + 1) * sizeof(char));
+    for (int i = len, j = new_len; i <= j && i >= 0; --i, --j) {
+        if (isdigit(s[i])) {
+            ans[j--] = 'r';
+            ans[j--] = 'e';
+            ans[j--] = 'b';
+            ans[j--] = 'm';
+            ans[j--] = 'u';
+            ans[j] = 'n';
+        }
+        else {
+            ans[j] = s[i];
+        }
+    }
+    printf("%s", ans);
+    free(ans);
+    free(s);
+    return 0;
+}
+```
+
 ### Java：
 
 ```java
