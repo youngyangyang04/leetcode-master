@@ -142,7 +142,7 @@ for (int i = 0; i < a.size(); i++) {
 ### C：
 
 ### Java：
-
+解法一
 ```java
 import java.util.Scanner;
 
@@ -157,6 +157,42 @@ class Main {
             }else sb.append(s.charAt(i));
         }
         System.out.println(sb);
+    }
+}
+```
+解法二
+```java
+// 为了还原题目本意，先把原数组复制到扩展长度后的新数组，然后不再使用原数组、原地对新数组进行操作。
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        int len = s.length();
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) >= 0 && s.charAt(i) <= '9') {
+                len += 5;
+            }
+        }
+        
+        char[] ret = new char[len];
+        for (int i = 0; i < s.length(); i++) {
+            ret[i] = s.charAt(i);
+        }
+        for (int i = s.length() - 1, j = len - 1; i >= 0; i--) {
+            if ('0' <= ret[i] && ret[i] <= '9') {
+                ret[j--] = 'r';
+                ret[j--] = 'e';
+                ret[j--] = 'b';
+                ret[j--] = 'm';
+                ret[j--] = 'u';
+                ret[j--] = 'n';
+            } else {
+                ret[j--] = ret[i];
+            }
+        }
+        System.out.println(ret);
     }
 }
 ```
