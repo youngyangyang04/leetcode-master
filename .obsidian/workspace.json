@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "14608cf8b641f651",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b559c19d2418ebd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a006865600bc4e20",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "340e6a79c670a47b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f81ca398c18cda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51f9f8f44ecceb89",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0cff567244d7cff5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "1971",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "209574c920774a4d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "93ce8f4c11893983",
+    "type": "split",
+    "children": [
+      {
+        "id": "da8cbb56e5ee7c52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfccbc1ebc0bb831",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d2201419a111fe4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc86ccf1b01bc02c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ec512545d2a7f2e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "a006865600bc4e20",
+  "lastOpenFiles": [
+    "problems/1971.寻找图中是否存在路径.md",
+    "README.md"
+  ]
+}
