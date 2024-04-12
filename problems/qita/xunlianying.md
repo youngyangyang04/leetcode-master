@@ -1,7 +1,9 @@
 
 # 代码随想录算法训练营
 
-> 训练营17期将在6月28日开营，目前可以报名，提前拉群，在群里等着开营就好！
+::: tip  通知
+训练营35期，将于 4月3日开营，目前可以报名，报名后提前拉群，在群里等着开营就好。
+:::
 
 大家可以百度搜索：代码随想录算法训练营， 看看往期录友们在训练营里打卡总结的博客。
 
@@ -9,14 +11,39 @@
 
 这是训练营里录友坚持到最后一天的打卡，大家可以看看他们的博客是每天都有记录的：
 
-* [训练营结束，深感坚持是最难的（Java-犯困-东南研二）](https://blog.csdn.net/weixin_57956443/article/details/128995318)
+* [这种方式，有效逼我坚持下来（C++-小飞-嘉院大三）（精华）](https://blog.csdn.net/weixin_60353640/article/details/133797799)
+* [完成比完美重要（Java-小姜-已工作/南京）（精华）](https://xie.infoq.cn/article/3d07b4040ceab0f546d66e3e1)
+* [已经刷了500题的基础，参加训练营依然收获满满（Java-怪懒懒-求职）（精华）](https://blog.csdn.net/2301_78266314/article/details/132144046)
+
+* [算法超级弱，最后坚持下来了（Java-信任呢-上大研二）（精华）](https://blog.csdn.net/xinrenne/article/details/133267089)
+* [第一次比较完整的刷题训练经历，群里氛围超级好（JAVA-雷贯三十三重天-北航研二）（精华）](https://blog.csdn.net/qq_44120129/article/details/133230372)
+* [我全程坚持下来，还是很有成就感的（python-wj-待业）（精华）](https://blog.csdn.net/u013441272/article/details/133229421)
+
+* [一点基础都没有，坚持下来了（C++ 润 大二）（精华）](https://blog.csdn.net/m0_74583479/article/details/132776719)
+* [这个钱花的很值得（C++-GMZ-研一）（精华）](https://blog.csdn.net/weixin_43303286/article/details/132796571)
+* [看着名单里录友都在坚持，自己也要坚持（C++-凯-湖工大研三）（精华）](https://blog.csdn.net/weixin_62453859/article/details/132788830)
+
+* [一刷心得（Java-小何同学-广财大二）（精华）](https://juejin.cn/post/7272250890597531684)
+* [花钱买服务、买环境、买时间（Java-古今-大工研二）（精华）](https://blog.csdn.net/dannky_Z/article/details/132532049)
+* [一刷心得（java-唔哩凹-大三）（精华）](https://blog.csdn.net/iwtup/article/details/132545456)
+
+* [训练营结束有点不舍，坚持最久的一件事（C++-徐一-中科院研二）（精华）](https://blog.csdn.net/weixin_46108098/article/details/132158352)
+* [同学推荐，报名训练营，坚持下来了（c++-刘浩-沈自所-研二）（精华）](https://blog.csdn.net/qq1156148707/article/details/132155446)
+
+* [每日的刷题训练真的艰难，但坚持下来了（C++-五-已工作福建）（精华）](https://blog.csdn.net/weixin_44952586/article/details/131909720)
+* [加入训练营，就是因为这个气氛，只靠自己很难坚持（cpp-Lord HouSton-cqu研二）（精华）](https://blog.csdn.net/HSL13594379250/article/details/131889934)
+* [很幸运，我坚持下来了，感觉收货满满（java-李-UCAS研0）（精华）](https://blog.csdn.net/ResNet156/article/details/131920163)
+* [谈谈自己的收获，养成了写博客的习惯（java-翌-研二）（精华）](https://blog.csdn.net/weixin_47460244/article/details/131912316)
+
+* [养成了刷题的习惯（C++-热心市民C先生-南理工研一）（精华）](https://blog.csdn.net/qqq1521902442/article/details/131614999)
+* [工作也坚持下来(Python-Hongying-已工作杭州)（精华）](https://blog.csdn.net/weixin_42286468/article/details/131628069)
+* [入营不亏（C++-小叶子-云财研二）（精华）](https://blog.csdn.net/dream_aleaf/article/details/131613667)
+
 * [训练营一刷总结（Java-HQH-研二）](https://blog.csdn.net/weixin_43821876/article/details/128991822)
 * [训练营总结，一群人才能走的更远（Java-Lixy-已工作南京）](https://blog.csdn.net/weixin_45368277/article/details/128997823)
 * [训练营总结，中途🐑了，也坚持下来（C++-Jane-科大研二）](https://blog.csdn.net/Jane_10358/article/details/128977424)
 * [这两个月有很多不可控因素，但依然坚持下来（java-hha-南工大二）](https://blog.csdn.net/qerwtrt4t/article/details/128975401)
 * [训练营总结，最后坚持下来（C++ - 阿舟 - 已工作武汉）](https://blog.csdn.net/m0_74360161/article/details/129000723)
-* [训练营总结，一刷知识点回顾（Java-魏-待就业）](https://blog.csdn.net/weixin_48111139/article/details/128973746)
-* [在训练营中，零基础刷一遍的感受（C++-东风-东北大学研二）](https://blog.csdn.net/nightcood/article/details/128947111)
 
 
 博客链接：[https://blog.csdn.net/m0_61724447/article/details/128443084](https://blog.csdn.net/m0_61724447/article/details/128443084)
@@ -69,7 +96,7 @@
 -----------
 
 
-### 训练营的目的是什么？
+## 训练营的目的是什么？
 
 对于刷题，学算法，[《代码随想录》](https://programmercarl.com/other/publish.html)（programmercarl.com）已经把刷题顺序给大家列好了，大家跟着刷就行。
 
@@ -97,7 +124,7 @@
 
 我亲自给大家规划节奏，大家一起按照我的节奏来，规定时间内，一刷一定能把代码随想录所有内容吃透，然后大家自己去二刷，三刷就好了，师傅领进门修行在个人。
 
-### 训练营提供一些什么呢？
+## 训练营提供一些什么呢？
 
 1.具体内容
 
@@ -180,7 +207,7 @@
 
 毕竟内容是开源的，质量如何 大家自己去看就好。
 
-### 训练营的学习方式
+## 训练营的学习方式
 
 组织方式：一个学习微信群（180人左右），大家进群之后，等群公告就好，我会通知开始时间和每日刷题计划。
 
@@ -194,11 +221,11 @@
 
 所需语言：**所有语种都可以**，毕竟代码随想录几乎支持所有主流语言，**也会针对大家所用的语言做针对性答疑**。
 
-### 开营时间
+## 开营时间
 
-**训练营开始常态化报名，即一直可以报名，当人满180人的时候，就开始新的一期**。 最新的一期可以看文章评论区。
+**训练营开始常态化报名，即一直可以报名，当人满180人的时候，就开始新的一期**。 最新的一期可以看文章评论区，或者文章开头。
 
-### 训练营的价格
+## 训练营的价格
 
 大家应该最关心的是价格了，**定价依然是268元**，注意这是两个月训练营的费用，而且是全程规划，指导，监督和答疑。
 
@@ -208,7 +235,7 @@
 
 后面一定会涨价的，**如果你确实需要有人带，有监督，给规划，有答疑，能花两个月时间更下来的话，还是早报早学习**。
 
-### 我适合报名吗？
+## 我适合报名吗？
 
 符合一下特点的录友可以报名：
 
@@ -233,7 +260,7 @@
 **训练营不限编程语言**，任何语言都可以报名，都会答疑。
 
 
-### 常见疑问
+## 常见疑问
 
 **海外录友有时差可以报名吗**？
 
@@ -265,22 +292,29 @@
 
 至于三个月的训练营，是可以考虑的，不过安排时间还要待定。
 
-### 报名方式
+## 报名方式
 
-扫码支付268元。 （如果是[代码随想录知识星球](https://programmercarl.com/other/kstar.html)成员录友，只需要支付238元，提交客服的时候需提供知识星球截图，**注意一定要是代码随想录知识星球**）
+* 正常支付，价格：268  （支付成功后，支付记录发给客服
+* 知识星球录友支付，价格：238  （支付成功后，[代码随想录知识星球](https://programmercarl.com/other/kstar.html)截图 和 支付记录发给客服
+* 往期算法训练营录友再次报名，价格：130 （支付成功后，往期训练营群或者支付记录 和 本次支付记录发给客服
+
+（**注意一定要是[代码随想录知识星球](https://programmercarl.com/other/kstar.html)成员才会有优惠**）
+
+支付宝支付如下：
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230603175016.png' width=500 alt=''> </img></div>
 
+[微信支付点击这里](https://www.programmercarl.com/other/weixinzhifu.html)
+
 付款后，将付款截图发给客服，客服会在24h内统一回复，**所以大家发给客服信息不要急，当天一定会回复的**。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20230603175235.png)
-
-客服的联系方式就在大家的微信聊天窗口，不用担心突出聊天窗口错过消息，客服回复之后 会有微信提示的。
+<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20231012125112.png' width=500 alt=''> </img></div>
 
 关于训练营的任何问题，可以在客服这里咨询！
 
 
-### 最后
+
+## 最后
 
 训练营其实算是代码随想录的一个补充，其内容都是免费开放的，有学习能力的录友自己学习就好。
 
@@ -294,5 +328,10 @@
 
 关于训练营的任何疑问都可以扫码联系客服
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20230603175235.png)
+<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20231012125112.png' width=500 alt=''> </img></div>
+
+
+
+<Valine></Valine>
+
 
