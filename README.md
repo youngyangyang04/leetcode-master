@@ -14,7 +14,7 @@
 
 
 <p align="center">
-<a href="https://programmercarl.com/other/xunlianying.html" target="_blank">
+<a href="https://programmercarl.com/xunlian/xunlianying.html" target="_blank">
 	<img src="./pics/训练营.png" width="800"/>
 </a>
 </p>
@@ -78,18 +78,6 @@
     * [Java语言基础课](https://kamacoder.com/course.php?course_id=2)
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
 
-* 项目
-    * [基于跳表的轻量级KV存储引擎](https://github.com/youngyangyang04/Skiplist-CPP)
-    * [Nosql数据库注入攻击系统](https://github.com/youngyangyang04/NoSQLAttack)
-
-* 编程素养
-    * [看了这么多代码，谈一谈代码风格！](./problems/前序/代码风格.md)
-    * [力扣上的代码想在本地编译运行？](./problems/前序/力扣上的代码想在本地编译运行？.md)
-    * [什么是核心代码模式，什么又是ACM模式？](./problems/前序/什么是核心代码模式，什么又是ACM模式？.md)
-    * [刷题要不要用库函数](./problems/前序/刷力扣用不用库函数.md)
-    * [ACM模式如何构造二叉树](./problems/前序/ACM模式如何构建二叉树.md)
-    * [解密互联网大厂研发流程](./problems/前序/互联网大厂研发流程.md)
-
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
@@ -106,7 +94,6 @@
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
     * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
     * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
-    * [本周小结！（算法性能分析系列一）](./problems/周总结/20201210复杂度分析周末总结.md)
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
@@ -499,7 +486,7 @@
 
 # 贡献者 
 
-[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者收益于此项目。
+[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者受益于此项目。
 
 # Star 趋势
 
