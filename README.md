@@ -177,8 +177,9 @@
 
 ## 二叉树 
 
+
 题目分类大纲如下：           
-<img src='https://img-blog.csdnimg.cn/20210219190809451.png' width=600 alt='二叉树大纲'> </img></div>
+<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
@@ -220,7 +221,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. [回溯算法：77.组合](./problems/0077.组合.md)
