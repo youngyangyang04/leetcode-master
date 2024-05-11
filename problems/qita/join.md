@@ -111,7 +111,7 @@ python代码
 
 有的录友是一个pull request 里有很多commit （一个commit是一道题目的代码）。
 
-有的录友是一个pull request 里有有一个commit。
+有的录友是一个pull request 里只有一个commit。
 
 <div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210512221535670.png' width=500 alt=''></img></div>
 
@@ -156,9 +156,9 @@ python代码
 
 虽然我主张没有绝对正确的代码风格，但既然是给LeetCode-Master提交代码，尽量遵循Google编程规范。
 
-经常看我的代码的录友应该都知道，我的代码格严格按照 Google C++ 编程规范来的，这样看上去会比较整洁。
+经常看我的代码的录友应该都知道，我的代码风格严格按照 Google C++ 编程规范来的，这样看上去会比较整洁。
 
-大家提交代码的时候遇到规范性问题，例如哪里应该由空格，哪里没有空格，可以参考我的代码来。
+大家提交代码的时候遇到规范性问题，例如哪里应该有空格，哪里没有空格，可以参考我的代码来。
 
 有一位录友在提交代码的时候会把之前的代码 做一下规范性的调整，这就很棒。
 
