@@ -74,8 +74,7 @@
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
-    * [C++语言基础课](https://kamacoder.com/course.php?course_id=1)
-    * [Java语言基础课](https://kamacoder.com/course.php?course_id=2)
+    * [编程语言基础课](https://kamacoder.com/courseshop.php)
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
 
 * 工具 
@@ -91,12 +90,12 @@
     * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
     
 * 算法性能分析
-    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
-    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
-    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
-    * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
+    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/时间复杂度.md)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/算法超时.md)
+    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/递归算法的时间复杂度.md)
+    * [关于空间复杂度，可能有几个疑问？](./problems/前序/空间复杂度.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
+    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/内存消耗.md)
 
 
 ## 数组 
