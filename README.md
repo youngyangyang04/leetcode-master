@@ -107,7 +107,9 @@
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
 6. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-7. [数组：总结篇](./problems/数组总结篇.md)
+7. [数组：区间和](./problems/kamacoder/0058.区间和.md)
+8. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+9. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
