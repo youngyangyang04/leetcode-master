@@ -373,7 +373,7 @@
 
 ## 图论 
 
-通知：开始更新图论内容，图论部分还没有其他语言版本，欢迎录友们提交PR，成为contributor
+**[图论正式发布](./problems/qita/tulunfabu.md)**
 
 1. [图论：理论基础](./problems/kamacoder/图论理论基础.md)
 2. [图论：深度优先搜索理论基础](./problems/kamacoder/图论深搜理论基础.md)
