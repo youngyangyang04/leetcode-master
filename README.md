@@ -107,7 +107,6 @@
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
 6. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-7. [数组：区间和](./problems/kamacoder/0058.区间和.md)
 8. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
 9. [数组：总结篇](./problems/数组总结篇.md)
 
@@ -373,7 +372,7 @@
 
 ## 图论 
 
-通知：开始更新图论内容，图论部分还没有其他语言版本，欢迎录友们提交PR，成为contributor
+**[图论正式发布](./problems/qita/tulunfabu.md)**
 
 1. [图论：理论基础](./problems/kamacoder/图论理论基础.md)
 2. [图论：深度优先搜索理论基础](./problems/kamacoder/图论深搜理论基础.md)
