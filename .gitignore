@@ -1,0 +1,7 @@
+.idea/
+.DS_Store
+.vscode
+.temp
+.cache
+*.iml
+__pycache__
