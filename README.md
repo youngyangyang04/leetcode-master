@@ -400,7 +400,7 @@
 24. [图论：Bellman_ford 算法](./problems/kamacoder/0094.城市间货物运输I.md)
 25. [图论：Bellman_ford 队列优化算法（又名SPFA）](./problems/kamacoder/0094.城市间货物运输I-SPFA.md)
 26. [图论：Bellman_ford之判断负权回路](./problems/kamacoder/0095.城市间货物运输II.md)
-27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0095.城市间货物运输II.md)
+27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0096.城市间货物运输III.md)
 28. [图论：Floyd 算法](./problems/kamacoder/0097.小明逛公园.md)
 29. [图论：A * 算法](./problems/kamacoder/0126.骑士的攻击astar.md)
 30. [图论：最短路算法总结篇](./problems/kamacoder/最短路问题总结篇.md)
