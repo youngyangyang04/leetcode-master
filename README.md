@@ -106,8 +106,8 @@
 4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
-6. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-8. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
 9. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
@@ -141,9 +141,9 @@
 
 1. [字符串：344.反转字符串](./problems/0344.反转字符串.md)
 2. [字符串：541.反转字符串II](./problems/0541.反转字符串II.md)
-3. [字符串：替换数字](./problems/kama54.替换数字.md)
+3. [字符串：替换数字](./problems/kamacoder/0054.替换数字.md)
 4. [字符串：151.翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md)
-5. [字符串：右旋字符串](./problems/kama55.右旋字符串.md)
+5. [字符串：右旋字符串](./problems/kamacoder/0055.右旋字符串.md)
 6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
 8. [字符串：459.重复的子字符串](./problems/0459.重复的子字符串.md)
 9. [字符串：总结篇！](./problems/字符串总结.md)
@@ -154,7 +154,7 @@
 
 1. [数组：27.移除元素](./problems/0027.移除元素.md)
 2. [字符串：344.反转字符串](./problems/0344.反转字符串.md)
-3. [字符串：替换数字](./problems/kama54.替换数字.md)
+3. [字符串：替换数字](./problems/kamacoder/0054.替换数字.md)
 4. [字符串：151.翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md)
 5. [链表：206.翻转链表](./problems/0206.翻转链表.md)
 6. [链表：19.删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
@@ -196,7 +196,6 @@
 12. [二叉树：110.平衡二叉树](./problems/0110.平衡二叉树.md)
 13. [二叉树：257.二叉树的所有路径](./problems/0257.二叉树的所有路径.md)
 14. [本周总结！（二叉树）](./problems/周总结/20201003二叉树周末总结.md)
-15. [二叉树：二叉树中递归带着回溯](./problems/二叉树中递归带着回溯.md)
 16. [二叉树：404.左叶子之和](./problems/0404.左叶子之和.md)
 17. [二叉树：513.找树左下角的值](./problems/0513.找树左下角的值.md)
 18. [二叉树：112.路径总和](./problems/0112.路径总和.md)
@@ -400,7 +399,7 @@
 24. [图论：Bellman_ford 算法](./problems/kamacoder/0094.城市间货物运输I.md)
 25. [图论：Bellman_ford 队列优化算法（又名SPFA）](./problems/kamacoder/0094.城市间货物运输I-SPFA.md)
 26. [图论：Bellman_ford之判断负权回路](./problems/kamacoder/0095.城市间货物运输II.md)
-27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0095.城市间货物运输II.md)
+27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0096.城市间货物运输III.md)
 28. [图论：Floyd 算法](./problems/kamacoder/0097.小明逛公园.md)
 29. [图论：A * 算法](./problems/kamacoder/0126.骑士的攻击astar.md)
 30. [图论：最短路算法总结篇](./problems/kamacoder/最短路问题总结篇.md)
