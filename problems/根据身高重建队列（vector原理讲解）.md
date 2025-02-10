@@ -176,13 +176,13 @@ impl Solution {
     pub fn reconstruct_queue(people: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
         let mut people = people;
         people.sort_by_key(|b| (-b[0], b[1]));
-        let mut res = LinkedList::new();
+        let mut queue = LinkedList::new();
         for person in people {
-            let mut backlink = res.split_off(person[1] as usize);
-            res.push_back(person);
-            res.append(&mut backlink);
+            let mut backlink = queue.split_off(person[1] as usize);
+            queue.push_back(person);
+            queue.append(&mut backlink);
         }
-        res.into_iter().collect()
+        queue.into_iter().collect()
     }
 }
 ```
