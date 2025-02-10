@@ -172,26 +172,17 @@ public:
 ```rust
 // 版本二，使用list（链表）
 use std::collections::LinkedList;
-impl Solution{
-    pub fn reconstruct_queue(mut people: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
-        let mut queue = LinkedList::new();
-        people.sort_by(|a, b| {
-            if a[0] == b[0] {
-                return a[1].cmp(&b[1]);
-            }
-            b[0].cmp(&a[0])
-        });
-        queue.push_back(people[0].clone());
-        for v in people.iter().skip(1) {
-            if queue.len() > v[1] as usize {
-                let mut back_link = queue.split_off(v[1] as usize);
-                queue.push_back(v.clone());
-                queue.append(&mut back_link);
-            } else {
-                queue.push_back(v.clone());
-            }
+impl Solution {
+    pub fn reconstruct_queue(people: Vec<Vec<i32>>) -> Vec<Vec<i32>> {
+        let mut people = people;
+        people.sort_by_key(|b| (-b[0], b[1]));
+        let mut res = LinkedList::new();
+        for person in people {
+            let mut backlink = res.split_off(person[1] as usize);
+            res.push_back(person);
+            res.append(&mut backlink);
         }
-        queue.into_iter().collect()
+        res.into_iter().collect()
     }
 }
 ```
