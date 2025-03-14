@@ -69,13 +69,14 @@
 
 ## 前序
 
-* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
+* [做项目（多个C++、Java、Go、前端、测开项目）](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
     * [编程语言基础课](https://kamacoder.com/courseshop.php)
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
+    * [大厂算法笔试题](https://kamacoder.com/company.php)
 
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
@@ -384,10 +385,10 @@
 8. [图论：孤岛的总面积](./problems/kamacoder/0101.孤岛的总面积.md)
 9. [图论：沉没孤岛](./problems/kamacoder/0102.沉没孤岛.md)
 10. [图论：水流问题](./problems/kamacoder/0103.水流问题.md)
-11. [图论：建造最大岛屿](./problems/kamacoder/0104.建造最大岛屿.md)
-12. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
-13. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
-14. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+11. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+12. [图论：建造最大岛屿](./problems/kamacoder/0104.建造最大岛屿.md)
+13. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
+14. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
 15. [图论：并查集理论基础](./problems/kamacoder/图论并查集理论基础.md)
 16. [图论：寻找存在的路径](./problems/kamacoder/0107.寻找存在的路径.md)
 17. [图论：冗余连接](./problems/kamacoder/0108.冗余连接.md)
