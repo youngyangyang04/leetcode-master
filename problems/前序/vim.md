@@ -93,7 +93,7 @@ sh install.sh
 
 当然 还有很多，我还详细写了PowerVim的快捷键，使用方法，插件，配置，等等，都在Github主页的README上。当时我的Github上写的都是英文README，这次为了方便大家阅读，我又翻译成中文README。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211013102249.png)
+![](https://file.kamacoder.com/pics/20211013102249.png)
 
 Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 

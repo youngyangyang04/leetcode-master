@@ -5,15 +5,15 @@
 
 平时大家在力扣上刷题，就是 核心代码模式，即给你一个函数，直接写函数实现，例如这样：
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231109193631.png)
+![](https://file.kamacoder.com/pics/20231109193631.png)
 
 而ACM模式，是程序头文件，main函数，数据的输入输出都要自己处理，例如这样：
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231109193743.png)
+![](https://file.kamacoder.com/pics/20231109193743.png)
 
 大家可以发现 右边代码框什么都没有，程序从头到尾都需要自己实现，本题如果写完代码是这样的： （细心的录友可以发现和力扣上刷题是不一样的）
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231109193931.png)
+![](https://file.kamacoder.com/pics/20231109193931.png)
 
 
 **如果大家从一开始学习算法就一直在力扣上的话，突然切到ACM模式会非常不适应**。
@@ -21,15 +21,15 @@
 知识星球里也有很多录友，因为不熟悉ACM模式在面试的过程中吃了不少亏。
 
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727163624.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727163624.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727163938.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727163938.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164042.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164042.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164151.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164151.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164459.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164459.png' width=500 alt=''></img></div>
 
 ## 面试究竟怎么考？
 
@@ -53,7 +53,7 @@
 
 你只要能把卡码网首页的25道题目 都刷了 ，就把所有的ACM输入输出方式都练习到位了，不会有任何盲区。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231109195056.png)
+![](https://file.kamacoder.com/pics/20231109195056.png)
 
 而且你不用担心，题目难度太大，直接给自己劝退，**卡码网的前25道题目都是我精心制作的，难度也是循序渐进的**，大家去刷一下就知道了。
 
