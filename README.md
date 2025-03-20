@@ -69,13 +69,14 @@
 
 ## 前序
 
-* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
+* [做项目（多个C++、Java、Go、前端、测开项目）](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
     * [编程语言基础课](https://kamacoder.com/courseshop.php)
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
+    * [大厂算法笔试题](https://kamacoder.com/company.php)
 
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
@@ -180,7 +181,7 @@
 
 
 题目分类大纲如下：           
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
+<img src='https://file.kamacoder.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
@@ -221,7 +222,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://file.kamacoder.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. [回溯算法：77.组合](./problems/0077.组合.md)
@@ -251,7 +252,7 @@
 题目分类大纲如下：             
 
 
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
+<img src='https://file.kamacoder.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. [贪心算法：455.分发饼干](./problems/0455.分发饼干.md)
@@ -385,9 +386,9 @@
 9. [图论：沉没孤岛](./problems/kamacoder/0102.沉没孤岛.md)
 10. [图论：水流问题](./problems/kamacoder/0103.水流问题.md)
 11. [图论：建造最大岛屿](./problems/kamacoder/0104.建造最大岛屿.md)
-12. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
-13. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
-14. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+12. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+13. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
+14. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
 15. [图论：并查集理论基础](./problems/kamacoder/图论并查集理论基础.md)
 16. [图论：寻找存在的路径](./problems/kamacoder/0107.寻找存在的路径.md)
 17. [图论：冗余连接](./problems/kamacoder/0108.冗余连接.md)
@@ -502,5 +503,5 @@
 
 添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://file.kamacoder.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
 

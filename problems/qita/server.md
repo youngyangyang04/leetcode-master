@@ -51,7 +51,7 @@
 
 操作方式这样，我把命令包 包装成一个shell命令，想传那个文件，直接 uploadtomyserver，然后就返回可以下载的链接，这个文件也同时传到了我的服务器上。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211126165643.png)
+![](https://file.kamacoder.com/pics/20211126165643.png)
 
 我也把我的项目代码放在了github上：
 
@@ -93,11 +93,11 @@ https://github.com/youngyangyang04/fileHttpServer
 
 就是这样一个非常普通的查询页面。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211126160200.png)
+![](https://file.kamacoder.com/pics/20211126160200.png)
 
 查询通过之后，就会展现返现群二维码。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20211127160558.png)
+![](https://file.kamacoder.com/pics/20211127160558.png)
 
 但要部署在服务器上，因为没有公网IP，别人用不了你的服务。
 

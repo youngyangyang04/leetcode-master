@@ -1,8 +1,6 @@
-<p align="center">
-<a href="https://www.programmercarl.com/xunlian/xunlianying.html" target="_blank">
-  <img src="../pics/训练营.png" width="1000"/>
-</a>
-<p align="center"><strong><a href="./qita/join.md">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们受益！</strong></p>
+* [做项目（多个C++、Java、Go、测开、前端项目）](https://www.programmercarl.com/other/kstar.html)
+* [刷算法（两个月高强度学算法）](https://www.programmercarl.com/xunlian/xunlianying.html)
+* [背八股（40天挑战高频面试题）](https://www.programmercarl.com/xunlian/bagu.html)
 
 
 
@@ -37,7 +35,7 @@ public:
 ```
 
 耗时如下：
-![vectorinsert](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218203611181.png)
+![vectorinsert](https://file.kamacoder.com/pics/20201218203611181.png)
 
 其直观上来看数组的insert操作是O(n)的，整体代码的时间复杂度是O(n^2)。
 
@@ -70,7 +68,7 @@ public:
 
 耗时如下：
 
-![使用链表](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218200756257.png)
+![使用链表](https://file.kamacoder.com/pics/20201218200756257.png)
 
 大家都知道对于普通数组，一旦定义了大小就不能改变，例如int a[10];，这个数组a至多只能放10个元素，改不了的。
 
@@ -97,7 +95,7 @@ for (int i = 0; i < vec.size(); i++) {
 就是重新申请一个二倍于原数组大小的数组，然后把数据都拷贝过去，并释放原数组内存。（对，就是这么原始粗暴的方法！）
 
 举一个例子，如图：
-![vector原理](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218185902217.png)
+![vector原理](https://file.kamacoder.com/pics/20201218185902217.png)
 
 原vector中的size和capicity相同都是3，初始化为1 2 3，此时要push_back一个元素4。
 
@@ -140,7 +138,7 @@ public:
 
 耗时如下：
 
-![vector手动模拟insert](https://code-thinking-1253855093.file.myqcloud.com/pics/20201218200626718.png)
+![vector手动模拟insert](https://file.kamacoder.com/pics/20201218200626718.png)
 
 这份代码就是不让vector动态扩容，全程我们自己模拟insert的操作，大家也可以直观的看出是一个O(n^2)的方法了。
 
@@ -209,7 +207,3 @@ Go中slice的`append`操作和C++中vector的扩容机制基本相同。
 
 
 
-<p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
-</a>
