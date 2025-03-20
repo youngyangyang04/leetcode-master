@@ -1,8 +1,6 @@
-<p align="center">
-<a href="https://www.programmercarl.com/xunlian/xunlianying.html" target="_blank">
-  <img src="../pics/训练营.png" width="1000"/>
-</a>
-<p align="center"><strong><a href="./qita/join.md">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们受益！</strong></p>
+* [做项目（多个C++、Java、Go、测开、前端项目）](https://www.programmercarl.com/other/kstar.html)
+* [刷算法（两个月高强度学算法）](https://www.programmercarl.com/xunlian/xunlianying.html)
+* [背八股（40天挑战高频面试题）](https://www.programmercarl.com/xunlian/bagu.html)
 
 
 # 程序提交之后为什么会超时？O(n)的算法会超时，n究竟是多大？
@@ -15,7 +13,7 @@
 
 ## 超时是怎么回事
 
-![程序超时](https://code-thinking-1253855093.file.myqcloud.com/pics/20200729112716117.png)
+![程序超时](https://file.kamacoder.com/pics/20200729112716117.png)
 
 大家在leetcode上练习算法的时候应该都遇到过一种错误是“超时”。
 
@@ -131,11 +129,11 @@ int main() {
 
 来看一下运行的效果，如下图：
 
-![程序超时2](https://code-thinking-1253855093.file.myqcloud.com/pics/20200729200018460.png)
+![程序超时2](https://file.kamacoder.com/pics/20200729200018460.png)
 
 O(n)的算法，1s内大概计算机可以运行 5 * (10^8)次计算，可以推测一下O(n^2) 的算法应该1s可以处理的数量级的规模是 5 * (10^8)开根号，实验数据如下。
 
-![程序超时3](https://code-thinking-1253855093.file.myqcloud.com/pics/2020072919590970.png)
+![程序超时3](https://file.kamacoder.com/pics/2020072919590970.png)
 
 O(n^2)的算法，1s内大概计算机可以运行 22500次计算，验证了刚刚的推测。
 
@@ -143,7 +141,7 @@ O(n^2)的算法，1s内大概计算机可以运行 22500次计算，验证了刚
 
 理论上应该是比 O(n)少一个数量级，因为logn的复杂度 其实是很快，看一下实验数据。
 
-![程序超时4](https://code-thinking-1253855093.file.myqcloud.com/pics/20200729195729407.png)
+![程序超时4](https://file.kamacoder.com/pics/20200729195729407.png)
 
 O(nlogn)的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符合预期。
 
@@ -151,7 +149,7 @@ O(nlogn)的算法，1s内大概计算机可以运行 2 * (10^7)次计算，符�
 
 **整体测试数据整理如下：**
 
-![程序超时1](https://code-thinking-1253855093.file.myqcloud.com/pics/20201208231559175.png)
+![程序超时1](https://file.kamacoder.com/pics/20201208231559175.png)
 
 至于O(log n)和O(n^3) 等等这些时间复杂度在1s内可以处理的多大的数据规模，大家可以自己写一写代码去测一下了。
 
@@ -224,7 +222,3 @@ int main() {
 
 
 
-<p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
-</a>

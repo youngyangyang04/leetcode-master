@@ -11,15 +11,15 @@
 
 [知识星球](https://programmercarl.com/other/kstar.html)里很多录友的日常打卡中，都表示被 ACM模式折磨过：
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727163624.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727163624.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727163938.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727163938.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164042.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164042.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164151.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164151.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727164459.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727164459.png' width=500 alt=''></img></div>
 
 所以我正式推出：**卡码网**（[https://kamacoder.com](https://kamacoder.com)），**专门帮助大家练习ACM模式**。
 
@@ -43,17 +43,17 @@
 
 来看看这极简的界面，没有烂七八糟的功能，只有刷题！
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727171535.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727171535.png' width=500 alt=''></img></div>
 
 在「状态」这里可以看到 大家提交的代码和判题记录，目前卡码网（[https://kamacoder.com](https://kamacoder.com)）几乎无时无刻都有卡友在提交代码。
 看看大家周六晚上都在做什么，刷哪些题目。
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230730200451.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230730200451.png' width=500 alt=''></img></div>
 
 
 提交代码的界面是这样的，**目前支持所有主流刷题语言**。
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230727172727.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230727172727.png' width=500 alt=''></img></div>
 
 ## 题解
 
@@ -63,7 +63,7 @@
 
 [https://github.com/youngyangyang04/kamacoder-solutions](https://github.com/youngyangyang04/kamacoder-solutions)
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230730200709.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230730200709.png' width=500 alt=''></img></div>
 
 **欢迎去Github上star，欢迎fork，也欢迎来Github仓库贡献其他语言版本，成为contributor**。
 
@@ -71,7 +71,7 @@
 
 目前已经有两位录友贡献C和Java版本了。
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20230730195613.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20230730195613.png' width=500 alt=''></img></div>
 
 期待在Github（https://github.com/youngyangyang04/kamacoder-solutions） 的contributors上也出现你的头像。
 
