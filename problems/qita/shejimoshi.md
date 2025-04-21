@@ -7,11 +7,11 @@
 
 所以卡码网 针对 23种设计，**推出了 23道编程题目，来帮助大家练习设计模式**。
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240104164130.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240104164130.png' width=500 alt=''></img></div>
 
 这里的23到编程题目对应了 23种这几模式。 例如第一题，小明的购物车，就是单例模式：
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240103210802.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240103210802.png' width=500 alt=''></img></div>
 
 区别于网上其他教程，本教程的特点是:
 
@@ -40,18 +40,18 @@
 
 同时还给全部整理到PDF上，这份PDF，我们写的很用心了，来个大家截个图：
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240104164830.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240104164830.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240104164854.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240104164854.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240104164920.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240104164920.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240104164947.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240104164947.png' width=500 alt=''></img></div>
 
 关于设计模式的题目，大家现在就可以去 卡码网（kamacoder）去做了。
 
 关于这23道题目对应 设计模式精讲 PDF，也免费分享给录友们，大家可以加我的企业微信获取：
-<div align="center"><img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20240103212419.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file.kamacoder.com/pics/20240103212419.png' width=500 alt=''></img></div>
 
 已经有我企业微信的录友，直接发：设计模式，这四个字就好，我会直接发你。
 

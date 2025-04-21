@@ -1,8 +1,6 @@
-<p align="center">
-<a href="https://www.programmercarl.com/xunlian/xunlianying.html" target="_blank">
-  <img src="../pics/训练营.png" width="1000"/>
-</a>
-<p align="center"><strong><a href="./qita/join.md">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们受益！</strong></p>
+* [做项目（多个C++、Java、Go、测开、前端项目）](https://www.programmercarl.com/other/kstar.html)
+* [刷算法（两个月高强度学算法）](https://www.programmercarl.com/xunlian/xunlianying.html)
+* [背八股（40天挑战高频面试题）](https://www.programmercarl.com/xunlian/bagu.html)
 
 
 # 右旋字符串 
@@ -46,16 +44,16 @@ fgabcde
 
 本题中，我们需要将字符串右移n位，字符串相当于分成了两个部分，如果n为2，符串相当于分成了两个部分，如图： （length为字符串长度） 
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231106170143.png)
+![](https://file.kamacoder.com/pics/20231106170143.png)
 
 
 右移n位， 就是将第二段放在前面，第一段放在后面，先不考虑里面字符的顺序，是不是整体倒叙不就行了。如图： 
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231106171557.png) 
+![](https://file.kamacoder.com/pics/20231106171557.png) 
 
 此时第一段和第二段的顺序是我们想要的，但里面的字符位置被我们倒叙，那么此时我们在把 第一段和第二段里面的字符再倒叙一把，这样字符顺序不就正确了。 如果： 
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231106172058.png) 
+![](https://file.kamacoder.com/pics/20231106172058.png) 
 
 其实，思路就是 通过 整体倒叙，把两段子串顺序颠倒，两个段子串里的的字符在倒叙一把，**负负得正**，这样就不影响子串里面字符的顺序了。 
 
@@ -86,7 +84,7 @@ int main() {
 
 可以的，不过，要记得 控制好 局部反转的长度，如果先局部反转，那么先反转的子串长度就是 len - n，如图： 
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231106172534.png)
+![](https://file.kamacoder.com/pics/20231106172534.png)
 
 代码如下： 
 
@@ -176,7 +174,3 @@ int main() {
 
 
 
-<p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
-</a>

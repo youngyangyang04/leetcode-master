@@ -1,8 +1,6 @@
-<p align="center">
-<a href="https://www.programmercarl.com/xunlian/xunlianying.html" target="_blank">
-  <img src="../pics/训练营.png" width="1000"/>
-</a>
-<p align="center"><strong><a href="./qita/join.md">参与本项目</a>，贡献其他语言版本的代码，拥抱开源，让更多学习算法的小伙伴们受益！</strong></p>
+* [做项目（多个C++、Java、Go、测开、前端项目）](https://www.programmercarl.com/other/kstar.html)
+* [刷算法（两个月高强度学算法）](https://www.programmercarl.com/xunlian/xunlianying.html)
+* [背八股（40天挑战高频面试题）](https://www.programmercarl.com/xunlian/bagu.html)
 
 
 # 替换数字 
@@ -37,11 +35,11 @@
 
 如图：  
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231030165201.png) 
+![](https://file.kamacoder.com/pics/20231030165201.png) 
 
 然后从后向前替换数字字符，也就是双指针法，过程如下：i指向新长度的末尾，j指向旧长度的末尾。
 
-![](https://code-thinking-1253855093.file.myqcloud.com/pics/20231030173058.png)
+![](https://file.kamacoder.com/pics/20231030173058.png)
 
 有同学问了，为什么要从后向前填充，从前向后填充不行么？
 
@@ -171,7 +169,3 @@ for (int i = 0; i < a.size(); i++) {
 
 
 
-<p align="center">
-<a href="https://programmercarl.com/other/kstar.html" target="_blank">
-  <img src="../pics/网站星球宣传海报.jpg" width="1000"/>
-</a>
