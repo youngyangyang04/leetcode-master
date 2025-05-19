@@ -15,7 +15,7 @@
 
 其输入用例，就是用一个数组来表述 二叉树，如下：
 
-![](https://file.kamacoder.com/pics/20210914222335.png)
+![](https://file1.kamacoder.com/i/algo/20210914222335.png)
 
 一直跟着公众号学算法的录友 应该知道，我在[二叉树：构造二叉树登场！](https://mp.weixin.qq.com/s/Dza-fqjTyGrsRw4PWNKdxA)，已经讲过，**只有 中序与后序 和  中序和前序 可以确定一棵唯一的二叉树。 前序和后序是不能确定唯一的二叉树的**。
 
@@ -24,7 +24,7 @@
 很明显，是后台直接明确了构造规则。
 
 再看一下 这个 输入序列 和 对应的二叉树。
-![](https://file.kamacoder.com/pics/20210914222335.png)
+![](https://file1.kamacoder.com/i/algo/20210914222335.png)
 
 从二叉树 推导到 序列，大家可以发现这就是层序遍历。
 
@@ -36,7 +36,7 @@
 
 顺序存储，就是用一个数组来存二叉树，其方式如图所示：
 
-![](https://file.kamacoder.com/pics/20210914223147.png)
+![](https://file1.kamacoder.com/i/algo/20210914223147.png)
 
 那么此时大家是不是应该知道了，数组如何转化成 二叉树了。**如果父节点的数组下标是i，那么它的左孩子下标就是i * 2 + 1，右孩子下标就是 i * 2 + 2**。
 
@@ -80,7 +80,7 @@ TreeNode* construct_binary_tree(const vector<int>& vec) {
 
 这个函数最后返回的 指针就是 根节点的指针， 这就是 传入二叉树的格式了，也就是 力扣上的用例输入格式，如图：
 
-![](https://file.kamacoder.com/pics/20210914224422.png)
+![](https://file1.kamacoder.com/i/algo/20210914224422.png)
 
 也有不少同学在做ACM模式的题目，就经常疑惑：
 
@@ -176,7 +176,7 @@ int main() {
 
 和 [538.把二叉搜索树转换为累加树](https://mp.weixin.qq.com/s/rlJUFGCnXsIMX0Lg-fRpIw) 中的输入是一样的
 
-![](https://file.kamacoder.com/pics/20210914222335.png)
+![](https://file1.kamacoder.com/i/algo/20210914222335.png)
 
 这里可能又有同学疑惑，你这不一样啊，题目是null，你为啥用-1。
 
@@ -184,11 +184,11 @@ int main() {
 
 在来看，测试代码输出的效果：
 
-![](https://file.kamacoder.com/pics/20210914230045.png)
+![](https://file1.kamacoder.com/i/algo/20210914230045.png)
 
 可以看出和  题目中输入用例 这个图 是一样一样的。 只不过题目中图没有把 空节点 画出来而已。
 
-![](https://file.kamacoder.com/pics/20210914230118.png)
+![](https://file1.kamacoder.com/i/algo/20210914230118.png)
 
 大家可以拿我的代码去测试一下，跑一跑。
 
@@ -205,7 +205,7 @@ int main() {
 
 **[知识星球](https://mp.weixin.qq.com/s/QVF6upVMSbgvZy8lHZS3CQ)**里有的录友已经开始三刷：
 
-![](https://file.kamacoder.com/pics/20210727234031.png)
+![](https://file1.kamacoder.com/i/algo/20210727234031.png)
 
 只做过一遍，真的就是懂了一点皮毛， 第二遍刷才有真的对各个题目有较为深入的理解，也会明白 我为什么要这样安排刷题的顺序了。
 
@@ -419,4 +419,4 @@ func main() {
 ```
 
 -----------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/01二维码.jpg' width=450> </img></div>

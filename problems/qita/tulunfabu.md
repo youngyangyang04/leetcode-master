@@ -8,7 +8,7 @@
 
 我知道录友们在等图论等太久了，其实我比大家都着急。
 
-![大家一直都在催](https://file.kamacoder.com/pics/20240613105618.png)
+![大家一直都在催](https://file1.kamacoder.com/i/algo/20240613105618.png)
 
 图论完整版目前已经开放在代码随想录网站：programmercarl.com
 
@@ -20,7 +20,7 @@
 * 拓扑排序
 * 最短路算法
 
-![](https://file.kamacoder.com/pics/20240613104436.png)
+![](https://file1.kamacoder.com/i/algo/20240613104436.png)
 
 **耗时一年之久，代码随想录图论 终于面世了**!
 
@@ -32,21 +32,21 @@
 
 随便截一些图，大家感受一下：
 
-![](https://file.kamacoder.com/pics/20240613104703.png)
+![](https://file1.kamacoder.com/i/algo/20240613104703.png)
 
-![](https://file.kamacoder.com/pics/20240613104824.png)
+![](https://file1.kamacoder.com/i/algo/20240613104824.png)
 
-![](https://file.kamacoder.com/pics/20240613104852.png)
+![](https://file1.kamacoder.com/i/algo/20240613104852.png)
 
-![](https://file.kamacoder.com/pics/20240613104926.png)
+![](https://file1.kamacoder.com/i/algo/20240613104926.png)
 
-![](https://file.kamacoder.com/pics/20240613105007.png)
+![](https://file1.kamacoder.com/i/algo/20240613105007.png)
 
-![](https://file.kamacoder.com/pics/20240613105030.png)
+![](https://file1.kamacoder.com/i/algo/20240613105030.png)
 
-![](https://file.kamacoder.com/pics/20240613105106.png)
+![](https://file1.kamacoder.com/i/algo/20240613105106.png)
 
-![](https://file.kamacoder.com/pics/20240613105143.png)
+![](https://file1.kamacoder.com/i/algo/20240613105143.png)
 
 具体内容，大家可以去代码随想录网站（programmercarl.com）去看看，非常精彩！
 
@@ -203,19 +203,19 @@ cout << result[result.size() - 1];
 
 当大家通过 代码随想录 提升了编程与算法能力，考上研或者找到好工作的时候，于我来说已经是很幸福的事情：
 
-![对笔试帮助大](https://file.kamacoder.com/pics/20230914172536.png)
+![对笔试帮助大](https://file1.kamacoder.com/i/algo/20230914172536.png)
 
-![华为od将近满分](https://file.kamacoder.com/pics/20230914172607.png)
+![华为od将近满分](https://file1.kamacoder.com/i/algo/20230914172607.png)
 
-![研究生复试](https://file.kamacoder.com/pics/20240621103130.png)
+![研究生复试](https://file1.kamacoder.com/i/algo/20240621103130.png)
 
-![红包感谢代码随想录366](https://file.kamacoder.com/pics/20231123151310.png)
+![红包感谢代码随想录366](https://file1.kamacoder.com/i/algo/20231123151310.png)
 
-![上岸亚马逊](https://file.kamacoder.com/pics/20240206174151.png)
+![上岸亚马逊](https://file1.kamacoder.com/i/algo/20240206174151.png)
 
-![](https://file.kamacoder.com/pics/20220718094112.png)
+![](https://file1.kamacoder.com/i/algo/20220718094112.png)
 
-![](https://file.kamacoder.com/pics/20220718094332.png)
+![](https://file1.kamacoder.com/i/algo/20220718094332.png)
 
 至此**图论内容 已完全免费开放在代码随想录网站（programmercarl.com），造福广大学习编程的录友们**！
 

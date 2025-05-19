@@ -62,7 +62,7 @@ IDE那么很吃内存，打开个IDE卡半天，用VIM就很轻便了，秒开�
 
 来感受一下PowerVim的使用体验，看起来很酷吧！注意这些操作都不用鼠标的，一波键盘控制流！所以我平时写代码是不碰鼠标的！
 
-![](https://code-thinking.cdn.bcebos.com/gifs/vim_overview.gif)
+![](https://file1.kamacoder.com/i/algo/vim_overview.gif)
 
 ## 安装
 
@@ -93,7 +93,7 @@ sh install.sh
 
 当然 还有很多，我还详细写了PowerVim的快捷键，使用方法，插件，配置，等等，都在Github主页的README上。当时我的Github上写的都是英文README，这次为了方便大家阅读，我又翻译成中文README。
 
-![](https://file.kamacoder.com/pics/20211013102249.png)
+![](https://file1.kamacoder.com/i/algo/20211013102249.png)
 
 Github地址：[https://github.com/youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)
 

@@ -181,7 +181,7 @@
 
 
 题目分类大纲如下：           
-<img src='https://file.kamacoder.com/pics/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
@@ -222,7 +222,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://file.kamacoder.com/pics/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. [回溯算法：77.组合](./problems/0077.组合.md)
@@ -252,7 +252,7 @@
 题目分类大纲如下：             
 
 
-<img src='https://file.kamacoder.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. [贪心算法：455.分发饼干](./problems/0455.分发饼干.md)
@@ -283,7 +283,7 @@
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-总结大纲1.jpg' width=500> </img></div>
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. [动态规划：509.斐波那契数](./problems/0509.斐波那契数.md)
 3. [动态规划：70.爬楼梯](./problems/0070.爬楼梯.md)
@@ -297,7 +297,7 @@
 
 背包问题系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
 
 
 11. [动态规划：01背包理论基础（二维dp数组）](./problems/背包理论基础01背包-1.md)
@@ -328,7 +328,7 @@
 
 股票系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
 
 
 32. [动态规划：121.买卖股票的最佳时机](./problems/0121.买卖股票的最佳时机.md)
@@ -343,7 +343,7 @@
 
 子序列系列： 
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
 
 
 41. [动态规划：300.最长递增子序列](./problems/0300.最长上升子序列.md)
@@ -503,5 +503,5 @@
 
 添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://file.kamacoder.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://file1.kamacoder.com/i/algo/shuati20250519.jpg" data-img="1" width="200" height="200"></img></div>
 

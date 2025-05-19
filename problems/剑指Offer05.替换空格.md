@@ -35,11 +35,11 @@
 
 如图：  
 
-![](https://file.kamacoder.com/pics/20231030165201.png) 
+![](https://file1.kamacoder.com/i/algo/20231030165201.png) 
 
 然后从后向前替换数字字符，也就是双指针法，过程如下：i指向新长度的末尾，j指向旧长度的末尾。
 
-![](https://file.kamacoder.com/pics/20231030173058.png)
+![](https://file1.kamacoder.com/i/algo/20231030173058.png)
 
 有同学问了，为什么要从后向前填充，从前向后填充不行么？
 

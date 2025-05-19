@@ -28,10 +28,10 @@
 
 点击这里Fetch upstream。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20230721172815.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20230721172815.png' width=500 alt=''></img></div>
 
 点击之后，这里就会显示最新的信息了
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516213032568.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516213032568.png' width=500 alt=''></img></div>
 
 注意这时是你的远端仓库为最新版本，本地还不是最新的，本地要git pull一下。
 
@@ -39,18 +39,18 @@
 
 如何提交代码呢，首先把自己的代码提交到自己的fork的远端仓库中，然后open pull request，如图：
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516215102296.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516215102296.png' width=500 alt=''></img></div>
 
 点击 open pull request之后，就是如下画面，一个pull request有多个commit。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516215646937.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516215646937.png' width=500 alt=''></img></div>
 
 然后就是给pull request 添加备注，pull request是对本次commit的一个总结。如果一个pull request就一个commit，那么就和commit的备注保持一次。 然后点击 create pull request 就可以了
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516220219891.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516220219891.png' width=500 alt=''></img></div>
 
 此时你就提交成功了，我会在项目中的pull requests 处理列表里看到你的请求。
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516220502485.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516220502485.png' width=500 alt=''></img></div>
 
 然后如果你发现自己的代码没有合入多半是有问题，如果有问题都有会在pull request里给出留言的，
 
@@ -78,27 +78,27 @@ C++代码
 \`\`\`
 
 例如这个commit，在添加java代码的时候，就直接添加代码
-<div align="center"><img src='https://file.kamacoder.com/pics/20210512141514272.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210512141514272.png' width=500 alt=''></img></div>
 
 正确的格式应该是这样：
-<div align="center"><img src='https://file.kamacoder.com/pics/20210513101029336.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210513101029336.png' width=500 alt=''></img></div>
 
 一般发现问题，我也会在代码中给出评论：
 
-<div align="center"><img src='https://file.kamacoder.com/pics/2021051309401135.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/2021051309401135.png' width=500 alt=''></img></div>
 
 这样大家也可以学习一些 提交代码的规范方面的知识
 
 
 有的录友 是添加的代码块语法，但没有标记是哪种语言，这样的话 代码就不会针对某种语言高亮显示了，也比较影响阅读，例如：
 
-<div align="center"><img src='https://file.kamacoder.com/pics/2021051214212374.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/2021051214212374.png' width=500 alt=''></img></div>
 
 提交python代码的话，要注释好，是python2还是python3
 
 例如这样：
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210513174147165.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210513174147165.png' width=500 alt=''></img></div>
 
 当然python2的话，只这么写就行
 
@@ -113,7 +113,7 @@ python代码
 
 有的录友是一个pull request 里只有一个commit。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210512221535670.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210512221535670.png' width=500 alt=''></img></div>
 
 其实如果大家是平时一天写了两三道题目的话，那么分三个commit，一个pull request提交上来就行。
 
@@ -127,13 +127,13 @@ python代码
 
 例如这位录友，在提交Java代码的时候，按照题解的意思对Java版本的代码进行的注释，这就很棒👍
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210512212151438.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210512212151438.png' width=500 alt=''></img></div>
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210513101321112.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210513101321112.png' width=500 alt=''></img></div>
 
 当然如果大家感觉 已有的代码 不符合以上要求的话，例如 代码思路不够清晰不够规范，注释不够友好，依然欢迎提交优化代码，要记得详细注释哦。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210516082342756.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516082342756.png' width=500 alt=''></img></div>
 
 ### 说明具体是哪种方法
 
@@ -141,10 +141,10 @@ python代码
 
 下面这位录友做的就很好
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210512221951251.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210512221951251.png' width=500 alt=''></img></div>
 
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210513101551819.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210513101551819.png' width=500 alt=''></img></div>
 
 有的题解，是一起给出了多道题目的讲解，例如项目中0102.二叉树的层序遍历.md 中有八道题目，那么大家添加代码的时候 应该在代码注释上，或者 直接写上 是哪个题目的代码。
 
@@ -162,7 +162,7 @@ python代码
 
 有一位录友在提交代码的时候会把之前的代码 做一下规范性的调整，这就很棒。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210514093012603.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210514093012603.png' width=500 alt=''></img></div>
 
 **代码规范从你我做起！**
 
@@ -183,10 +183,10 @@ python代码
 在合入的过程中还要处理冲突的代码， 理解大家代码的思路，解决冲突，然后在力扣提交一下，确保是没问题。
 
 例如同一道题目， 一位录友提交了， 我还没处理如何，另一位录友也对这道题也提交了代码，这样就会发生冲突
-<div align="center"><img src='https://file.kamacoder.com/pics/20210514092248192.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210514092248192.png' width=500 alt=''></img></div>
 
 大家提交代码的热情太高了，我有时候根本处理不过来，但我必须当天处理完，否则第二天代码冲突会越来越多。
-<div align="center"><img src='https://file.kamacoder.com/pics/20210514091457392.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210514091457392.png' width=500 alt=''></img></div>
 
 一天晚上分别有两位录友提交了 30多道 java代码，全部冲突，解决冲突处理的我脖子疼[哭]
 
@@ -201,11 +201,11 @@ python代码
 
 确保这种额外文件不要提交。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210514093430534.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210514093430534.png' width=500 alt=''></img></div>
 
 还有添加不同方法的时候，直接用正文格式写，哪种方法就可以了，不要添加目录 ，例如这样，这样整篇文章目录结构就有影响了。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210513102640556.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210513102640556.png' width=500 alt=''></img></div>
 
 前面不要加 `## 前序遍历（迭代法）`，直接写`前序遍历（迭代法）`就可以了。
 
@@ -233,11 +233,11 @@ Go语言代码
 
 甚至发现哪里有语病，也欢迎提交PR来修改，例如下面：就是把【下表】 纠正为【下标】
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210811144337.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210811144337.png' width=500 alt=''></img></div>
 
 不用非要写出牛逼的代码才能提交PR，只要发现 文章中有任何问题，或者错别字，都欢迎提交PR，成为contributor。
 
-<div align="center"><img src='https://file.kamacoder.com/pics/20210927113149.png' width=500 alt=''></img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/20210927113149.png' width=500 alt=''></img></div>
 
 ## 特别注意
 
