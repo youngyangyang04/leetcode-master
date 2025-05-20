@@ -69,14 +69,14 @@
 
 ## 前序
 
-* [「代码随想录」学习社区](https://programmercarl.com/other/kstar.html)
+* [做项目（多个C++、Java、Go、前端、测开项目）](https://programmercarl.com/other/kstar.html)
 
 
 * 编程语言
     * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
-    * [C++语言基础课](https://kamacoder.com/course.php?course_id=1)
-    * [Java语言基础课](https://kamacoder.com/course.php?course_id=2)
+    * [编程语言基础课](https://kamacoder.com/courseshop.php)
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
+    * [大厂算法笔试题](https://kamacoder.com/company.php)
 
 * 工具 
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
@@ -91,12 +91,12 @@
     * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
     
 * 算法性能分析
-    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/关于时间复杂度，你不知道的都在这里！.md)
-    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/On的算法居然超时了，此时的n究竟是多大？.md)
-    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/通过一道面试题目，讲一讲递归算法的时间复杂度！.md)
-    * [关于空间复杂度，可能有几个疑问？](./problems/前序/关于空间复杂度，可能有几个疑问？.md)
+    * [关于时间复杂度，你不知道的都在这里！](./problems/前序/时间复杂度.md)
+    * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/算法超时.md)
+    * [通过一道面试题目，讲一讲递归算法的时间复杂度！](./problems/前序/递归算法的时间复杂度.md)
+    * [关于空间复杂度，可能有几个疑问？](./problems/前序/空间复杂度.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
-    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/刷了这么多题，你了解自己代码的内存消耗么？.md)
+    * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/内存消耗.md)
 
 
 ## 数组 
@@ -106,8 +106,10 @@
 3. [数组：27.移除元素](./problems/0027.移除元素.md)
 4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
-6. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
-7. [数组：总结篇](./problems/数组总结篇.md)
+6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
+7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
+8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
+9. [数组：总结篇](./problems/数组总结篇.md)
 
 ## 链表
 
@@ -144,8 +146,8 @@
 4. ☑️ [字符串：151.翻转字符串里的单词](./problems/0151.翻转字符串里的单词.md)
 5. [字符串：右旋字符串](./problems/kama55.右旋字符串.md)
 6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
-8. [字符串：459.重复的子字符串](./problems/0459.重复的子字符串.md)
-9. [字符串：总结篇！](./problems/字符串总结.md)
+7. [字符串：459.重复的子字符串](./problems/0459.重复的子字符串.md)
+8. [字符串：总结篇！](./problems/字符串总结.md)
 
 ## 双指针法 
 
@@ -178,8 +180,9 @@
 
 ## 二叉树 
 
+
 题目分类大纲如下：           
-<img src='https://img-blog.csdnimg.cn/20210219190809451.png' width=600 alt='二叉树大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. ☑️ [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
@@ -221,7 +224,7 @@
 
 题目分类大纲如下：             
 
-<img src='https://img-blog.csdnimg.cn/20210219192050666.png' width=600 alt='回溯算法大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
 1. ☑️ [关于回溯算法，你该了解这些！](./problems/回溯算法理论基础.md)
 2. ☑️ ⭐️⭐️⭐️[回溯算法：77.组合](./problems/0077.组合.md)
@@ -251,7 +254,7 @@
 题目分类大纲如下：             
 
 
-<img src='https://code-thinking-1253855093.file.myqcloud.com/pics/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
 
 1. [关于贪心算法，你该了解这些！](./problems/贪心算法理论基础.md)
 2. ☑️ [贪心算法：455.分发饼干](./problems/0455.分发饼干.md)
@@ -282,7 +285,7 @@
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-总结大纲1.jpg' width=500> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-总结大纲1.jpg' width=500> </img></div>
 1. [关于动态规划，你该了解这些！](./problems/动态规划理论基础.md)
 2. ☑️ [动态规划：509.斐波那契数](./problems/0509.斐波那契数.md)
 3. ☑️ [动态规划：70.爬楼梯](./problems/0070.爬楼梯.md)
@@ -296,27 +299,28 @@
 
 背包问题系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-背包问题总结.png' width=500 alt='背包问题大纲'> </img></div>
 
 
-11. ☑️ 没做题 [动态规划：01背包理论基础](./problems/背包理论基础01背包-1.md)
-12. ☑️ 没做题 面试题不错 [动态规划：01背包理论基础（滚动数组）](./problems/背包理论基础01背包-2.md)
-13. ☑️ 没做题 [动态规划：416.分割等和子集](./problems/0416.分割等和子集.md)
-14. ☑️ [动态规划：1049.最后一块石头的重量II](./problems/1049.最后一块石头的重量II.md)
+11. [动态规划：01背包理论基础（二维dp数组）](./problems/背包理论基础01背包-1.md)
+12. [动态规划：01背包理论基础（一维dp数组）](./problems/背包理论基础01背包-2.md)
+13. [动态规划：416.分割等和子集](./problems/0416.分割等和子集.md)
+14. [动态规划：1049.最后一块石头的重量II](./problems/1049.最后一块石头的重量II.md)
 15. [本周小结！（动态规划系列三）](./problems/周总结/20210121动规周末总结.md)
-16. ☑️ [动态规划：494.目标和](./problems/0494.目标和.md)
-17. ☑️ [动态规划：474.一和零](./problems/0474.一和零.md) 
-18. [动态规划：完全背包总结篇](./problems/背包问题理论基础完全背包.md)
-19. ☑️ 没做题 [动态规划：518.零钱兑换II](./problems/0518.零钱兑换II.md)
-20. [本周小结！（动态规划系列四）](./problems/周总结/20210128动规周末总结.md)
-21. ☑️ 面试题不错 [动态规划：377.组合总和Ⅳ](./problems/0377.组合总和Ⅳ.md)
-22. [动态规划：70.爬楼梯（完全背包版本）](./problems/0070.爬楼梯完全背包版本.md)
-23. [动态规划：322.零钱兑换](./problems/0322.零钱兑换.md)
-24. [动态规划：279.完全平方数](./problems/0279.完全平方数.md)
-25. [本周小结！（动态规划系列五）](./problems/周总结/20210204动规周末总结.md)
-26. ☑️ [动态规划：139.单词拆分](./problems/0139.单词拆分.md)
-27. [动态规划：多重背包理论基础](./problems/背包问题理论基础多重背包.md)
-28. [背包问题总结篇](./problems/背包总结篇.md)
+16. [动态规划：494.目标和](./problems/0494.目标和.md)
+17. [动态规划：474.一和零](./problems/0474.一和零.md) 
+18. [动态规划：完全背包理论基础（二维dp数组）](./problems/背包问题理论基础完全背包.md)
+19. [动态规划：完全背包理论基础（一维dp数组）](./problems/背包问题完全背包一维.md)
+20. [动态规划：518.零钱兑换II](./problems/0518.零钱兑换II.md)
+21. [本周小结！（动态规划系列四）](./problems/周总结/20210128动规周末总结.md)
+22. [动态规划：377.组合总和Ⅳ](./problems/0377.组合总和Ⅳ.md)
+23. [动态规划：70.爬楼梯（完全背包版本）](./problems/0070.爬楼梯完全背包版本.md)
+24. [动态规划：322.零钱兑换](./problems/0322.零钱兑换.md)
+25. [动态规划：279.完全平方数](./problems/0279.完全平方数.md)
+26. [本周小结！（动态规划系列五）](./problems/周总结/20210204动规周末总结.md)
+27. [动态规划：139.单词拆分](./problems/0139.单词拆分.md)
+28. [动态规划：多重背包理论基础](./problems/背包问题理论基础多重背包.md)
+29. [背包问题总结篇](./problems/背包总结篇.md)
 
 打家劫舍系列：
 
@@ -326,7 +330,7 @@
 
 股票系列：
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/股票问题总结.jpg' width=500 alt='股票问题总结'> </img></div>
 
 
 32. ☑️ [动态规划：121.买卖股票的最佳时机](./problems/0121.买卖股票的最佳时机.md)
@@ -341,7 +345,7 @@
 
 子序列系列： 
 
-<img src='https://code-thinking.cdn.bcebos.com/pics/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
+<img src='https://file1.kamacoder.com/i/algo/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
 
 
 41. ☑️ [动态规划：300.最长递增子序列](./problems/0300.最长上升子序列.md)
@@ -371,48 +375,42 @@
 
 ## 图论 
 
-通知：开始更新图论内容，图论部分还没有其他语言版本，欢迎录友们提交PR，成为contributor
+**[图论正式发布](./problems/qita/tulunfabu.md)**
 
-### 深搜广搜  
+1. [图论：理论基础](./problems/kamacoder/图论理论基础.md)
+2. [图论：深度优先搜索理论基础](./problems/kamacoder/图论深搜理论基础.md)
+3. [图论：所有可达路径](./problems/kamacoder/0098.所有可达路径.md)
+4. [图论：广度优先搜索理论基础](./problems/kamacoder/图论广搜理论基础.md)
+5. [图论：岛屿数量.深搜版](./problems/kamacoder/0099.岛屿的数量深搜.md)
+6. [图论：岛屿数量.广搜版](./problems/kamacoder/0099.岛屿的数量广搜.md)
+7. [图论：岛屿的最大面积](./problems/kamacoder/0100.岛屿的最大面积.md)
+8. [图论：孤岛的总面积](./problems/kamacoder/0101.孤岛的总面积.md)
+9. [图论：沉没孤岛](./problems/kamacoder/0102.沉没孤岛.md)
+10. [图论：水流问题](./problems/kamacoder/0103.水流问题.md)
+11. [图论：建造最大岛屿](./problems/kamacoder/0104.建造最大岛屿.md)
+12. [图论：岛屿的周长](./problems/kamacoder/0106.岛屿的周长.md)
+13. [图论：字符串接龙](./problems/kamacoder/0110.字符串接龙.md)
+14. [图论：有向图的完全可达性](./problems/kamacoder/0105.有向图的完全可达性.md)
+15. [图论：并查集理论基础](./problems/kamacoder/图论并查集理论基础.md)
+16. [图论：寻找存在的路径](./problems/kamacoder/0107.寻找存在的路径.md)
+17. [图论：冗余连接](./problems/kamacoder/0108.冗余连接.md)
+18. [图论：冗余连接II](./problems/kamacoder/0109.冗余连接II.md)
+19. [图论：最小生成树之prim](./problems/kamacoder/0053.寻宝-prim.md)
+20. [图论：最小生成树之kruskal](./problems/kamacoder/0053.寻宝-Kruskal.md)
+21. [图论：拓扑排序](./problems/kamacoder/0117.软件构建.md)
+22. [图论：dijkstra（朴素版）](./problems/kamacoder/0047.参会dijkstra朴素.md)
+23. [图论：dijkstra（堆优化版）](./problems/kamacoder/0047.参会dijkstra堆.md)
+24. [图论：Bellman_ford 算法](./problems/kamacoder/0094.城市间货物运输I.md)
+25. [图论：Bellman_ford 队列优化算法（又名SPFA）](./problems/kamacoder/0094.城市间货物运输I-SPFA.md)
+26. [图论：Bellman_ford之判断负权回路](./problems/kamacoder/0095.城市间货物运输II.md)
+27. [图论：Bellman_ford之单源有限最短路](./problems/kamacoder/0096.城市间货物运输III.md)
+28. [图论：Floyd 算法](./problems/kamacoder/0097.小明逛公园.md)
+29. [图论：A * 算法](./problems/kamacoder/0126.骑士的攻击astar.md)
+30. [图论：最短路算法总结篇](./problems/kamacoder/最短路问题总结篇.md)
+31. [图论：图论总结篇](./problems/kamacoder/图论总结篇.md)
 
-* [图论：深度优先搜索理论基础](./problems/图论深搜理论基础.md)DFS
-* 	☑️144 二叉树前序遍历
-* 	☑️617 合并二叉树
-* [图论：797.所有可能的路径](./problems/0797.所有可能的路径.md)
-* [图论：广度优先搜索理论基础](./problems/图论广搜理论基础.md)
-* 	994 腐烂的橘子
-* 	127 单词接龙 hard
-* ☑️ [图论：200.岛屿数量.深搜版](./problems/0200.岛屿数量.深搜版.md)
-* ☑️ [图论：200.岛屿数量.广搜版](./problems/0200.岛屿数量.广搜版.md)
-* ☑️ [图论：695.岛屿的最大面积](./problems/0695.岛屿的最大面积.md) 深搜和广搜
-* [图论：1020.飞地的数量](./problems/1020.飞地的数量.md)
-* [图论：130.被围绕的区域](./problems/0130.被围绕的区域.md)
-* [图论：417.太平洋大西洋水流问题](./problems/0417.太平洋大西洋水流问题.md)
-* [图论：827.最大人工岛](./problems/0827.最大人工岛.md)
-* [图论：127. 单词接龙](./problems/0127.单词接龙.md)
-* [图论：841.钥匙和房间](./problems/0841.钥匙和房间.md)
-* [图论：463. 岛屿的周长](./problems/0463.岛屿的周长.md)
-* [图论：并查集理论基础](./problems/图论并查集理论基础.md)
-* [图论：1971. 寻找图中是否存在路径](./problems/1971.寻找图中是否存在路径.md)
-* [图论：684.冗余连接](./problems/0684.冗余连接.md)
-* [图论：685.冗余连接II](./problems/0685.冗余连接II.md)
 
 （持续更新中....）
-
-
-## 十大排序
-
-## 数论 
-
-## 高级数据结构经典题目 
-
-* 并查集 
-* 最小生成树 
-* 线段树 
-* 树状数组 
-* 字典树 
-
-## 海量数据处理
 
 # 补充题目
 
@@ -510,5 +508,5 @@
 
 添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
 
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/第二企业刷题活码.png" data-img="1" width="200" height="200"></img></div>
+<div align="center"><img src="https://file1.kamacoder.com/i/algo/shuati20250519.jpg" data-img="1" width="200" height="200"></img></div>
 

@@ -211,4 +211,4 @@ leetcode是专门针对算法练习的题库，leetcode现在也推出了中文�
 
 
 -----------------------
-<div align="center"><img src=https://code-thinking.cdn.bcebos.com/pics/01二维码.jpg width=450> </img></div>
+<div align="center"><img src='https://file1.kamacoder.com/i/algo/01二维码.jpg' width=450> </img></div>
