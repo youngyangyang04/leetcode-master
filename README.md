@@ -381,7 +381,7 @@
 2. [图论：深度优先搜索理论基础](./problems/kamacoder/图论深搜理论基础.md)
 3. [图论：所有可达路径](./problems/kamacoder/0098.所有可达路径.md)
 4. [图论：广度优先搜索理论基础](./problems/kamacoder/图论广搜理论基础.md)
-5. [图论：岛屿数量.深搜版](./problems/kamacoder/0099.岛屿的数量深搜.md)
+5. ☑️ [图论：岛屿数量.深搜版](./problems/kamacoder/0099.岛屿的数量深搜.md)
 6. [图论：岛屿数量.广搜版](./problems/kamacoder/0099.岛屿的数量广搜.md)
 7. [图论：岛屿的最大面积](./problems/kamacoder/0100.岛屿的最大面积.md)
 8. [图论：孤岛的总面积](./problems/kamacoder/0101.孤岛的总面积.md)
