@@ -7,6 +7,7 @@
 
 如果你是编程零基础，又想快速达到刷算法题（或者说刷代码随想录）所需编程语言的水平，推荐
 
+* [设计模式编程课](../ke/shejimoshi.md)
 * [C++基础课](../ke/cplus.md)
 * [Java基础课](../ke/java.md)
 * [Python基础课](../ke/python.md)
