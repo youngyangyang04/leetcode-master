@@ -5,7 +5,7 @@
   <a href="https://keetcoder.com/">🌍 海外英文版</a> ·
   <a href="https://github.com/youngyangyang04/keetcoder">🌍🇸 英文仓库</a> ·
   <a href="https://programmercarl.com/">🇨🇳 国内在线阅读</a> ·
-  <a href="https://gitee.com/programmercarl/leetcode-master">🇨 Gitee 同步</a>
+  <a href="https://gitee.com/programmercarl/leetcode-master">🇨  Gitee 同步</a>
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 
 ## 🔗 快速入口
 
-- 📘 **出版书籍**：[《代码随想录》](https://programmercarl.com/qita/publish.html)
+- 📘 **出版书籍**：[《代码随想录》](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASMJK1olXwABU1pUCU0SCl8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlVEBGPAIccE51dQ1cfjpVCnsHUjYbTkcbM244GFIXWQYAUV5VOHsXBF9adYOj696n5UKJosTCi_g4GmsVWwILVFhZCUIXBWgMK1wVVDZfHAIVXwAnM18LK1wVVBIEJh8PHE1lM18IK1glXQcCVVpYDU8RB2YUG18QXA4BSF5bDEIXBWsJHlgVXAEyVl9cDEInM7GFqyYQWHkHVBY1TUxoBmZtXT7L0LYTKClfCkMWEl8BGCMVCkFGBg01Dg5zSgcJUCxeD2AKNRwzChFKfGx3HQtCDnN3XV0aDB1KM2o4G10VXzY)
 - 🧾 **PDF 精讲**：[算法精讲 PDF](https://programmercarl.com/qita/algo_pdf.html)
-- 🎬 **算法公开课**：[B 站公开课](https://www.bilibili.com/video/BV1fA4y1o715)
+- 🎬 **算法公开课**：[170期硬核视频](https://www.bilibili.com/video/BV1fA4y1o715)
 - 🧠 **卡码笔记**：[最强八股文](https://notes.kamacoder.com/)
 - 👥 **学习社区**：项目 / 面经 / 学习方法 / 面试技巧 → 加入 [「代码随想录」知识星球](https://programmercarl.com/other/kstar.html)
 - 🤝 **参与贡献**：本仓讲解以 C++ 为主，含 Java / Python / Go / JS 多语言实现。想点亮头像 👉 [如何提交代码](https://www.programmercarl.com/qita/join.html) · [致谢贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)
@@ -243,8 +243,7 @@
 
 ## 👨‍💻 关于作者
 
-大家好，我是 **程序员 Carl**，哈工大师兄，先后在腾讯、百度从事后端与底层技术研发。
-著有《代码随想录》，长期输出 **高质量算法题解、编程实战项目与求职指导**。
+大家好，我是 **程序员 Carl**，哈工大师兄，先后在腾讯、百度从事后端与底层技术研发，著有《代码随想录》。
 
 ---
 
