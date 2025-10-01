@@ -1,0 +1,36 @@
+class Solution {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int first = 0; int last = matrix.length - 1;
+        int left = 0; int right = matrix[0].length - 1; 
+        
+        while (first < last){
+            int mid = first + (last - first) / 2;
+            if (matrix[mid][0] == target) return true;
+            else if (matrix[mid][0] > target){
+                last = mid - 1;
+            } else {
+                first = mid;
+            }
+            
+            if (last - first == 1){
+                if (matrix[last][0] <= target){
+                    first = last;
+                } else {
+                    break;
+                }
+            }
+        }
+        
+        while (left <= right){
+            int mid = left + (right - left) / 2;
+            if (matrix[first][mid] == target) return true;
+            else if (matrix[first][mid] > target){
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
+        }
+        
+        return false;
+    }
+}
