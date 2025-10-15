@@ -1,0 +1,57 @@
+class Solution {
+    public int strStr(String haystack, String needle) {
+        int m = haystack.length();
+        int n = needle.length();
+        if (n == 0) return 0;
+        int[] prefix = prefix_table(needle.toCharArray());
+       
+        // haystack[i]  length = m
+        // needle[j]    length = n
+        
+        
+        int i = 0;
+        int j = 0;
+        while (i < m) {
+            if (j == n-1 && haystack.charAt(i) == needle.charAt(j)){
+                return i - j;
+            }
+            
+            if (haystack.charAt(i) == needle.charAt(j)){
+                i++; j++;
+            } else {
+                j = prefix[j];
+                if (j == -1){
+                    i++; j++;
+                }
+            }
+        }
+        
+        return -1;
+    }
+    
+    private int[] prefix_table(char[] pattern){
+        int[] prefix = new int[pattern.length];
+        prefix[0] = -1;
+        if (pattern.length > 1)
+            prefix[1] = 0;
+        
+        int len = 0;
+        int i = 1;
+        
+        while (i < pattern.length - 1){
+            if (pattern[len] == pattern[i]){
+                prefix[i + 1] = ++len;
+                i++;
+            } else {
+                if (len > 0){
+                    len = prefix[len];
+                } else {
+                    prefix[i + 1] = len;
+                    i++;
+                }
+            }
+        }
+        
+        return prefix;
+    }
+}
