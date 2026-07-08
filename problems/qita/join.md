@@ -45,7 +45,7 @@
 
 <div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516215646937.png' width=500 alt=''></img></div>
 
-然后就是给pull request 添加备注，pull request是对本次commit的一个总结。如果一个pull request就一个commit，那么就和commit的备注保持一次。 然后点击 create pull request 就可以了
+然后就是给pull request 添加备注，pull request是对本次commit的一个总结。如果一个pull request就一个commit，那么就和commit的备注保持一致。 然后点击 create pull request 就可以了
 
 <div align="center"><img src='https://file1.kamacoder.com/i/algo/20210516220219891.png' width=500 alt=''></img></div>
 

@@ -1,73 +1,70 @@
 
-👉 推荐 [在线阅读](http://programmercarl.com/) (Github在国内访问经常不稳定)         
-👉 推荐 [Gitee同步](https://gitee.com/programmercarl/leetcode-master) 
-
-> 1. **介绍** ：本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法，[关注作者](#关于作者)
-> 2. **正式出版** ：[《代码随想录》](https://programmercarl.com/qita/publish.html) 。
-> 3. **PDF版本** ：[「代码随想录」算法精讲 PDF 版本](https://programmercarl.com/qita/algo_pdf.html) 。
-> 4. **算法公开课** ：[《代码随想录》算法视频公开课](https://www.bilibili.com/video/BV1fA4y1o715) 。
-> 5. **最强八股文** ：[代码随想录知识星球精华PDF](https://www.programmercarl.com/other/kstar_baguwen.html) 。
-> 6. **刷题顺序** ：README已经将刷题顺序排好了，按照顺序一道一道刷就可以。
-> 7. **学习社区** ：一起学习打卡/面试技巧/如何选择offer/大厂内推/职场规则/简历修改/技术分享/程序人生。欢迎加入[「代码随想录」知识星球](https://programmercarl.com/other/kstar.html) 。
-> 8. **提交代码** ：本项目统一使用C++语言进行讲解，但已经有Java、Python、Go、JavaScript等等多语言版本，感谢[这里的每一位贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)，如果你也想贡献代码点亮你的头像，[点击这里](https://www.programmercarl.com/qita/join.html)了解提交代码的方式。
-> 9. **转载须知** ：以下所有文章皆为我（[程序员Carl](https://github.com/youngyangyang04)）的原创。引用本项目文章请注明出处，发现恶意抄袭或搬运，会动用法律武器维护自己的权益。让我们一起维护一个良好的技术创作环境！
-
+# 代码随想录 · LeetCode-Master
 
 <p align="center">
-<a href="https://programmercarl.com/xunlian/xunlianying.html" target="_blank">
-	<img src="./pics/训练营.png" width="800"/>
+  <a href="https://keetcoder.com/">🌍 海外英文版</a> ·
+  <a href="https://github.com/youngyangyang04/keetcoder">🌍🇸 英文仓库</a> ·
+  <a href="https://programmercarl.com/">🇨🇳 国内在线阅读</a> ·
+  <a href="https://gitee.com/programmercarl/leetcode-master">🇨  Gitee 同步</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/youngyangyang04/leetcode-master/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/youngyangyang04/leetcode-master?style=flat&label=Stars"></a>
+  <a href="https://github.com/youngyangyang04/leetcode-master/network/members"><img alt="forks" src="https://img.shields.io/github/forks/youngyangyang04/leetcode-master?style=flat&label=Forks"></a>
+  <a href="https://github.com/youngyangyang04/leetcode-master/issues"><img alt="issues" src="https://img.shields.io/github/issues/youngyangyang04/leetcode-master?style=flat&label=Issues"></a>
+  <a href="https://github.com/youngyangyang04/leetcode-master/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/youngyangyang04/leetcode-master?style=flat&label=Contributors"></a>
+</p>
+
+> 一套 **循序渐进**、**少走弯路** 的刷题计划。
+> 题目已按知识脉络与难度 **排好顺序**，每题配 **图文题解 + 视频讲解**。
+> 适合从零到进阶、系统化掌握数据结构与算法。
+
+---
+
+## 🔗 快速入口
+
+- 📘 **出版书籍**：[《代码随想录》](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BASMJK1olXwABU1pUCU0SCl8IGV8WVAICU24ZVxNJXF9RXh5UHw0cSgYYXBcIWDoXSQVJQwYAUF1UDEsQHDZNRwYlVEBGPAIccE51dQ1cfjpVCnsHUjYbTkcbM244GFIXWQYAUV5VOHsXBF9adYOj696n5UKJosTCi_g4GmsVWwILVFhZCUIXBWgMK1wVVDZfHAIVXwAnM18LK1wVVBIEJh8PHE1lM18IK1glXQcCVVpYDU8RB2YUG18QXA4BSF5bDEIXBWsJHlgVXAEyVl9cDEInM7GFqyYQWHkHVBY1TUxoBmZtXT7L0LYTKClfCkMWEl8BGCMVCkFGBg01Dg5zSgcJUCxeD2AKNRwzChFKfGx3HQtCDnN3XV0aDB1KM2o4G10VXzY)
+- 🧾 **PDF 精讲**：[算法精讲 PDF](https://programmercarl.com/qita/algo_pdf.html)
+- 🎬 **算法公开课**：[170期硬核视频](https://www.bilibili.com/video/BV1fA4y1o715)
+- 🧠 **卡码笔记**：[最强八股文](https://notes.kamacoder.com/)
+- 👥 **学习社区**：项目 / 面经 / 学习方法 / 面试技巧 → 加入 [「代码随想录」知识星球](https://programmercarl.com/other/kstar.html)
+- 🤝 **参与贡献**：本仓讲解以 C++ 为主，含 Java / Python / Go / JS 多语言实现。想点亮头像 👉 [如何提交代码](https://www.programmercarl.com/qita/join.html) · [致谢贡献者](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)
+- 📢 **转载须知**：全部为原创，引用请标注来源；恶意搬运将依法维权。
+
+---
+
+## 📚 为什么选这套刷题路线？
+
+- **不再海选题目**：README 就是刷题路线，**按顺序刷**即可。
+- **全链路学习体验**：每个专题含「理论基础 → 实战题目 → 总结复盘」。
+- **经典高频必会**：题目均为**高频面试题**与**典型考点**。
+- **多语言覆盖**：除 C++ 主线，还有社区贡献的多语言实现。
+
+<p align="center">
+<a href="https://programmercarl.com/xunlian/damoxing.html" target="_blank">
+	<img src="./pics/damoxing.jpg" width="800" />
 </a>
 </p>
 
-# LeetCode 刷题攻略
+---
 
-## 刷题攻略的背景
+## 🚀 如何使用本攻略
 
-很多刚开始刷题的同学都有一个困惑：面对leetcode上近两千道题目，从何刷起。
+1. **从头开始**：按模块顺序「数组 → 链表 → 哈希表 → … → 图论」。
+2. **带着问题学**：每个模块先看「理论基础」，再刷对应题单。
+3. **及时复盘**：刷完一个模块，阅读「总结篇」，形成**知识闭环**。
+4. **语言不设限**：题解以 C++ 讲解为主，配多语言代码，思路通用。
 
-大家平时刷题感觉效率低，浪费的时间主要在三点：
+> **建议**：新手先刷「数组/链表/哈希/字符串」，再进阶到「二叉树/回溯/贪心/动态规划/图论」。
 
-* 找题
-* 找到了不应该现阶段做的题
-* 没有全套的优质题解可以参考
+---
 
-其实我之前在知乎上回答过这个问题，回答内容大概是按照如下类型来刷数组-> 链表-> 哈希表->字符串->栈与队列->树->回溯->贪心->动态规划->图论->高级数据结构，再从简单刷起，做了几个类型题目之后，再慢慢做中等题目、困难题目。
+## 🧭 刷题总目录（可折叠）
 
-但我能设身处地的感受到：即使有这样一个整体规划，对于一位初学者甚至算法老手寻找合适自己的题目也是很困难，时间成本很高，而且题目还不一定就是经典题目。
+> 已根据学习曲线优化排序；下方仅展示每章前若干题目，完整清单请展开查看。
 
-对于刷题，我们都是想用最短的时间**按照循序渐进的难度顺序把经典题目都做一遍**，这样效率才是最高的！
-
-所以我整理了leetcode刷题攻略：一个超级详细的刷题顺序，**每道题目都是我精心筛选，都是经典题目高频面试题**，大家只要按照这个顺序刷就可以了，**你没看错，README已经把题目顺序都排好了，文章顺序就是刷题顺序！挨个刷就可以，不用自己再去题海里选题了！**
-
-而且每道题目我都写了的详细题解（图文并茂，难点配有视频），力扣上我的题解都是排在对应题目的首页，质量是有目共睹的。
-
-**那么现在我把刷题顺序都整理出来，是为了帮助更多的学习算法的同学少走弯路！**
-
-如果你在刷leetcode，强烈建议先按照本攻略刷题顺序来刷，刷完了你会发现对整个知识体系有一个质的飞跃，不用在题海茫然的寻找方向。
-
-<div align="center"><strong>最新文章会首发在公众号「代码随想录」，扫码看看吧，你会发现相见恨晚！</strong></img></div>
-
-<div align="center"><img src='./pics/公众号二维码.jpg' width=150 alt=''> </img></div> 
-
-## 如何使用该刷题攻略
-
-按照先面的排列顺序，从数组开始刷起就可以了，顺序都安排好了，按顺序刷就好。
-
-在刷题攻略中，每个专题开始都有理论基础篇，并不像是教科书般的理论介绍，而是从实战中归纳需要的基础知识。每个专题结束都有总结篇，是这个专题的归纳总结。
-
-如果你是算法老手，这篇攻略也是复习的最佳资料，如果把每个系列对应的总结篇，快速过一遍，整个算法知识体系以及各种解法就重现脑海了。
-
-**这里每一篇题解，都是精品，值得仔细琢磨**。
-
-我在题目讲解中统一使用C++，但你会发现下面几乎每篇题解都配有其他语言版本，Java、Python、Go、JavaScript等等，正是这些[热心小伙们](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)贡献的代码，当然我也会严格把控代码质量。 
-
-**所以也欢迎大家参与进来，完善题解的各个语言版本，拥抱开源，让更多小伙伴们受益**。
-
-准备好了么，刷题攻略开始咯，go go go！
-
----------------------------------------------
-
-## 前序
+<details>
+<summary><b>前序 · 打基础</b></summary>
 
 * [做项目（多个C++、Java、Go、前端、测开项目）](https://programmercarl.com/other/kstar.html)
 
@@ -78,18 +75,18 @@
     * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
     * [大厂算法笔试题](https://kamacoder.com/company.php)
 
-* 工具 
+* 工具
     * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
     * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
     * [程序员应该用什么用具来写文档？](./problems/前序/程序员写文档工具.md)
 
-* 求职 
+* 求职
     * [ACM模式练习网站，卡码网](https://kamacoder.com/)
     * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员简历.md)
     * [【专业技能】应该这样写！](https://programmercarl.com/other/jianlizhuanye.html)
     * [【项目经历】应该这样写！](https://programmercarl.com/other/jianlixiangmu.html)
     * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
-    
+
 * 算法性能分析
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/时间复杂度.md)
     * [O(n)的算法居然超时了，此时的n究竟是多大？](./problems/前序/算法超时.md)
@@ -97,33 +94,41 @@
     * [关于空间复杂度，可能有几个疑问？](./problems/前序/空间复杂度.md)
     * [递归算法的时间与空间复杂度分析！](./problems/前序/递归算法的时间与空间复杂度分析.md)
     * [刷了这么多题，你了解自己代码的内存消耗么？](./problems/前序/内存消耗.md)
+</details>
+
+<details>
+<summary><b>数组</b></summary>
 
 
-## 数组 
-
-1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md) 
+1. [数组过于简单，但你该了解这些！](./problems/数组理论基础.md)
 2. [数组：704.二分查找](./problems/0704.二分查找.md)
 3. [数组：27.移除元素](./problems/0027.移除元素.md)
-4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)    
+4. [数组：977.有序数组的平方](./problems/0977.有序数组的平方.md)
 5. [数组：209.长度最小的子数组](./problems/0209.长度最小的子数组.md)
 6. [数组：区间和](./problems/kamacoder/0058.区间和.md)
 7. [数组：开发商购买土地](./problems/kamacoder/0044.开发商购买土地.md)
 8. [数组：59.螺旋矩阵II](./problems/0059.螺旋矩阵II.md)
 9. [数组：总结篇](./problems/数组总结篇.md)
+</details>
 
-## 链表
+<details>
+<summary><b>链表</b></summary>
 
 1. [关于链表，你该了解这些！](./problems/链表理论基础.md)
 2. [链表：203.移除链表元素](./problems/0203.移除链表元素.md)
 3. [链表：707.设计链表](./problems/0707.设计链表.md)
-4. [链表：206.翻转链表](./problems/0206.翻转链表.md) 
+4. [链表：206.翻转链表](./problems/0206.翻转链表.md)
 5. [链表：24.两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
 6. [链表：19.删除链表的倒数第 N 个结点](./problems/0019.删除链表的倒数第N个节点.md)
 7. [链表：链表相交](./problems/面试题02.07.链表相交.md)
 8. [链表：142.环形链表](./problems/0142.环形链表II.md)
 9. [链表：总结篇！](./problems/链表总结篇.md)
 
-## 哈希表
+</details>
+
+<details>
+<summary><b>哈希表</b></summary>
+
 
 1. [关于哈希表，你该了解这些！](./problems/哈希表理论基础.md)
 2. [哈希表：242.有效的字母异位词](./problems/0242.有效的字母异位词.md)
@@ -136,9 +141,11 @@
 9. [哈希表：15.三数之和](./problems/0015.三数之和.md)
 10. [双指针法：18.四数之和](./problems/0018.四数之和.md)
 11. [哈希表：总结篇！](./problems/哈希表总结.md)
+</details>
 
+<details>
+<summary><b>字符串</b></summary>
 
-## 字符串
 
 1. [字符串：344.反转字符串](./problems/0344.反转字符串.md)
 2. [字符串：541.反转字符串II](./problems/0541.反转字符串II.md)
@@ -148,8 +155,10 @@
 6. [帮你把KMP算法学个通透](./problems/0028.实现strStr.md)
 8. [字符串：459.重复的子字符串](./problems/0459.重复的子字符串.md)
 9. [字符串：总结篇！](./problems/字符串总结.md)
+</details>
 
-## 双指针法 
+<details>
+<summary><b>双指针法</b></summary>
 
 双指针法基本都是应用在数组，字符串与链表的题目上
 
@@ -164,8 +173,10 @@
 9. [双指针：15.三数之和](./problems/0015.三数之和.md)
 10. [双指针：18.四数之和](./problems/0018.四数之和.md)
 11. [双指针：总结篇！](./problems/双指针总结.md)
+</details>
 
-## 栈与队列
+<details>
+<summary><b>栈与队列</b></summary>
 
 1. [栈与队列：理论基础](./problems/栈与队列理论基础.md)
 2. [栈与队列：232.用栈实现队列](./problems/0232.用栈实现队列.md)
@@ -176,19 +187,21 @@
 7. [栈与队列：239.滑动窗口最大值](./problems/0239.滑动窗口最大值.md)
 8. [栈与队列：347.前K个高频元素](./problems/0347.前K个高频元素.md)
 9. [栈与队列：总结篇！](./problems/栈与队列总结.md)
+</details>
 
-## 二叉树 
+<details>
+<summary><b>二叉树</b></summary>
 
 
-题目分类大纲如下：           
+题目分类大纲如下：
 <img src='https://file1.kamacoder.com/i/algo/20240424172231.png' width=600 alt='二叉树大纲'> </img></div>
 
 1. [关于二叉树，你该了解这些！](./problems/二叉树理论基础.md)
 2. [二叉树：二叉树的递归遍历](./problems/二叉树的递归遍历.md)
 3. [二叉树：二叉树的迭代遍历](./problems/二叉树的迭代遍历.md)
 4. [二叉树：二叉树的统一迭代法](./problems/二叉树的统一迭代法.md)
-5. [二叉树：二叉树的层序遍历](./problems/0102.二叉树的层序遍历.md) 
-6. [二叉树：226.翻转二叉树](./problems/0226.翻转二叉树.md) 
+5. [二叉树：二叉树的层序遍历](./problems/0102.二叉树的层序遍历.md)
+6. [二叉树：226.翻转二叉树](./problems/0226.翻转二叉树.md)
 7. [本周小结！（二叉树）](./problems/周总结/20200927二叉树周末总结.md)
 8. [二叉树：101.对称二叉树](./problems/0101.对称二叉树.md)
 9. [二叉树：104.二叉树的最大深度](./problems/0104.二叉树的最大深度.md)
@@ -202,7 +215,7 @@
 18. [二叉树：112.路径总和](./problems/0112.路径总和.md)
 19. [二叉树：106.构造二叉树](./problems/0106.从中序与后序遍历序列构造二叉树.md)
 20. [二叉树：654.最大二叉树](./problems/0654.最大二叉树.md)
-21. [本周小结！（二叉树）](./problems/周总结/20201010二叉树周末总结.md) 
+21. [本周小结！（二叉树）](./problems/周总结/20201010二叉树周末总结.md)
 22. [二叉树：617.合并两个二叉树](./problems/0617.合并二叉树.md)
 23. [二叉树：700.二叉搜索树登场！](./problems/0700.二叉搜索树中的搜索.md)
 24. [二叉树：98.验证二叉搜索树](./problems/0098.验证二叉搜索树.md)
@@ -217,10 +230,11 @@
 33. [二叉树：108.将有序数组转换为二叉搜索树](./problems/0108.将有序数组转换为二叉搜索树.md)
 34. [二叉树：538.把二叉搜索树转换为累加树](./problems/0538.把二叉搜索树转换为累加树.md)
 35. [二叉树：总结篇！（需要掌握的二叉树技能都在这里了）](./problems/二叉树总结篇.md)
+</details>
 
-## 回溯算法 
+<details>
+<summary><b>回溯算法</b></summary>
 
-题目分类大纲如下：             
 
 <img src='https://file1.kamacoder.com/i/algo/20240424172311.png' width=600 alt='回溯算法大纲'> </img></div>
 
@@ -246,10 +260,10 @@
 20. [回溯算法：51.N皇后](./problems/0051.N皇后.md)
 21. [回溯算法：37.解数独](./problems/0037.解数独.md)
 22. [回溯算法总结篇](./problems/回溯总结.md)
+</details>
 
-## 贪心算法 
-
-题目分类大纲如下：             
+<details>
+<summary><b>贪心算法</b></summary>
 
 
 <img src='https://file1.kamacoder.com/i/algo/20210917104315.png' width=600 alt='贪心算法大纲'> </img></div>
@@ -278,8 +292,10 @@
 22. [贪心算法：738.单调递增的数字](./problems/0738.单调递增的数字.md)
 23. [贪心算法：968.监控二叉树](./problems/0968.监控二叉树.md)
 24. [贪心算法：总结篇！（每逢总结必经典）](./problems/贪心算法总结篇.md)
+</details>
 
-## 动态规划
+<details>
+<summary><b>动态规划</b></summary>
 
 动态规划专题已经开始啦，来不及解释了，小伙伴们上车别掉队！
 
@@ -306,7 +322,7 @@
 14. [动态规划：1049.最后一块石头的重量II](./problems/1049.最后一块石头的重量II.md)
 15. [本周小结！（动态规划系列三）](./problems/周总结/20210121动规周末总结.md)
 16. [动态规划：494.目标和](./problems/0494.目标和.md)
-17. [动态规划：474.一和零](./problems/0474.一和零.md) 
+17. [动态规划：474.一和零](./problems/0474.一和零.md)
 18. [动态规划：完全背包理论基础（二维dp数组）](./problems/背包问题理论基础完全背包.md)
 19. [动态规划：完全背包理论基础（一维dp数组）](./problems/背包问题完全背包一维.md)
 20. [动态规划：518.零钱兑换II](./problems/0518.零钱兑换II.md)
@@ -341,7 +357,7 @@
 39. [动态规划：714.买卖股票的最佳时机含手续费](./problems/0714.买卖股票的最佳时机含手续费（动态规划）.md)
 40. [动态规划：股票系列总结篇](./problems/动态规划-股票问题总结篇.md)
 
-子序列系列： 
+子序列系列：
 
 <img src='https://file1.kamacoder.com/i/algo/动态规划-子序列问题总结.jpg' width=500 alt=''> </img></div>
 
@@ -360,18 +376,21 @@
 52. [动态规划：647.回文子串](./problems/0647.回文子串.md)
 53. [动态规划：516.最长回文子序列](./problems/0516.最长回文子序列.md)
 54. [动态规划总结篇](./problems/动态规划总结篇.md)
+</details>
 
+<details>
+<summary><b>单调栈</b></summary>
 
-## 单调栈 
 
 1. [单调栈：739.每日温度](./problems/0739.每日温度.md)
 2. [单调栈：496.下一个更大元素I](./problems/0496.下一个更大元素I.md)
 3. [单调栈：503.下一个更大元素II](./problems/0503.下一个更大元素II.md)
 4. [单调栈：42.接雨水](./problems/0042.接雨水.md)
 5. [单调栈：84.柱状图中最大的矩形](./problems/0084.柱状图中最大的矩形.md)
+</details>
 
-
-## 图论 
+<details>
+<summary><b>图论</b></summary>
 
 **[图论正式发布](./problems/qita/tulunfabu.md)**
 
@@ -407,101 +426,53 @@
 30. [图论：最短路算法总结篇](./problems/kamacoder/最短路问题总结篇.md)
 31. [图论：图论总结篇](./problems/kamacoder/图论总结篇.md)
 
+</details>
 
-（持续更新中....）
+---
 
-# 补充题目
+## 🧩 算法模板
 
-以上题目是重中之重，大家至少要刷两遍以上才能彻底理解，如果熟练以上题目之后还在找其他题目练手，可以再刷以下题目：
+- [各类基础算法模板（持续更新）](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
 
-这些题目很不错，但有的题目是和刷题攻略类似的，有的题解后面还会适当补充，所以我还没有将其纳入到刷题攻略。一些题解等日后我完善一下，再纳入到刷题攻略。
+---
 
+## 🙌 参与贡献
 
-## 数组
+- 欢迎提交 **题解修订 / 多语言实现 / 文档勘误 / 新增练习**
+- 请先阅读：[如何提交与协作](https://www.programmercarl.com/qita/join.html)
+- 致谢所有贡献者 → [Contributors](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)
 
-* [1365.有多少小于当前数字的数字](./problems/1365.有多少小于当前数字的数字.md)
-* [941.有效的山脉数组](./problems/0941.有效的山脉数组.md)  （双指针）
-* [1207.独一无二的出现次数](./problems/1207.独一无二的出现次数.md) 数组在哈希法中的经典应用
-* [283.移动零](./problems/0283.移动零.md) 【数组】【双指针】
-* [189.旋转数组](./problems/0189.旋转数组.md)
-* [724.寻找数组的中心索引](./problems/0724.寻找数组的中心索引.md)
-* [34.在排序数组中查找元素的第一个和最后一个位置](./problems/0034.在排序数组中查找元素的第一个和最后一个位置.md) （二分法）
-* [922.按奇偶排序数组II](./problems/0922.按奇偶排序数组II.md) 
-* [35.搜索插入位置](./problems/0035.搜索插入位置.md)
+---
 
-## 链表
-
-* [24.两两交换链表中的节点](./problems/0024.两两交换链表中的节点.md)
-* [234.回文链表](./problems/0234.回文链表.md)
-* [143.重排链表](./problems/0143.重排链表.md)【数组】【双向队列】【直接操作链表】
-* [141.环形链表](./problems/0141.环形链表.md)
-* [160.相交链表](./problems/面试题02.07.链表相交.md)
-
-## 哈希表
-* [205.同构字符串](./problems/0205.同构字符串.md):【哈希表的应用】
-
-## 字符串
-* [925.长按键入](./problems/0925.长按键入.md) 模拟匹配
-* [0844.比较含退格的字符串](./problems/0844.比较含退格的字符串.md)【栈模拟】【空间更优的双指针】
-
-## 二叉树
-* [129.求根到叶子节点数字之和](./problems/0129.求根到叶子节点数字之和.md)
-* [1382.将二叉搜索树变平衡](./problems/1382.将二叉搜索树变平衡.md) 构造平衡二叉搜索树
-* [100.相同的树](./problems/0100.相同的树.md) 同101.对称二叉树 一个思路
-* [116.填充每个节点的下一个右侧节点指针](./problems/0116.填充每个节点的下一个右侧节点指针.md)
-
-## 回溯算法 
-
-* [52.N皇后II](./problems/0052.N皇后II.md)
-  
-
-## 贪心
-* [649.Dota2参议院](./problems/0649.Dota2参议院.md) 有难度
-* [1221.分割平衡字符](./problems/1221.分割平衡字符串.md) 简单贪心
-
-## 动态规划 
-* [5.最长回文子串](./problems/0005.最长回文子串.md) 和[647.回文子串](https://mp.weixin.qq.com/s/2WetyP6IYQ6VotegepVpEw) 差不多是一样的
-* [132.分割回文串II](./problems/0132.分割回文串II.md) 与647.回文子串和 5.最长回文子串 很像
-* [673.最长递增子序列的个数](./problems/0673.最长递增子序列的个数.md) 
-
-## 图论
-* [463.岛屿的周长](./problems/0463.岛屿的周长.md) （模拟）
-* [841.钥匙和房间](./problems/0841.钥匙和房间.md) 【有向图】dfs，bfs都可以
-* [127.单词接龙](./problems/0127.单词接龙.md) 广搜
-
-## 并查集 
-* [684.冗余连接](./problems/0684.冗余连接.md) 【并查集基础题目】
-* [685.冗余连接II](./problems/0685.冗余连接II.md)【并查集的应用】
-
-## 模拟
-* [657.机器人能否返回原点](./problems/0657.机器人能否返回原点.md) 
-* [31.下一个排列](./problems/0031.下一个排列.md) 
-
-## 位运算
-* [1356.根据数字二进制下1的数目排序](./problems/1356.根据数字二进制下1的数目排序.md) 
-
-
-# 算法模板 
-
-[各类基础算法模板](https://github.com/youngyangyang04/leetcode/blob/master/problems/算法模板.md)
-
-# 贡献者 
-
-[点此这里](https://github.com/youngyangyang04/leetcode-master/graphs/contributors)查看LeetCode-Master的所有贡献者。感谢他们补充了LeetCode-Master的其他语言版本，让更多的读者受益于此项目。
-
-# Star 趋势
+## ⭐ Star 趋势
 
 [![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
 
-# 关于作者
+---
 
-大家好，我是程序员Carl，哈工大师兄，《代码随想录》作者，先后在腾讯和百度从事后端技术底层技术研发。
+## 👨‍💻 关于作者
 
-# PDF下载 
+大家好，我是 **程序员 Carl**，哈工大师兄，先后在腾讯、百度从事后端与底层技术研发，著有《代码随想录》。
 
-添加如下企业微信，会自动发送给大家PDF版本，顺便可以选择是否加入刷题群。 
+---
 
-添加微信记得备注，如果是已工作，备注：姓名-城市-岗位。如果学生，备注：姓名-学校-年级。**备注没有自我介绍不通过哦**
+## 📥 PDF 下载与学习群
 
-<div align="center"><img src="https://file1.kamacoder.com/i/algo/shuati20250519.jpg" data-img="1" width="200" height="200"></img></div>
+添加下方企业微信，自动获取 **PDF 精讲**，并可选择加入刷题群：
+> 备注格式
+> - **在职**：姓名-城市-岗位
+> - **学生**：姓名-学校-年级（**无备注不通过**）
+
+<p align="center">
+  <img src="https://file1.kamacoder.com/i/algo/shuati20250519.jpg" width="200" height="200" />
+</p>
+
+---
+
+## 📜 版权说明
+
+- 本仓库所有内容均为原创，引用需 **注明出处与链接**。
+- 严禁恶意搬运与洗稿，侵权必究。
+
+---
 
