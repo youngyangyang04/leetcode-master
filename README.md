@@ -64,28 +64,12 @@
 > 已根据学习曲线优化排序；下方仅展示每章前若干题目，完整清单请展开查看。
 
 <details>
-<summary><b>前序 · 打基础</b></summary>
+<summary><b>前序</b></summary>
 
-* [做项目（多个C++、Java、Go、前端、测开项目）](https://programmercarl.com/other/kstar.html)
-
-
-* 编程语言
-    * [C++面试&C++学习指南知识点整理](https://github.com/youngyangyang04/TechCPP)
-    * [编程语言基础课](https://kamacoder.com/courseshop.php)
-    * [23种设计模式](https://github.com/youngyangyang04/kama-DesignPattern)
-    * [大厂算法笔试题](https://kamacoder.com/company.php)
 
 * 工具
-    * [一站式vim配置](https://github.com/youngyangyang04/PowerVim)
-    * [保姆级Git入门教程，万字详解](https://mp.weixin.qq.com/s/Q_O0ey4C9tryPZaZeJocbA)
-    * [程序员应该用什么用具来写文档？](./problems/前序/程序员写文档工具.md)
-
-* 求职
-    * [ACM模式练习网站，卡码网](https://kamacoder.com/)
-    * [程序员的简历应该这么写！！（附简历模板）](./problems/前序/程序员简历.md)
-    * [【专业技能】应该这样写！](https://programmercarl.com/other/jianlizhuanye.html)
-    * [【项目经历】应该这样写！](https://programmercarl.com/other/jianlixiangmu.html)
-    * [BAT级别技术面试流程和注意事项都在这里了](./problems/前序/BAT级别技术面试流程和注意事项都在这里了.md)
+    * [国内支付宝、微信给ChatGPT、Claude充值](https://github.com/youngyangyang04/gpt-daichong) 
+    * [Claude Code Opus 5、GPT5.6 API 接入](https://github.com/youngyangyang04/claude-code-ChatGPT-api)
 
 * 算法性能分析
     * [关于时间复杂度，你不知道的都在这里！](./problems/前序/时间复杂度.md)
