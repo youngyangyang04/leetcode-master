@@ -67,7 +67,7 @@
 <summary><b>前序</b></summary>
 
 
-* 工具
+* AI工具
     * [国内支付宝、微信给ChatGPT、Claude充值](https://github.com/youngyangyang04/gpt-daichong) 
     * [Claude Code Opus 5、GPT5.6 API 接入](https://github.com/youngyangyang04/claude-code-ChatGPT-api)
 
