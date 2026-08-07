@@ -430,7 +430,7 @@
 
 ## ⭐ Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.com/#youngyangyang04/leetcode-master&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=youngyangyang04/leetcode-master&type=Date)](https://star-history.dera.page/#youngyangyang04/leetcode-master&Date)
 
 ---
 
