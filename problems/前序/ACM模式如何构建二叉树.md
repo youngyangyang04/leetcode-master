@@ -95,7 +95,7 @@ TreeNode* construct_binary_tree(const vector<int>& vec) {
 
 所以，如果大家对ACM模式不够了解，一定要多去练习！
 
-那么以上的代码，我们根据数组构造二叉树，接来下我们在 把 这个二叉树打印出来，看看是不是 我们输入的二叉树结构，这里就用到了层序遍历，我们在[二叉树：层序遍历登场！](https://mp.weixin.qq.com/s/4-bDKi7SdwfBGRm9FYduiA)中讲过。
+那么以上的代码，我们根据数组构造二叉树，接下来我们再把 这个二叉树打印出来，看看是不是 我们输入的二叉树结构，这里就用到了层序遍历，我们在[二叉树：层序遍历登场！](https://mp.weixin.qq.com/s/4-bDKi7SdwfBGRm9FYduiA)中讲过。
 
 
 完整测试代码如下：
@@ -182,7 +182,7 @@ int main() {
 
 用-1 表示null为了方便举例，如果非要和 力扣输入一样一样的，就是简单的字符串处理，把null 替换为 -1  就行了。
 
-在来看，测试代码输出的效果：
+再来看，测试代码输出的效果：
 
 ![](https://file1.kamacoder.com/i/algo/20210914230045.png)
 
